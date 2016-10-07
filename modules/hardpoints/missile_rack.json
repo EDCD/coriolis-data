@@ -1,5 +1,6 @@
 {
   "mr": [
+    { "id": "2b", "edID": 0, "eddbID": 0, "grp": "mr", "name": "Rocket Propelled FSD Disruptor", "class": 2, "rating": "B", "cost": 190227, "mass": 4, "power": 1.2, "mount": "F", "type": "?", "damage": 50, "armourpen": "?", "rof": 0.5, "dps": 0, "thermload": 0, "clip": 12, "ammo": 48, "mjdps": 0, "ssdam": 0, "missile": "D", "ammocost": 0 },
     { "id": "2f", "edID": 128666725, "eddbID": 1327, "grp": "mr", "class": 2, "rating": "B", "cost": 240400, "mass": 4, "power": 1.2, "mount": "F", "type": "E", "damage": 7, "armourpen": "F", "rof": 2.5, "dps": 8, "thermload": 3, "clip": 12, "ammo": 24, "mjdps": 1.72, "ssdam" : 3.87, "missile": "D", "ammocost": 500 },
     { "id": "2g", "edID": 128049493, "eddbID": 879, "grp": "mr", "class": 2, "rating": "B", "cost": 512400, "mass": 4, "power": 1.2, "mount": "F", "type": "E", "damage": 6, "armourpen": "F", "rof": 0.3, "dps": 3, "thermload": 3, "clip": 6, "ammo": 18, "mjdps": 0.57, "ssdam" : 2.58, "missile": "S", "ammocost": 666.67 },
     { "id": "2d", "edID": 128666724, "eddbID": 1326, "grp": "mr", "class": 1, "rating": "B", "cost": 32180, "mass": 2, "power": 0.4, "mount": "F", "type": "E", "damage": 7, "armourpen": "F", "rof": 2.5, "dps": 8, "thermload": 3, "clip": 8, "ammo": 16, "mjdps": 1.63, "ssdam" : 3.87, "missile": "D", "ammocost": 500 },
