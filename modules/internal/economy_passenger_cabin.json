@@ -1,0 +1,9 @@
+{
+  "pce": [
+    { "id": "ma", "edID": -1, "eddbID": -1, "grp": "pce", "class": 2, "rating": "E", "cost": -1, "mass": 2.5, "passengers": 2 },
+    { "id": "mb", "edID": -1, "eddbID": -1, "grp": "pce", "class": 3, "rating": "E", "cost": -1, "mass": 5, "passengers": 4 },
+    { "id": "mc", "edID": -1, "eddbID": -1, "grp": "pce", "class": 4, "rating": "E", "cost": -1, "mass": 10, "passengers": 8 },
+    { "id": "md", "edID": -1, "eddbID": -1, "grp": "pce", "class": 5, "rating": "E", "cost": -1, "mass": 20, "passengers": 16 },
+    { "id": "me", "edID": -1, "eddbID": -1, "grp": "pce", "class": 6, "rating": "E", "cost": -1, "mass": 40, "passengers": 32 }
+  ]
+}

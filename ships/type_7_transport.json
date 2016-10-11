@@ -7,12 +7,12 @@
       "manufacturer": "Lakon",
       "class": 3,
       "hullCost": 16881510,
-      "speed": 180,
-      "boost": 300,
+      "speed": 181,
+      "boost": 301,
       "boostEnergy": 11,
       "agility": 2,
-      "baseShieldStrength": 120,
-      "baseArmour": 216,
+      "baseShieldStrength": 78,
+      "baseArmour": 306,
       "hullMass": 420,
       "masslock": 10,
       "pipSpeed": 0.16625
@@ -28,12 +28,12 @@
     "slots": {
       "standard": [4, 5, 5, 4, 3, 3, 5],
       "hardpoints": [1, 1, 1, 1, 0, 0, 0, 0],
-      "internal": [6, 6, 5, 5, 4, 4, 2, 2]
+      "internal": [6, 6, 6, 5, 5, 5, 3, 3]
     },
     "defaults": {
       "standard": ["4E", "5E", "5E", "4E", "3E", "3E", "5C"],
       "hardpoints": [17, 17, 0, 0, 0, 0, 0, 0],
-      "internal": ["04", "04", "03", "03", "02", "49", 0, "2h"]
+      "internal": ["04", "04", "04", "03", "03", "49", 0, "2h"]
     }
   }
 }
