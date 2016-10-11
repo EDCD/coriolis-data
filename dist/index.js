@@ -260,7 +260,8 @@ module.exports = {
         baseArmour: 504,
         hullMass: 1100,
         masslock: -1,
-        pipSpeed: -1
+        pipSpeed: -1,
+        luxuryCabins: true
       },
       retailCost: -1,
       bulkheads: [ {
@@ -1337,7 +1338,8 @@ module.exports = {
         baseArmour: 396,
         hullMass: 580,
         masslock: 13,
-        pipSpeed: .08375
+        pipSpeed: .08375,
+        luxuryCabins: true
       },
       retailCost: 48539890,
       bulkheads: [ {
@@ -9860,11 +9862,7 @@ module.exports = {
         rating: "B",
         cost: -1,
         mass: 20,
-        passengers: 4,
-        eligible: {
-          beluga: 1,
-          orca: 1
-        }
+        passengers: 4
       }, {
         id: "mn",
         edID: -1,
@@ -9874,11 +9872,7 @@ module.exports = {
         rating: "B",
         cost: -1,
         mass: 40,
-        passengers: 8,
-        eligible: {
-          beluga: 1,
-          orca: 1
-        }
+        passengers: 8
       } ],
       rf: [ {
         id: "23",

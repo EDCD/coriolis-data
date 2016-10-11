@@ -15,7 +15,8 @@
       "baseArmour": 504,
       "hullMass": 1100,
       "masslock": -1,
-      "pipSpeed": -1
+      "pipSpeed": -1,
+      "luxuryCabins": true
     },
     "retailCost": -1,
     "bulkheads": [
