@@ -3,6 +3,7 @@ module.exports = {
   anaconda: require('./anaconda').anaconda,
   asp: require('./asp').asp,
   asp_scout: require('./asp_scout').asp_scout,
+  beluga: require('./beluga').beluga,
   cobra_mk_iii: require('./cobra_mk_iii').cobra_mk_iii,
   cobra_mk_iv: require('./cobra_mk_iv').cobra_mk_iv,
   diamondback_explorer: require('./diamondback_explorer').diamondback_explorer,

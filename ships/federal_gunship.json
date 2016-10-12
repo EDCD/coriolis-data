@@ -7,15 +7,16 @@
       "manufacturer": "Core Dynamics",
       "class": 2,
       "hullCost": 34774790,
-      "speed": 170,
-      "boost": 280,
+      "speed": 171,
+      "boost": 282,
       "boostEnergy": 21,
       "agility": 2,
-      "baseShieldStrength": 250,
+      "baseShieldStrength": 186,
       "baseArmour": 630,
       "hullMass": 580,
       "masslock": 14,
-      "pipSpeed": 0.1025
+      "pipSpeed": 0.1025,
+      "fighterHangars": true
     },
     "retailCost": 35814210,
     "bulkheads": [

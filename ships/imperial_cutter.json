@@ -6,15 +6,16 @@
       "manufacturer": "Gutamaya",
       "class": 3,
       "hullCost": 199926890,
-      "speed": 200,
-      "boost": 320,
+      "speed": 202,
+      "boost": 323,
       "boostEnergy": 24,
       "agility": 2,
-      "baseShieldStrength": 605,
+      "baseShieldStrength": 703,
       "baseArmour": 720,
       "hullMass": 1100,
       "masslock": 27,
-      "pipSpeed": 0.05
+      "pipSpeed": 0.05,
+       "fighterHangars": true
     },
     "retailCost": 208969450,
     "bulkheads": [
