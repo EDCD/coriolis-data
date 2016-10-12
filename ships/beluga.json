@@ -9,14 +9,15 @@
       "hullCost": -1,
       "speed": 195,
       "boost": 273,
-      "boostEnergy": -1,
-      "agility": -1,
+      "boostEnergy": 20,
+      "agility": 2,
       "baseShieldStrength": 92,
       "baseArmour": 504,
       "hullMass": 1100,
-      "masslock": -1,
+      "masslock": 18,
       "pipSpeed": -1,
-      "luxuryCabins": true
+      "luxuryCabins": true,
+      "fighterHangars": true
     },
     "retailCost": -1,
     "bulkheads": [

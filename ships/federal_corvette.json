@@ -15,7 +15,8 @@
       "baseArmour": 666,
       "hullMass": 900,
       "masslock": 24,
-      "pipSpeed": 0.125
+      "pipSpeed": 0.125,
+      "fighterHangars": true
     },
     "retailCost": 187969450,
     "bulkheads": [

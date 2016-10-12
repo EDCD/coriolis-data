@@ -77,7 +77,8 @@ module.exports = {
         baseArmour: 945,
         hullMass: 400,
         masslock: 23,
-        pipSpeed: .13875
+        pipSpeed: .13875,
+        fighterHangars: true
       },
       retailCost: 146969450,
       bulkheads: [ {
@@ -254,14 +255,15 @@ module.exports = {
         hullCost: -1,
         speed: 195,
         boost: 273,
-        boostEnergy: -1,
-        agility: -1,
+        boostEnergy: 20,
+        agility: 2,
         baseShieldStrength: 92,
         baseArmour: 504,
         hullMass: 1100,
-        masslock: -1,
+        masslock: 18,
         pipSpeed: -1,
-        luxuryCabins: true
+        luxuryCabins: true,
+        fighterHangars: true
       },
       retailCost: -1,
       bulkheads: [ {
@@ -728,7 +730,8 @@ module.exports = {
         baseArmour: 666,
         hullMass: 900,
         masslock: 24,
-        pipSpeed: .125
+        pipSpeed: .125,
+        fighterHangars: true
       },
       retailCost: 187969450,
       bulkheads: [ {
@@ -850,7 +853,8 @@ module.exports = {
         baseArmour: 630,
         hullMass: 580,
         masslock: 14,
-        pipSpeed: .1025
+        pipSpeed: .1025,
+        fighterHangars: true
       },
       retailCost: 35814210,
       bulkheads: [ {
@@ -1155,7 +1159,8 @@ module.exports = {
         baseArmour: 720,
         hullMass: 1100,
         masslock: 27,
-        pipSpeed: .05
+        pipSpeed: .05,
+        fighterHangars: true
       },
       retailCost: 208969450,
       bulkheads: [ {
@@ -1277,7 +1282,8 @@ module.exports = {
         baseArmour: 243,
         hullMass: 180,
         masslock: 8,
-        pipSpeed: .1375
+        pipSpeed: .1375,
+        fighterHangars: true
       },
       retailCost: 3126150,
       bulkheads: [ {
@@ -1664,7 +1670,8 @@ module.exports = {
         baseArmour: 432,
         hullMass: 1e3,
         masslock: 16,
-        pipSpeed: .17375
+        pipSpeed: .17375,
+        fighterHangars: true
       },
       retailCost: 76555840,
       bulkheads: [ {
@@ -7986,6 +7993,43 @@ module.exports = {
         rating: "E",
         cost: 4500,
         power: .39
+      } ],
+      fh: [ {
+        id: "fh",
+        edID: -1,
+        eddbID: -1,
+        grp: "fh",
+        class: 7,
+        rating: "D",
+        cost: -1,
+        power: .35,
+        mass: 60,
+        bays: 2,
+        rebuildsperbay: 15
+      }, {
+        id: "fm",
+        edID: -1,
+        eddbID: -1,
+        grp: "fh",
+        class: 6,
+        rating: "D",
+        cost: -1,
+        power: .35,
+        mass: 40,
+        bays: 2,
+        rebuildsperbay: 8
+      }, {
+        id: "fr",
+        edID: -1,
+        eddbID: -1,
+        grp: "fh",
+        class: 5,
+        rating: "D",
+        cost: -1,
+        power: .25,
+        mass: 20,
+        bays: 1,
+        rebuildsperbay: 6
       } ],
       fi: [ {
         id: "6p",

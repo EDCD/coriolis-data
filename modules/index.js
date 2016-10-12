@@ -34,6 +34,7 @@ module.exports = {
     cr: require('./internal/cargo_rack').cr,
     cc: require('./internal/collector_limpet_controllers').cc,
     dc: require('./internal/docking_computer').dc,
+    fh: require('./internal/fighter_hangar').fh,
     fi: require('./internal/frame_shift_drive_interdictor').fi,
     fs: require('./internal/fuel_scoop').fs,
     ft: require('./internal/internal_fuel_tank').ft,
