@@ -1,0 +1,8 @@
+{
+  "pci": [
+    { "id": "mf", "edID": -1, "eddbID": -1, "grp": "pci", "class": 3, "rating": "D", "cost": -1, "mass": 5, "passengers": 3 },
+    { "id": "mg", "edID": -1, "eddbID": -1, "grp": "pci", "class": 4, "rating": "D", "cost": -1, "mass": 10, "passengers": 6 },
+    { "id": "mh", "edID": -1, "eddbID": -1, "grp": "pci", "class": 5, "rating": "D", "cost": -1, "mass": 20, "passengers": 10 },
+    { "id": "mi", "edID": -1, "eddbID": -1, "grp": "pci", "class": 6, "rating": "D", "cost": -1, "mass": 40, "passengers": 16 }
+  ]
+}

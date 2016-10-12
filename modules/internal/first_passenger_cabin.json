@@ -1,0 +1,7 @@
+{
+  "pcm": [
+    { "id": "mj", "edID": -1, "eddbID": -1, "grp": "pcm", "class": 4, "rating": "C", "cost": -1, "mass": 10, "passengers": 3 },
+    { "id": "mk", "edID": -1, "eddbID": -1, "grp": "pcm", "class": 5, "rating": "C", "cost": -1, "mass": 20, "passengers": 6 },
+    { "id": "ml", "edID": -1, "eddbID": -1, "grp": "pcm", "class": 6, "rating": "C", "cost": -1, "mass": 40, "passengers": 12 }
+  ]
+}

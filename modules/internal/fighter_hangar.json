@@ -1,0 +1,10 @@
+{
+  "fh": [
+
+    { "id": "fh", "edID": -1, "eddbID": -1, "grp": "fh", "class": 7, "rating": "D", "cost": -1, "power": 0.35, "mass": 60, "bays": 2, "rebuildsperbay": 15 },
+
+    { "id": "fm", "edID": -1, "eddbID": -1, "grp": "fh", "class": 6, "rating": "D", "cost": -1, "power": 0.35, "mass": 40, "bays": 2, "rebuildsperbay": 8 },
+
+    { "id": "fr", "edID": -1, "eddbID": -1, "grp": "fh", "class": 5, "rating": "D", "cost": -1, "power": 0.25, "mass": 20, "bays": 1, "rebuildsperbay": 6 }
+  ]
+}

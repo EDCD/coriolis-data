@@ -1,0 +1,6 @@
+{
+  "pcq": [
+    { "id": "mm", "edID": -1, "eddbID": -1, "grp": "pcq", "class": 5, "rating": "B", "cost": -1, "mass": 20, "passengers": 4 },
+    { "id": "mn", "edID": -1, "eddbID": -1, "grp": "pcq", "class": 6, "rating": "B", "cost": -1, "mass": 40, "passengers": 8 }
+  ]
+}
