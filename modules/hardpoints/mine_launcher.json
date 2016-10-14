@@ -1,7 +1,7 @@
 {
   "nl": [
-    { "id": "2j", "edID": 128049500, "eddbID": 880, "grp": "nl", "class": 1, "rating": "I", "cost": 24260, "mass": 2, "power": 0.4, "mount": "F", "type": "E", "armourpen": "C", "thermload": 2, "clip": 1, "ammo": 24, "ammocost": 209 },
-    { "id": "2k", "edID": 128049501, "eddbID": 881, "grp": "nl", "class": 2, "rating": "I", "cost": 294080, "mass": 4, "power": 0.4, "mount": "F", "type": "E", "armourpen": "C", "thermload": 3, "clip": 3, "ammo": 24, "ammocost": 209 },
-    { "id": "kp", "edID": 128671448, "eddbID": 1523, "grp": "nl", "name":"Shock Mine Launcher", "class": 1, "rating": "I", "cost": 36400, "mass": 2, "power": 0.4, "mount": "F", "type": "E", "armourpen": "C", "thermload": 2, "clip": 1, "ammo": 24, "ammocost": 209 }
+    { "id": "2j", "edID": 128049500, "eddbID": 880, "grp": "nl", "class": 1, "rating": "I", "cost": 24260, "mass": 2, "integrity": 40, "power": 0.4, "mount": "F", "type": "ET", "armourpen": 60, "breachdps": 0, "breachmin": 0, "breachmax": 0, "dps": 44, "hps": 5, "rof": 1, "clip": 3, "ammo": 36, "reload": 2 },
+    { "id": "2k", "edID": 128049501, "eddbID": 881, "grp": "nl", "class": 2, "rating": "I", "cost": 294080, "mass": 4, "integrity": 51, "power": 0.4, "mount": "F", "type": "ET", "armourpen": 60, "breachdps": 0, "breachmin": 0, "breachmax": 0, "dps": 44, "hps": 7.5, "rof": 1, "clip": 3, "ammo": 36, "reload": 2 },
+    { "id": "kp", "edID": 128671448, "eddbID": 1523, "grp": "nl", "name":"Shock Mine Launcher", "class": 1, "rating": "I", "cost": 36400, "mass": 2, "integrity": 40, "power": 0.4, "mount": "F", "type": "ET", "armourpen": "C", "breachdps": 0, "breachmin": 0, "breachmax": 0, "dps": 32, "hps": 5, "rof": 1, "clip": 3, "ammo": 36, "reload": 2 }
   ]
 }

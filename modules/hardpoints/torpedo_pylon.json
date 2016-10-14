@@ -1,7 +1,7 @@
 {
   "tp": [
-    { "id": "2h", "edID": 128049509, "eddbID": 882, "grp": "tp", "class": 1, "rating": "I", "cost": 11200, "mass": 2, "power": 0.4, "mount": "F", "armourpen": "C", "thermload": 10, "clip": 1, "ammo": 0, "ammocost": 15000, "missile": "S" },
-    { "id": "2i", "edID": 128049510, "eddbID": 883, "grp": "tp", "class": 2, "rating": "I", "cost": 44800, "mass": 4, "power": 0.4, "mount": "F", "armourpen": "C", "thermload": 10, "clip": 2, "ammo": 0, "ammocost": 15000, "missile": "S" }
+    { "id": "2h", "edID": 128049509, "eddbID": 882, "grp": "tp", "class": 1, "rating": "I", "cost": 11200, "mass": 2, "integrity": 40, "power": 0.4, "mount": "F", "type": "E", "armourpen": 10000, "breachdps": 60, "breachmin": 0.6, "breachmax": 0.8, "dps": 120, "eps": 0, "hps": 45, "rof": 1, "clip": 1, "ammo": 1, "reload": 5, "speed": 250, "missile": "S" },
+    { "id": "2i", "edID": 128049510, "eddbID": 883, "grp": "tp", "class": 2, "rating": "I", "cost": 44800, "mass": 4, "integrity": 51, "power": 0.4, "mount": "F", "type": "E", "armourpen": 10000, "breachdps": 60, "breachmin": 0.6, "breachmax": 0.8, "dps": 120, "eps": 0, "hps": 50, "rof": 1, "clip": 1, "ammo": 2, "reload": 5, "speed": 250, "missile": "S" }
   ]
 }
 

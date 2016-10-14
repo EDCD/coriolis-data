@@ -1,7 +1,7 @@
 {
   "rg": [
-    { "id": "29", "edID": 128049488, "eddbID": 876, "grp": "rg", "class": 1, "rating": "D", "cost": 51600, "mass": 2, "power": 1.15, "mount": "F", "type": "TK", "damage": 6, "armourpen": "A", "rof": 0.6, "dps": 4, "thermload": 7, "clip": 1, "mjdps" : 13.75, "ssdam" : 24.75, "ammo": 30, "ammocost": 200 },
-    { "id": "2a", "edID": 128049489, "eddbID": 877, "grp": "rg", "class": 2, "rating": "B", "cost": 412800, "mass": 4, "power": 1.63, "mount": "F", "type": "TK", "damage": 7, "armourpen": "A", "rof": 0.5, "dps": 4, "thermload": 10, "clip": 1, "mjdps" : 21.66, "ssdam" : 43.32, "ammo": 30, "ammocost": 200 },
-    { "id": "ih", "edID": 128671341, "eddbID": 1484, "grp": "rg", "name": "Imperial Hammer", "class": 2, "rating": "B", "cost": 619200, "mass": 4, "power": 1.63, "mount": "F", "type": "TK", "damage": 5, "armourpen": "A", "rof": 0.6, "dps": 5, "thermload": 3, "clip": 3, "ammo": 90 }
+    { "id": "29", "edID": 128049488, "eddbID": 876, "grp": "rg", "class": 1, "rating": "D", "cost": 51600, "mass": 2, "integrity": 40, "power": 1.15, "mount": "F", "type": "KT", "armourpen": 30, "breachdps": 35.2, "breachmin": 0.4, "breachmax": 0.8, "dps": 37, "eps": 4.3, "hps": 28.48, "range": 3000, "rof": 1.6, "clip": 1, "ammo": 30, "reload": 1 },
+    { "id": "2a", "edID": 128049489, "eddbID": 877, "grp": "rg", "class": 2, "rating": "B", "cost": 412800, "mass": 4, "integrity": 51, "power": 1.63, "mount": "F", "type": "KT", "armourpen": 48, "breachdps": 47.4, "breachmin": 0.4, "breachmax": 0.8, "dps": 50, "eps": 6.132, "hps": 36, "range": 3000, "rof": 1.2, "clip": 1, "ammo": 30, "reload": 1 },
+    { "id": "ih", "edID": 128671341, "eddbID": 1484, "grp": "rg", "name": "Imperial Hammer", "class": 2, "rating": "B", "cost": 619200, "mass": 4, "power": 1.63, "mount": "F", "type": "KT", "damage": 5, "armourpen": "A", "rof": 0.6, "dps": 5, "thermload": 3, "clip": 3, "ammo": 90 }
   ]
 }

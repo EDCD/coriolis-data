@@ -1,10 +1,13 @@
 {
   "mr": [
     { "id": "2b", "edID": 0, "eddbID": 0, "grp": "mr", "name": "Rocket Propelled FSD Disruptor", "class": 2, "rating": "B", "cost": 190227, "mass": 4, "power": 1.2, "mount": "F", "type": "?", "damage": 50, "armourpen": "?", "rof": 0.5, "dps": 0, "thermload": 0, "clip": 12, "ammo": 48, "mjdps": 0, "ssdam": 0, "missile": "D", "ammocost": 0 },
-    { "id": "2f", "edID": 128666725, "eddbID": 1327, "grp": "mr", "class": 2, "rating": "B", "cost": 240400, "mass": 4, "power": 1.2, "mount": "F", "type": "E", "damage": 7, "armourpen": "F", "rof": 2.5, "dps": 8, "thermload": 3, "clip": 12, "ammo": 24, "mjdps": 1.72, "ssdam" : 3.87, "missile": "D", "ammocost": 500 },
-    { "id": "2g", "edID": 128049493, "eddbID": 879, "grp": "mr", "class": 2, "rating": "B", "cost": 512400, "mass": 4, "power": 1.2, "mount": "F", "type": "E", "damage": 6, "armourpen": "F", "rof": 0.3, "dps": 3, "thermload": 3, "clip": 6, "ammo": 18, "mjdps": 0.57, "ssdam" : 2.58, "missile": "S", "ammocost": 666.67 },
-    { "id": "2d", "edID": 128666724, "eddbID": 1326, "grp": "mr", "class": 1, "rating": "B", "cost": 32180, "mass": 2, "power": 0.4, "mount": "F", "type": "E", "damage": 7, "armourpen": "F", "rof": 2.5, "dps": 8, "thermload": 3, "clip": 8, "ammo": 16, "mjdps": 1.63, "ssdam" : 3.87, "missile": "D", "ammocost": 500 },
-    { "id": "2e", "edID": 128049492, "eddbID": 878, "grp": "mr", "class": 1, "rating": "B", "cost": 72600, "mass": 2, "power": 0.6, "mount": "F", "type": "E", "damage": 6, "armourpen": "F", "rof": 0.3, "dps": 3, "thermload": 3, "clip": 6, "ammo": 6, "mjdps": 0.57, "ssdam" : 2.58, "missile": "S", "ammocost": 666.67 },
+
+    { "id": "2f", "edID": 128666725, "eddbID": 1327, "grp": "mr", "class": 2, "rating": "B", "cost": 240400, "mass": 4, "integrity": 51, "power": 1.2, "mount": "F", "type": "E", "armourpen": 60, "breachdps": 0, "breachmin": 0, "breachmax": 0, "dps": 25, "eps": 0.12, "hps": 1.8, "clip": 12, "ammo": 48, "speed": 750, "reload": 5, "roundspershot": 1, "missile": "D" },
+    { "id": "2g", "edID": 128049493, "eddbID": 879, "grp": "mr", "class": 2, "rating": "B", "cost": 512400, "mass": 4, "integrity": 51, "power": 1.2, "mount": "F", "type": "E", "armourpen": 60, "breachdps": 0, "breachmin": 0, "breachmax": 0, "dps": 13.3, "eps": 0.07, "hps": 1.08, "clip": 6, "ammo": 18, "speed": 625, "reload": 12, "roundspershot": 1, "missile": "S" },
+
+    { "id": "2d", "edID": 128666724, "eddbID": 1326, "grp": "mr", "class": 1, "rating": "B", "cost": 32180, "mass": 2, "integrity": 40, "power": 0.4, "mount": "F", "type": "E", "armourpen": 60, "breachdps": 0, "breachmin": 0, "breachmax": 0, "dps": 25, "eps": 0.12, "hps": 1.8, "rof": 0.5, "clip": 8, "ammo": 16, "speed": 750, "reload": 5, "roundspershot": 1, "missile": "D" },
+    { "id": "2e", "edID": 128049492, "eddbID": 878, "grp": "mr", "class": 1, "rating": "B", "cost": 72600, "mass": 2, "integrity": 40, "power": 0.6, "mount": "F", "type": "E", "armourpen": 60, "breachdps": 0, "breachmin": 0, "breachmax": 0, "dps": 13.3, "eps": 0.07, "hps": 1.08, "rof": 0.3, "clip": 6, "ammo": 6, "speed": 625, "reload": 12, "roundspershot": 1, "missile": "S" },
+
     { "id": "Ph", "edID": 128671344, "eddbID": 1480, "grp": "mr", "name": "Pack-Hound", "class": 2, "rating": "B", "cost": 768600, "mass": 4, "power": 1.2, "mount": "F", "type": "E", "damage": 3, "armourpen": "F", "rof": 0.5, "dps": 4, "thermload": 3, "clip": 12, "ammo": 120, "missile": "S" }
   ]
 }
