@@ -249,7 +249,7 @@ module.exports = {
       edID: -1,
       eddbID: -1,
       properties: {
-        name: "Beluga",
+        name: "Beluga Liner",
         manufacturer: "Saud Kruger",
         class: 3,
         hullCost: -1,
