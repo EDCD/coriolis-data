@@ -34,13 +34,13 @@
       "cost": 65000,
       "edID": 128668543,
       "eddbID": 1379,
-      "explres": 0.2,
+      "explres": 0.02,
       "grp": "hr",
       "id": "2c",
-      "kinres": 0.2,
+      "kinres": 0.02,
       "mass": 32,
       "rating": "E",
-      "thermres": 0.2
+      "thermres": 0.02
     },
     {
       "hullreinforcement": 330,
@@ -48,13 +48,13 @@
       "cost": 195000,
       "edID": 128668544,
       "eddbID": 1380,
-      "explres": 0.2,
+      "explres": 0.02,
       "grp": "hr",
       "id": "2b",
-      "kinres": 0.2,
+      "kinres": 0.02,
       "mass": 16,
       "rating": "D",
-      "thermres": 0.2
+      "thermres": 0.02
     },
     {
       "hullreinforcement": 230,
