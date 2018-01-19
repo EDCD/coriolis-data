@@ -20,7 +20,7 @@ module.exports = {
     rg: require('./hardpoints/rail_gun').rg,
     pa: require('./hardpoints/plasma_accelerator').pa,
     mr: require('./hardpoints/missile_rack').mr,
-    axmr: require('./hardpoints/ax_multi_cannon').axmr,
+    axmr: require('./hardpoints/ax_missile_rack').axmr,
     tp: require('./hardpoints/torpedo_pylon').tp,
     nl: require('./hardpoints/mine_launcher').nl,
     ml: require('./hardpoints/mining_laser').ml,
@@ -31,7 +31,8 @@ module.exports = {
     ch: require('./hardpoints/chaff_launcher').ch,
     ec: require('./hardpoints/electronic_countermeasure').ec,
     hs: require('./hardpoints/heat_sink_launcher').hs,
-    po: require('./hardpoints/point_defence').po
+    po: require('./hardpoints/point_defence').po,
+    sfn: require('./hardpoints/shutdown_field_neutraliser').sfn
   },
   internal: {
     am: require('./internal/auto_field_maintenance_unit').am,
