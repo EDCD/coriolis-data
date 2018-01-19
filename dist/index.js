@@ -7806,6 +7806,123 @@ module.exports = {
         shotspeed: 1600,
         thermload: .51
       } ],
+      axmc: [ {
+        ammo: 2100,
+        breachdmg: 2.8,
+        breachmax: .5,
+        breachmin: .8,
+        class: 2,
+        clip: 100,
+        cost: 379e3,
+        damage: 3.3,
+        damagedist: {
+          X: 1
+        },
+        distdraw: .11,
+        edID: 128788701,
+        eddbID: 1618,
+        falloff: 2e3,
+        grp: "axmc",
+        id: "x0",
+        integrity: 51,
+        mass: 4,
+        mount: "F",
+        piercing: 17,
+        power: .46,
+        range: 4e3,
+        rating: "E",
+        reload: 4,
+        rof: 7.1,
+        shotspeed: 1600,
+        thermload: .2
+      }, {
+        ammo: 2100,
+        breachdmg: .4,
+        breachmax: .5,
+        breachmin: .5,
+        class: 2,
+        clip: 90,
+        cost: 1826500,
+        damage: 1.7,
+        damagedist: {
+          X: 1
+        },
+        distdraw: .06,
+        edID: 128793059,
+        eddbID: 1619,
+        falloff: 2e3,
+        grp: "axmc",
+        id: "x1",
+        integrity: 51,
+        mass: 4,
+        mount: "T",
+        piercing: 17,
+        power: .5,
+        range: 4e3,
+        rating: "F",
+        reload: 4,
+        rof: 6.2,
+        shotspeed: 1600,
+        thermload: .1
+      }, {
+        ammo: 2100,
+        breachdmg: 5.2,
+        breachmax: .5,
+        breachmin: .8,
+        class: 3,
+        clip: 100,
+        cost: 1181500,
+        damage: 6.1,
+        damagedist: {
+          X: 1
+        },
+        distdraw: .18,
+        edID: 128788702,
+        eddbID: 1625,
+        falloff: 2e3,
+        grp: "axmc",
+        id: "x2",
+        integrity: 64,
+        mass: 8,
+        mount: "F",
+        piercing: 33,
+        power: .64,
+        range: 4e3,
+        rating: "C",
+        reload: 4,
+        rof: 5.9,
+        shotspeed: 1600,
+        thermload: .3
+      }, {
+        ammo: 2100,
+        breachdmg: .8,
+        breachmax: .5,
+        breachmin: .5,
+        class: 3,
+        clip: 90,
+        cost: 3821600,
+        damage: 3.3,
+        damagedist: {
+          X: 1
+        },
+        distdraw: .06,
+        edID: 128793060,
+        eddbID: 1626,
+        falloff: 2e3,
+        grp: "axmc",
+        id: "x3",
+        integrity: 64,
+        mass: 8,
+        mount: "T",
+        piercing: 33,
+        power: .64,
+        range: 4e3,
+        rating: "E",
+        reload: 4,
+        rof: 6.2,
+        shotspeed: 1600,
+        thermload: .1
+      } ],
       c: [ {
         ammo: 120,
         breachdmg: 17.1,
@@ -8843,6 +8960,119 @@ module.exports = {
         shotspeed: 600,
         thermload: 3.6
       } ],
+      axmr: [ {
+        ammo: 64,
+        breachdmg: .1,
+        breachmax: .8,
+        breachmin: 1,
+        class: 2,
+        clip: 8,
+        cost: 540900,
+        damage: 64,
+        damagedist: {
+          X: 1
+        },
+        distdraw: .14,
+        edID: 128788699,
+        eddbID: 1614,
+        grp: "axmr",
+        id: "x4",
+        integrity: 51,
+        mass: 4,
+        missile: "D",
+        mount: "F",
+        piercing: 60,
+        power: 1.2,
+        rating: "B",
+        reload: 5,
+        rof: .5,
+        shotspeed: 750,
+        thermload: 2.4
+      }, {
+        ammo: 64,
+        breachdmg: .1,
+        breachmax: .8,
+        breachmin: 1,
+        class: 2,
+        clip: 8,
+        cost: 2022700,
+        damage: 50,
+        damagedist: {
+          X: 1
+        },
+        distdraw: .08,
+        edID: 128788704,
+        eddbID: 1615,
+        grp: "axmr",
+        id: "x5",
+        integrity: 51,
+        mass: 4,
+        missile: "D",
+        mount: "T",
+        piercing: 60,
+        power: 1.2,
+        rating: "B",
+        reload: 5,
+        rof: .5,
+        shotspeed: 750,
+        thermload: 1.5
+      }, {
+        ammo: 128,
+        breachdmg: .1,
+        breachmax: .8,
+        breachmin: 1,
+        class: 3,
+        clip: 12,
+        cost: 1352250,
+        damage: 64,
+        damagedist: {
+          X: 1
+        },
+        distdraw: .24,
+        edID: 128788700,
+        eddbID: 1623,
+        grp: "axmr",
+        id: "x6",
+        integrity: 64,
+        mass: 8,
+        missile: "D",
+        mount: "F",
+        piercing: 60,
+        power: 1.62,
+        rating: "A",
+        reload: 5,
+        rof: .5,
+        shotspeed: 750,
+        thermload: 3.6
+      }, {
+        ammo: 128,
+        breachdmg: .1,
+        breachmax: .8,
+        breachmin: 1,
+        class: 3,
+        clip: 12,
+        cost: 4056750,
+        damage: 64,
+        damagedist: {
+          X: 1
+        },
+        distdraw: .14,
+        edID: 128788705,
+        eddbID: 1624,
+        grp: "axmr",
+        id: "x7",
+        integrity: 64,
+        mass: 8,
+        missile: "D",
+        mount: "T",
+        piercing: 60,
+        power: 1.75,
+        rating: "A",
+        reload: 5,
+        rof: .5,
+        shotspeed: 750,
+        thermload: 1.9
+      } ],
       tp: [ {
         ammo: 1,
         breachdmg: 60,
@@ -9466,6 +9696,38 @@ module.exports = {
         rof: 10,
         shotspeed: 1e3,
         thermload: .1
+      } ],
+      sfn: [ {
+        class: 0,
+        cost: 63e3,
+        edID: 128771884,
+        eddbID: 1622,
+        grp: "sfn",
+        id: "sfn",
+        integrity: 35,
+        mass: 1.3,
+        name: "Shutdown Field Neutraliser",
+        passive: 1,
+        power: .2,
+        rating: "F",
+        cooldown: 10,
+        duration: 1,
+        range: 3e3
+      } ],
+      xs: [ {
+        class: 0,
+        cost: 365700,
+        edID: 128793115,
+        eddbID: 1616,
+        grp: "xs",
+        id: "xs",
+        integrity: 56,
+        mass: 1.3,
+        name: "Xeno Scanner",
+        power: .2,
+        range: 500,
+        rating: "E",
+        scantime: 10
       } ]
     },
     internal: {
@@ -23642,6 +23904,10 @@ module.exports = {
         modifications: [ "ammo", "clip", "damage", "damagedist", "fallofffromrange", "distdraw", "integrity", "jitter", "mass", "piercing", "power", "range", "reload", "rof", "shotspeed", "thermload" ],
         specials: [ "special_auto_loader", "special_corrosive_shell", "special_emissive_munitions", "special_incendiary_rounds", "special_smart_rounds", "special_thermalshock" ]
       },
+      axmc: {
+        blueprints: {},
+        modifications: []
+      },
       ml: {
         blueprints: {},
         modifications: []
@@ -23728,6 +23994,10 @@ module.exports = {
         modifications: [ "ammo", "clip", "damage", "damagedist", "fallofffromrange", "distdraw", "integrity", "jitter", "mass", "piercing", "power", "reload", "rof", "thermload" ],
         specials_S: [ "special_drag_munitions", "special_emissive_munitions", "special_overload_munitions", "special_penetrator_payload", "special_thermal_cascade" ],
         specials_D: [ "special_drag_munitions", "special_emissive_munitions", "special_fsd_interrupt", "special_overload_munitions", "special_penetrator_payload", "special_thermal_cascade" ]
+      },
+      axmr: {
+        blueprints: {},
+        modifications: []
       },
       mrp: {
         blueprints: {},
@@ -24808,6 +25078,10 @@ module.exports = {
         },
         modifications: [ "explres", "integrity", "kinres", "mass", "power", "shieldboost", "thermres" ]
       },
+      sfn: {
+        blueprints: {},
+        modifications: []
+      },
       sc: {
         blueprints: {},
         modifications: []
@@ -24985,6 +25259,10 @@ module.exports = {
           }
         },
         modifications: [ "mass", "angle", "range", "scanrate" ]
+      },
+      xs: {
+        blueprints: {},
+        modifications: []
       },
       t: {
         blueprints: {

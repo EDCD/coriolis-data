@@ -1,0 +1,20 @@
+{
+  "xs": [
+    {
+      "class": 0,
+      "cost": 365700,
+      "edID": 128793115,
+      "eddbID": 1616,
+      "grp": "xs",
+      "id": "xs",
+      "integrity": 56,
+      "mass": 1.3,
+      "name": "Xeno Scanner",
+      "power": 0.2,
+      "range": 500,
+      "rating": "E",
+      "scantime": 10
+    }
+  ]
+}
+  
