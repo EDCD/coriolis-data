@@ -32,7 +32,8 @@ module.exports = {
     ec: require('./hardpoints/electronic_countermeasure').ec,
     hs: require('./hardpoints/heat_sink_launcher').hs,
     po: require('./hardpoints/point_defence').po,
-    sfn: require('./hardpoints/shutdown_field_neutraliser').sfn
+    sfn: require('./hardpoints/shutdown_field_neutraliser').sfn,
+    xs: require('./hardpoints/xeno_scanner').xs
   },
   internal: {
     am: require('./internal/auto_field_maintenance_unit').am,
