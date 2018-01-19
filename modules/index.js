@@ -14,6 +14,7 @@ module.exports = {
     ul: require('./hardpoints/burst_laser').ul,
     bl: require('./hardpoints/beam_laser').bl,
     mc: require('./hardpoints/multi_cannon').mc,
+    xmc: require('./hardpoints/ax_multi_cannon').xmc,
     c: require('./hardpoints/cannon').c,
     fc: require('./hardpoints/fragment_cannon').fc,
     rg: require('./hardpoints/rail_gun').rg,
