@@ -3013,6 +3013,12 @@
       "special_thermalshock"
     ]
   },
+  "axmc": {
+    "blueprints": {
+    },
+    "modifications": [
+    ]
+  },
   "ml": {
     "blueprints": {
     },
@@ -3180,6 +3186,12 @@
       "special_overload_munitions",
       "special_penetrator_payload",
       "special_thermal_cascade"
+    ]
+  },
+  "axmr": {
+    "blueprints": {
+    },
+    "modifications": [
     ]
   },
   "mrp": {
@@ -5193,6 +5205,12 @@
       "thermres"
     ]
   },
+  "sfn": {
+    "blueprints": {
+    },
+    "modifications": [
+    ]
+  },
   "sc": {
     "blueprints": {
     },
@@ -5573,7 +5591,12 @@
       "scanrate"
     ]
   },
-
+  "xs": {
+    "blueprints": {
+    },
+    "modifications": [
+    ]
+  },
   "t": {
     "blueprints": {
       "Engine_Dirty": {
