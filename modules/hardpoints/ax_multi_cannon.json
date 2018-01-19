@@ -1,5 +1,5 @@
 {
-  "xmc": [
+  "axmc": [
     {
       "ammo": 2100,
       "breachdmg": 2.8,
@@ -10,14 +10,14 @@
       "cost": 379000,
       "damage": 3.3,
       "damagedist": {
-          "X": 1
+        "X": 1
       },
       "distdraw": 0.11,
       "edID": 128788701,
       "eddbID": 1618,
       "falloff": 2000,
-      "grp": "xm",
-      "id": "x1",
+      "grp": "axmc",
+      "id": "x0",
       "integrity": 51,
       "mass": 4,
       "mount": "F",
@@ -40,14 +40,14 @@
       "cost": 1826500,
       "damage": 1.7,
       "damagedist": {
-          "X": 1
+        "X": 1
       },
       "distdraw": 0.06,
       "edID": 128793059,
       "eddbID": 1619,
       "falloff": 2000,
-      "grp": "xm",
-      "id": "x2",
+      "grp": "axmc",
+      "id": "x1",
       "integrity": 51,
       "mass": 4,
       "mount": "T",
@@ -70,14 +70,14 @@
       "cost": 1181500,
       "damage": 6.1,
       "damagedist": {
-          "X": 1
+        "X": 1
       },
       "distdraw": 0.18,
       "edID": 128788702,
       "eddbID": 1625,
       "falloff": 2000,
-      "grp": "xm",
-      "id": "x3",
+      "grp": "axmc",
+      "id": "x2",
       "integrity": 64,
       "mass": 8,
       "mount": "F",
@@ -100,14 +100,14 @@
       "cost": 3821600,
       "damage": 3.3,
       "damagedist": {
-          "X": 1
+        "X": 1
       },
       "distdraw": 0.06,
       "edID": 128793060,
       "eddbID": 1626,
       "falloff": 2000,
-      "grp": "xm",
-      "id": "x4",
+      "grp": "axmc",
+      "id": "x3",
       "integrity": 64,
       "mass": 8,
       "mount": "T",
