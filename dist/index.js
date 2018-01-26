@@ -9764,7 +9764,7 @@ module.exports = {
         edID: 128771884,
         eddbID: 1622,
         grp: "sfn",
-        id: "sfn",
+        id: "Sn",
         integrity: 35,
         mass: 1.3,
         name: "Shutdown Field Neutraliser",
