@@ -5297,8 +5297,8 @@
         },
         "features": {
           "integrity": [ 0, 0.2 ],
-          "kinres": [ 0.05, 0.1 ],
-          "thermres": [ -0.05, 0 ]
+          "kinres": [ 0, 0.06 ],
+          "thermres": [ -0.04, -0.04 ]
         }
       },
       "2": {
@@ -5307,9 +5307,9 @@
           "Modified Consumer Firmware": 1
         },
         "features": {
-          "integrity": [ 0.05, 0.25 ],
-          "kinres": [ 0.07, 0.2 ],
-          "thermres": [ -0.1, -0.02 ]
+          "integrity": [ 0.2, 0.25 ],
+          "kinres": [ 0.06, 0.12 ],
+          "thermres": [ -0.07, -0.07 ]
         }
       },
       "3": {
@@ -5319,9 +5319,9 @@
           "Selenium": 1
         },
         "features": {
-          "integrity": [ 0.1, 0.2 ],
-          "kinres": [ 0.09, 0.3 ],
-          "thermres": [ -0.15, -0.04 ]
+          "integrity": [ 0.25, 0.3 ],
+          "kinres": [ 0.12, 0.18 ],
+          "thermres": [ -0.11, -0.11 ]
         }
       },
       "4": {
@@ -5331,9 +5331,9 @@
           "Mercury": 1
         },
         "features": {
-          "integrity": [ 0.15, 0.35 ],
-          "kinres": [ 0.11, 0.4 ],
-          "thermres": [ -0.2, -0.06 ]
+          "integrity": [ 0.3, 0.35 ],
+          "kinres": [ 0.18, 0.24 ],
+          "thermres": [ -0.14, -0.14 ]
         }
       },
       "5": {
@@ -5343,9 +5343,9 @@
           "Untypical Shield Scans": 1
         },
         "features": {
-          "integrity": [ 0.2, 0.4 ],
-          "kinres": [ 0.13, 0.5 ],
-          "thermres": [ -0.25, -0.08 ]
+          "integrity": [ 0.35, 0.4 ],
+          "kinres": [ 0.18, 0.30 ],
+          "thermres": [ -0.18, -0.18 ]
         }
       }
     },
@@ -5361,10 +5361,11 @@
           "Distorted Shield Cycle Recordings": 1
         },
         "features": {
-          "integrity": [ -0.1, -0.05 ],
-          "mass": [ 0, -0.08 ],
-          "optmass": [ -0.03, 0 ],
-          "power": [ -0.12, -0.2 ]
+          "integrity": [ -0.05, -0.05 ],
+          "mass": [ 0, -0.18 ],
+          "optmass": [ -0.02, -0.02 ],
+          "optmul": [ 0, 0.045 ],
+          "power": [ 0 , -0.2 ]
         }
       },
       "2": {
@@ -5373,10 +5374,11 @@
           "Germanium": 1
         },
         "features": {
-          "integrity": [ -0.2, -0.1 ],
-          "mass": [ -0.04, -0.16 ],
-          "optmass": [ -0.06, -0.01 ],
-          "power": [ -0.14, -0.25 ]
+          "integrity": [ -0.1, -0.1 ],
+          "mass": [ -0.18, -0.26 ],
+          "optmass": [ -0.03, -0.03 ],
+          "optmul": [ 0.02, 0.09 ],
+          "power": [ -0.2, -0.25 ]
         }
       },
       "3": {
@@ -5386,11 +5388,11 @@
           "Precipitated Alloys": 1
         },
         "features": {
-          "integrity": [ -0.3, -0.15 ],
-          "mass": [ -0.08, -0.24 ],
-          "optmass": [ -0.09, -0.02 ],
-          "optmul": [ 0, 0.02 ],
-          "power": [ -0.16, -0.3 ]
+          "integrity": [ -0.15, -0.15 ],
+          "mass": [ -0.26, -0.34 ],
+          "optmass": [ -0.04, -0.04 ],
+          "optmul": [ 0.09, 0.135 ],
+          "power": [ -0.25, -0.3 ]
         }
       },
       "4": {
@@ -5400,11 +5402,11 @@
           "Thermic Alloys": 1
         },
         "features": {
-          "integrity": [ -0.4, -0.2 ],
-          "mass": [ -0.12, -0.32 ],
-          "optmass": [ -0.12, -0.03 ],
-          "optmul": [ 0, 0.04 ],
-          "power": [ -0.18, -0.35 ]
+          "integrity": [ -0.2, -0.2 ],
+          "mass": [ -0.34, -0.42 ],
+          "optmass": [ -0.05, -0.05 ],
+          "optmul": [ 0.135, 0.18 ],
+          "power": [ -0.3, -0.35 ]
         }
       },
       "5": {
@@ -5414,11 +5416,11 @@
           "Untypical Shield Scans": 1
         },
         "features": {
-          "integrity": [ -0.5, -0.25 ],
-          "mass": [ -0.16, -0.4 ],
-          "optmass": [ -0.15, -0.04 ],
-          "optmul": [ 0, 0.06 ],
-          "power": [ -0.2, -0.4 ]
+          "integrity": [ -0.25, -0.25 ],
+          "mass": [ -0.42, -0.5 ],
+          "optmass": [ -0.06, -0.06 ],
+          "optmul": [ 0.18, 0.225 ],
+          "power": [ -0.35, -0.4 ]
         }
       }
     },
@@ -5434,11 +5436,12 @@
           "Phosphorus": 1
         },
         "features": {
-          "brokenregen": [ -0.2, -0.15 ],
-          "explres": [ 0, 0.03 ],
-          "kinres": [ 0, 0.03 ],
-          "optmul": [ 0.05, 0.1 ],
-          "thermres": [ 0, 0.03 ]
+          "brokenregen": [ -0.1, -0.1 ],
+          "distdraw": [ 0.04, 0.04 ],
+          "explres": [ 0, 0.0225 ],
+          "kinres": [ 0, 0.027 ],
+          "optmul": [ 0, 0.14 ],
+          "thermres": [ 0, 0.054 ]
         }
       },
       "2": {
@@ -5447,12 +5450,12 @@
           "Phosphorus": 1
         },
         "features": {
-          "brokenregen": [ -0.24, -0.12 ],
-          "explres": [ 0.02, 0.06 ],
-          "kinres": [ 0.02, 0.06 ],
-          "optmul": [ 0.07, 0.15 ],
-          "regen": [ -0.06, -0.04 ],
-          "thermres": [ 0.02, 0.06 ]
+          "brokenregen": [ -0.1, -0.1 ],
+          "distdraw": [ 0.06, 0.06 ],
+          "explres": [ 0.0225, 0.0375 ],
+          "kinres": [ 0.027, 0.045 ],
+          "optmul": [ 0.14, 0.20 ],
+          "thermres": [ 0.054, 0.09 ]
         }
       },
       "3": {
@@ -5462,13 +5465,12 @@
           "Phosphorus": 1
         },
         "features": {
-          "brokenregen": [ -0.27, -0.09 ],
-          "distdraw": [ 0.05, 0 ],
-          "explres": [ 0.04, 0.09 ],
-          "kinres": [ 0.04, 0.06 ],
-          "optmul": [ 0.09, 0.2 ],
-          "regen": [ -0.09, -0.03 ],
-          "thermres": [ 0.04, 0.09 ]
+          "brokenregen": [ -0.1, -0.1 ],
+          "distdraw": [ 0.08, 0.08 ],
+          "explres": [ 0.0375, 0.0525 ],
+          "kinres": [ 0.045, 0.063 ],
+          "optmul": [ 0.20, 0.26 ],
+          "thermres": [ 0.09, 0.126 ]
         }
       },
       "4": {
@@ -5478,13 +5480,12 @@
           "Manganese": 1
         },
         "features": {
-          "brokenregen": [ -0.3, -0.06 ],
-          "distdraw": [ 0.1, 0.05 ],
-          "explres": [ 0.06, 0.12 ],
-          "kinres": [ 0.06, 0.12 ],
-          "optmul": [ 0.1, 0.25 ],
-          "regen": [ -0.12, -0.02 ],
-          "thermres": [ 0.06, 0.12 ]
+          "brokenregen": [ -0.1, -0.1 ],
+          "distdraw": [ 0.1, 0.1 ],
+          "explres": [ 0.0525, 0.0675 ],
+          "kinres": [ 0.063, 0.081 ],
+          "optmul": [ 0.26, 0.32 ],
+          "thermres": [ 0.126, 0.162 ]
         }
       },
       "5": {
@@ -5494,13 +5495,12 @@
           "Improvised Components": 1
         },
         "features": {
-          "brokenregen": [ -0.33, -0.03 ],
-          "distdraw": [ 0.15, 0.1 ],
-          "explres": [ 0.08, 0.15 ],
-          "kinres": [ 0.08, 0.15 ],
-          "optmul": [ 0.13, 0.3 ],
-          "regen": [ -0.15, -0.01 ],
-          "thermres": [ 0.08, 0.15 ]
+          "brokenregen": [ -0.1, -0.1 ],
+          "distdraw": [ 0.12, 0.12 ],
+          "explres": [ 0.0675, 0.0825 ],
+          "kinres": [ 0.081, 0.099 ],
+          "optmul": [ 0.32, 0.38 ],
+          "thermres": [ 0.162, 0.198 ]
         }
       }
     },
@@ -5517,8 +5517,8 @@
         },
         "features": {
           "integrity": [ 0, 0.2 ],
-          "kinres": [ -0.05, 0 ],
-          "thermres": [ 0.05, 0.1 ]
+          "kinres": [ -0.02, -0.02 ],
+          "thermres": [ 0, 0.12 ]
         }
       },
       "2": {
@@ -5527,9 +5527,9 @@
           "Germanium": 1
         },
         "features": {
-          "integrity": [ 0.05, 0.25 ],
-          "kinres": [ -0.1, -0.02 ],
-          "thermres": [ 0.07, 0.2 ]
+          "integrity": [ 0.2, 0.25 ],
+          "kinres": [ -0.05, -0.05 ],
+          "thermres": [ 0.12, 0.24 ]
         }
       },
       "3": {
@@ -5539,9 +5539,9 @@
           "Selenium": 1
         },
         "features": {
-          "integrity": [ 0.1, 0.3 ],
-          "kinres": [ -0.15, -0.04 ],
-          "thermres": [ 0.09, 0.3 ]
+          "integrity": [ 0.25, 0.3 ],
+          "kinres": [ -0.07, -0.07 ],
+          "thermres": [ 0.24, 0.36 ]
         }
       },
       "4": {
@@ -5551,9 +5551,9 @@
           "Mercury": 1
         },
         "features": {
-          "integrity": [ 0.15, 0.35 ],
-          "kinres": [ -0.2, -0.06 ],
-          "thermres": [ 0.11, 0.4 ]
+          "integrity": [ 0.3, 0.35 ],
+          "kinres": [ -0.1, -0.1 ],
+          "thermres": [ 0.36, 0.48 ]
         }
       },
       "5": {
@@ -5563,9 +5563,9 @@
           "Untypical Shield Scans": 1
         },
         "features": {
-          "integrity": [ 0.2, 0.4 ],
-          "kinres": [ -0.25, -0.08 ],
-          "thermres": [ 0.13, 0.5 ]
+          "integrity": [ 0.35, 0.4 ],
+          "kinres": [ -0.12, -0.12 ],
+          "thermres": [ 0.48, 0.6 ]
         }
       }
     },
