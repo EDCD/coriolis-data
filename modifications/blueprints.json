@@ -56,11 +56,11 @@
           "Iron": 1
         },
         "features": {
-          "explres": [ 0, 0.02 ],
-          "hullboost": [ -0.01, 0 ],
-          "kinres": [ 0, 0.02 ],
-          "mass": [ -0.04, -0.15 ],
-          "thermres": [ 0, 0.02 ]
+          "explres": [ 0, 0.042 ],
+          "hullboost": [ -0.01, -0.01 ],
+          "kinres": [ 0, 0.036 ],
+          "mass": [ 0, -0.15 ],
+          "thermres": [ 0, 0.03 ]
         }
       },
       "2": {
@@ -69,11 +69,11 @@
           "Iron": 1
         },
         "features": {
-          "explres": [ 0.01, 0.04 ],
-          "hullboost": [ -0.02, -0.01 ],
-          "kinres": [ 0.01, 0.04 ],
-          "mass": [ -0.08, -0.25 ],
-          "thermres": [ 0.01, 0.04 ]
+          "explres": [ 0.042, 0.084 ],
+          "hullboost": [ -0.02, -0.02 ],
+          "kinres": [ 0.036, 0.072 ],
+          "mass": [ -0.15, -0.25 ],
+          "thermres": [ 0.03, 0.06 ]
         }
       },
       "3": {
@@ -83,11 +83,11 @@
           "Iron": 1
         },
         "features": {
-          "explres": [ 0.02, 0.06 ],
-          "hullboost": [ -0.03, -0.02 ],
-          "kinres": [ 0.02, 0.06 ],
-          "mass": [ -0.12, -0.35 ],
-          "thermres": [ 0.02, 0.06 ]
+          "explres": [ 0.084, 0.126 ],
+          "hullboost": [ -0.03, -0.03 ],
+          "kinres": [ 0.072, 0.108 ],
+          "mass": [ -0.25, -0.35 ],
+          "thermres": [ 0.06, 0.09 ]
         }
       },
       "4": {
@@ -97,11 +97,11 @@
           "Proprietary Composites": 1
         },
         "features": {
-          "explres": [ 0.03, 0.08 ],
-          "hullboost": [ -0.04, -0.03 ],
-          "kinres": [ 0.03, 0.08 ],
-          "mass": [ -0.16, -0.45 ],
-          "thermres": [ 0.03, 0.08 ]
+          "explres": [ 0.126, 0.168 ],
+          "hullboost": [ -0.04, -0.04 ],
+          "kinres": [ 0.108, 0.144 ],
+          "mass": [ -0.35, -0.45 ],
+          "thermres": [ 0.09, 0.12 ]
         }
       },
       "5": {
@@ -111,11 +111,11 @@
           "Tin": 1
         },
         "features": {
-          "explres": [ 0.04, 0.1 ],
-          "hullboost": [ -0.05, -0.04 ],
-          "kinres": [ 0.04, 0.1 ],
-          "mass": [ -0.2, -0.55 ],
-          "thermres": [ 0.04, 0.1 ]
+          "explres": [ 0.168, 0.21 ],
+          "hullboost": [ -0.05, -0.05 ],
+          "kinres": [ 0.144, 0.18 ],
+          "mass": [ -0.45, -0.55 ],
+          "thermres": [ 0.12, 0.15 ]
         }
       }
     },
@@ -131,9 +131,9 @@
           "Nickel": 1
         },
         "features": {
-          "explres": [ 0.05, 0.08 ],
-          "kinres": [ -0.04, -0.02 ],
-          "thermres": [ -0.04, -0.02 ]
+          "explres": [ 0, 0.168 ],
+          "kinres": [ -0.05, -0.05 ],
+          "thermres": [ -0.04, -0.04 ]
         }
       },
       "2": {
@@ -142,9 +142,9 @@
           "Zinc": 1
         },
         "features": {
-          "explres": [ 0.1, 0.16 ],
-          "kinres": [ -0.08, -0.04 ],
-          "thermres": [ -0.08, -0.04 ]
+          "explres": [ 0.168, 0.266 ],
+          "kinres": [ -0.07, -0.07 ],
+          "thermres": [ -0.06, -0.06 ]
         }
       },
       "3": {
@@ -153,9 +153,9 @@
           "Vanadium": 1
         },
         "features": {
-          "explres": [ 0.15, 0.24 ],
-          "kinres": [ -0.12, -0.06 ],
-          "thermres": [ -0.12, -0.06 ]
+          "explres": [ 0.366, 0.364 ],
+          "kinres": [ -0.10, -0.10 ],
+          "thermres": [ -0.08, -0.08 ]
         }
       },
       "4": {
@@ -165,9 +165,9 @@
           "Tungsten": 1
         },
         "features": {
-          "explres": [ 0.2, 0.32 ],
-          "kinres": [ -0.16, -0.08 ],
-          "thermres": [ -0.16, -0.08 ]
+          "explres": [ 0.364, 0.462 ],
+          "kinres": [ -0.12, -0.12 ],
+          "thermres": [ -0.1, -0.1 ]
         }
       },
       "5": {
@@ -177,9 +177,9 @@
           "Ruthenium": 1
         },
         "features": {
-          "explres": [ 0.25, 0.4 ],
-          "kinres": [ -0.2, -0.1 ],
-          "thermres": [ -0.2, -0.1 ]
+          "explres": [ 0.462, 0.56 ],
+          "kinres": [ -0.14, -0.14 ],
+          "thermres": [ -0.12, -0.12 ]
         }
       }
     },
@@ -195,10 +195,10 @@
           "Carbon": 1
         },
         "features": {
-          "explres": [ 0, 0.01 ],
-          "hullboost": [ 0.04, 0.1 ],
-          "kinres": [ 0, 0.01 ],
-          "mass": [ 0.08, 0 ],
+          "explres": [ 0, 0.014 ],
+          "hullboost": [ 0, 0.12 ],
+          "kinres": [ 0, 0.012 ],
+          "mass": [ 0.1, 0.1 ],
           "thermres": [ 0, 0.01 ]
         }
       },
@@ -208,10 +208,10 @@
           "Shield Emitters": 1
         },
         "features": {
-          "explres": [ 0.01, 0.02 ],
-          "hullboost": [ 0.08, 0.15 ],
-          "kinres": [ 0.01, 0.02 ],
-          "mass": [ 0.16, 0.05 ],
+          "explres": [ 0.014, 0.028 ],
+          "hullboost": [ 0.12, 0.17 ],
+          "kinres": [ 0.012, 0.024 ],
+          "mass": [ 0.15, 0.15 ],
           "thermres": [ 0.01, 0.02 ]
         }
       },
@@ -222,10 +222,10 @@
           "Shield Emitters": 1
         },
         "features": {
-          "explres": [ 0.02, 0.03 ],
-          "hullboost": [ 0.12, 0.2 ],
-          "kinres": [ 0.02, 0.03 ],
-          "mass": [ 0.24, 0.1 ],
+          "explres": [ 0.028, 0.042 ],
+          "hullboost": [ 0.17, 0.22 ],
+          "kinres": [ 0.024, 0.036 ],
+          "mass": [ 0.2, 0.2 ],
           "thermres": [ 0.02, 0.03 ]
         }
       },
@@ -236,10 +236,10 @@
           "Vanadium": 1
         },
         "features": {
-          "explres": [ 0.03, 0.04 ],
-          "hullboost": [ 0.16, 0.25 ],
-          "kinres": [ 0.03, 0.04 ],
-          "mass": [ 0.32, 0.15 ],
+          "explres": [ 0.042, 0.056 ],
+          "hullboost": [ 0.22, 0.27 ],
+          "kinres": [ 0.036, 0.048 ],
+          "mass": [ 0.25, 0.25 ],
           "thermres": [ 0.03, 0.04 ]
         }
       },
@@ -250,10 +250,10 @@
           "Tungsten": 1
         },
         "features": {
-          "explres": [ 0.04, 0.05 ],
-          "hullboost": [ 0.2, 0.3 ],
-          "kinres": [ 0.04, 0.05 ],
-          "mass": [ 0.4, 0.20 ],
+          "explres": [ 0.056, 0.07 ],
+          "hullboost": [ 0.27, 0.32 ],
+          "kinres": [ 0.048, 0.06 ],
+          "mass": [ 0.3, 0.3 ],
           "thermres": [ 0.04, 0.05 ]
         }
       }
@@ -261,7 +261,7 @@
     "id": 7,
     "modulename": ["Bulkheads", "Armour"],
     "name": "Heavy duty"
-  },
+ },
   "Armour_Kinetic": {
     "fdname": "Armour_Kinetic",
     "grades": {
@@ -1140,11 +1140,11 @@
           "Specialised Legacy Firmware": 1
         },
         "features": {
-          "integrity": [ -0.06, 0 ],
-          "optmass": [ -0.04, 0 ],
-          "optmul": [ 0.04, 0.1 ],
-          "power": [ 0.04, 0 ],
-          "thermload": [ 0.2, 0 ]
+          "integrity": [ 0, -0.03 ],
+          "optmass": [ 0, -0.03 ],
+          "optmul": [ 0, 0.12 ],
+          "power": [ 0, 0.04 ],
+          "thermload": [ 0, 0.2 ]
         }
       },
       "2": {
@@ -1153,11 +1153,11 @@
           "Specialised Legacy Firmware": 1
         },
         "features": {
-          "integrity": [ -0.12, 0.01 ],
-          "optmass": [ -0.06, -0.01 ],
-          "optmul": [ 0.1, 0.14 ],
-          "power": [ 0.08, 0.02 ],
-          "thermload": [ 0.4, 0.1 ]
+          "integrity": [ -0.03, -0.06 ],
+          "optmass": [ -0.03, -0.05 ],
+          "optmul": [ 0.12, 0.19 ],
+          "power": [ 0.04, 0.06 ],
+          "thermload": [ 0.2, 0.3 ]
         }
       },
       "3": {
@@ -1167,11 +1167,11 @@
           "Specialised Legacy Firmware": 1
         },
         "features": {
-          "integrity": [ -0.18, 0.04 ],
-          "optmass": [ -0.1, -0.02 ],
-          "optmul": [ 0.14, 0.2 ],
-          "power": [ 0.11, 0.03 ],
-          "thermload": [ 0.6, 0.2 ]
+          "integrity": [ -0.06, -0.09 ],
+          "optmass": [ -0.5, -0.08 ],
+          "optmul": [ 0.19, 0.26 ],
+          "power": [ 0.06, 0.08 ],
+          "thermload": [ 0.3, 0.4 ]
         }
       },
       "4": {
@@ -1181,11 +1181,11 @@
           "Selenium": 1
         },
         "features": {
-          "integrity": [ -0.24, 0.05 ],
-          "optmass": [ -0.12, -0.04 ],
-          "optmul": [ 0.2, 0.25 ],
-          "power": [ 0.15, 0.05 ],
-          "thermload": [ 0.8, 0.3 ]
+          "integrity": [ -0.09, -0.12 ],
+          "optmass": [ -0.08, -0.1 ],
+          "optmul": [ 0.26, 0.33 ],
+          "power": [ 0.08, 0.1 ],
+          "thermload": [ 0.4, 0.5 ]
         }
       },
       "5": {
@@ -1195,11 +1195,11 @@
           "Pharmaceutical Isolators": 1
         },
         "features": {
-          "integrity": [ -0.3, 0.08 ],
-          "optmass": [ -0.16, -0.05 ],
-          "optmul": [ 0.25, 0.3 ],
-          "power": [ 0.2, 0.08 ],
-          "thermload": [ 1, 0.4 ]
+          "integrity": [ -0.12, -0.15 ],
+          "optmass": [ -0.1, -0.13 ],
+          "optmul": [ 0.33, 0.40 ],
+          "power": [ 0.1, 0.12 ],
+          "thermload": [ 0.5, 0.6 ]
         }
       }
     },
@@ -1215,10 +1215,9 @@
           "Carbon": 1
         },
         "features": {
-          "integrity": [ 0.14, 0.3 ],
-          "mass": [ 0.1, 0 ],
-          "optmul": [ -0.03, 0 ],
-          "thermload": [ 0, -0.1 ]
+          "integrity": [ 0, 0.3 ],
+          "mass": [ 0, 0.05 ],
+          "thermload": [ -0.1, -0.1 ]
         }
       },
       "2": {
@@ -1228,9 +1227,8 @@
         },
         "features": {
           "integrity": [ 0.3, 0.5 ],
-          "mass": [ 0.2, 0.05 ],
-          "optmul": [ -0.05, -0.02 ],
-          "thermload": [ -0.06, -0.2 ]
+          "mass": [ 0.05, 0.1 ],
+          "thermload": [ -0.1, -0.2 ]
         }
       },
       "3": {
@@ -1240,10 +1238,9 @@
           "Vanadium": 1
         },
         "features": {
-          "integrity": [ 0.45, 0.7 ],
-          "mass": [ 0.3, 0.1 ],
-          "optmul": [ -0.06, -0.03 ],
-          "thermload": [ -0.1, -0.3 ]
+          "integrity": [ 0.5, 0.7 ],
+          "mass": [ 0.1, 0.15 ],
+          "thermload": [ -0.2, -0.3 ]
         }
       },
       "4": {
@@ -1253,10 +1250,9 @@
           "High Density Composites": 1
         },
         "features": {
-          "integrity": [ 0.6, 0.9 ],
-          "mass": [ 0.4, 0.14 ],
-          "optmul": [ -0.09, -0.04 ],
-          "thermload": [ -0.15, -0.4 ]
+          "integrity": [ 0.7, 0.9 ],
+          "mass": [ 0.15, 0.2 ],
+          "thermload": [ -0.3, -0.4 ]
         }
       },
       "5": {
@@ -1266,10 +1262,9 @@
           "Proprietary Composites": 1
         },
         "features": {
-          "integrity": [ 0.75, 1.1 ],
-          "mass": [ 0.5, 0.2 ],
-          "optmul": [ -0.1, -0.05 ],
-          "thermload": [ -0.2, -0.5 ]
+          "integrity": [ 0.9, 1.1 ],
+          "mass": [ 0.2, 0.25 ],
+          "thermload": [ -0.4, -0.5 ]
         }
       }
     },
@@ -1285,11 +1280,9 @@
           "Sulphur": 1
         },
         "features": {
-          "integrity": [ -0.05, 0 ],
-          "optmass": [ -0.02, 0 ],
-          "optmul": [ 0.01, 0.05 ],
-          "power": [ 0.05, 0 ],
-          "thermload": [ -0.06, -0.2 ]
+          "optmass": [ 0, -0.02 ],
+          "optmul": [ 0, 0.08 ],
+          "thermload": [ 0, -0.2 ]
         }
       },
       "2": {
@@ -1298,11 +1291,11 @@
           "Specialised Legacy Firmware": 1
         },
         "features": {
-          "integrity": [ -0.1, -0.04 ],
-          "optmass": [ -0.05, -0.01 ],
-          "optmul": [ 0.03, 0.09 ],
-          "power": [ 0.1, 0.03 ],
-          "thermload": [ -0.1, -0.3 ]
+          "integrity": [ 0, -0.04 ],
+          "optmass": [ -0.02, -0.04 ],
+          "optmul": [ 0.08, 0.13 ],
+          "power": [ 0, 0.04 ],
+          "thermload": [ -0.2, -0.3 ]
         }
       },
       "3": {
@@ -1312,11 +1305,11 @@
           "Unexpected Emission Data": 1
         },
         "features": {
-          "integrity": [ -0.15, -0.08 ],
-          "optmass": [ -0.06, -0.02 ],
-          "optmul": [ 0.05, 0.12 ],
-          "power": [ 0.14, 0.08 ],
-          "thermload": [ -0.15, -0.4 ]
+          "integrity": [ -0.04, -0.08 ],
+          "optmass": [ -0.04, -0.06 ],
+          "optmul": [ 0.13, 0.18 ],
+          "power": [ 0.04, 0.08 ],
+          "thermload": [ -0.3, -0.4 ]
         }
       },
       "4": {
@@ -1326,11 +1319,11 @@
           "Modified Consumer Firmware": 1
         },
         "features": {
-          "integrity": [ -0.2, -0.12 ],
-          "optmass": [ -0.08, -0.04 ],
-          "optmul": [ 0.08, 0.14 ],
-          "power": [ 0.2, 0.1 ],
-          "thermload": [ -0.2, -0.5 ]
+          "integrity": [ -0.08, -0.12 ],
+          "optmass": [ -0.06, -0.08 ],
+          "optmul": [ 0.18, 0.23 ],
+          "power": [ 0.08, 0.12 ],
+          "thermload": [ -0.4, -0.5 ]
         }
       },
       "5": {
@@ -1340,11 +1333,11 @@
           "Tin": 1
         },
         "features": {
-          "integrity": [ -0.25, -0.16 ],
-          "optmass": [ -0.1, -0.05 ],
-          "optmul": [ 0.1, 0.18 ],
-          "power": [ 0.25, 0.16 ],
-          "thermload": [ -0.25, -0.6 ]
+          "integrity": [ -0.12, -0.16 ],
+          "optmass": [ -0.08, -0.1 ],
+          "optmul": [ 0.23, 0.28 ],
+          "power": [ 0.12, 0.16 ],
+          "thermload": [ -0.5, -0.6 ]
         }
       }
     },
@@ -3195,6 +3188,9 @@
     "modulename": ["Point defence"],
     "name": "Shielded"
   },
+  
+  
+  
   "PowerDistributor_HighCapacity": {
     "fdname": "PowerDistributor_HighCapacity",
     "grades": {
@@ -3203,12 +3199,13 @@
           "Sulphur": 1
         },
         "features": {
-          "engcap": [ 0.04, 0.1 ],
-          "engrate": [ -0.05, 0 ],
-          "syscap": [ 0.04, 0.1 ],
-          "sysrate": [ -0.05, 0 ],
-          "wepcap": [ 0.04, 0.1 ],
-          "weprate": [ -0.05, 0 ]
+          "engcap": [ 0, 0.1 ],
+          "engrate": [ -0.02, -0.02 ],
+          "integrity": [ 0 , 0.1 ],
+          "syscap": [ 0, 0.1 ],
+          "sysrate": [ -0.02, -0.02 ],
+          "wepcap": [ 0, 0.1 ],
+          "weprate": [ -0.02, -0.02 ]
         }
       },
       "2": {
@@ -3217,12 +3214,13 @@
           "Specialised Legacy Firmware": 1
         },
         "features": {
-          "engcap": [ 0.08, 0.15 ],
-          "engrate": [ -0.1, -0.04 ],
+          "engcap": [ 0.1 , 0.18 ],
+          "engrate": [ -0.06, -0.06 ],
+          "integrity": [ 0.1 , 0.18 ],
           "syscap": [ 0.08, 0.1 ],
-          "sysrate": [ -0.1, 0 ],
-          "wepcap": [ 0.08, 0.1 ],
-          "weprate": [ -0.1, 0 ]
+          "sysrate": [ -0.06, -0.06 ],
+          "wepcap": [ 0.1 , 0.18 ],
+          "weprate": [ -0.06, -0.06 ]
         }
       },
       "3": {
@@ -3232,12 +3230,13 @@
           "Specialised Legacy Firmware": 1
         },
         "features": {
-          "engcap": [ 0.12, 0.2 ],
-          "engrate": [ -0.15, -0.08 ],
-          "syscap": [ 0.12, 0.1 ],
-          "sysrate": [ -0.15, -0.08 ],
-          "wepcap": [ 0.12, 0.1 ],
-          "weprate": [ -0.15, -0.08 ]
+          "engcap": [ 0.18, 0.26 ],
+          "engrate": [ -0.1, -0.1 ],
+          "integrity": [ 0.15, 0.2 ],
+          "syscap": [ 0.18, 0.26 ],
+          "sysrate": [ -0.1, -0.1 ],
+          "wepcap": [ 0.18, 0.26 ],
+          "weprate": [ -0.1, -0.1 ]
         }
       },
       "4": {
@@ -3247,12 +3246,13 @@
           "Selenium": 1
         },
         "features": {
-          "engcap": [ 0.16, 0.25 ],
-          "engrate": [ -0.2, -0.12 ],
-          "syscap": [ 0.16, 0.1 ],
-          "sysrate": [ -0.2, -0.12 ],
-          "wepcap": [ 0.16, 0.1 ],
-          "weprate": [ -0.2, -0.12 ]
+          "engcap": [ 0.26, 0.34 ],
+          "engrate": [ -0.14, -0.14 ],
+          "integrity": [ 0.2, 0.25 ],
+          "syscap": [ 0.26, 0.34 ],
+          "sysrate": [ -0.14, -0.14 ],
+          "wepcap": [ 0.26, 0.34 ],
+          "weprate": [ -0.14, -0.14 ]
         }
       },
       "5": {
@@ -3262,12 +3262,13 @@
           "Proprietary Composites": 1
         },
         "features": {
-          "engcap": [ 0.2, 0.3 ],
-          "engrate": [ -0.25, -0.16 ],
-          "syscap": [ 0.2, 0.1 ],
-          "sysrate": [ -0.25, -0.16 ],
-          "wepcap": [ 0.2, 0.1 ],
-          "weprate": [ -0.25, -0.16 ]
+          "engcap": [ 0.34 , 0.42 ],
+          "engrate": [ -0.18, -0.18 ],
+          "integrity": [ 0.25, 0.3 ],
+          "syscap": [ 0.34 , 0.42 ],
+          "sysrate": [ -0.18, -0.18 ],
+          "wepcap": [ 0.34 , 0.42 ],
+          "weprate": [ -0.18, -0.18 ]
         }
       }
     },
@@ -3283,12 +3284,12 @@
           "Specialised Legacy Firmware": 1
         },
         "features": {
-          "engcap": [ -0.03, 0 ],
-          "engrate": [ 0.04, 0.12 ],
-          "syscap": [ -0.03, 0 ],
-          "sysrate": [ 0.04, 0.12 ],
-          "wepcap": [ -0.03, 0 ],
-          "weprate": [ 0.04, 0.12 ]
+          "engcap": [ -0.01 , -0.01 ],
+          "engrate": [ 0 , 0.09 ],
+          "syscap": [ -0.01 , -0.01 ],
+          "sysrate": [ 0 , 0.09 ],
+          "wepcap": [ -0.01 , -0.01 ],
+          "weprate": [ 0 , 0.09 ]
         }
       },
       "2": {
@@ -3297,12 +3298,12 @@
           "Specialised Legacy Firmware": 1
         },
         "features": {
-          "engcap": [ -0.06, -0.01 ],
-          "engrate": [ 0.08, 0.18 ],
-          "syscap": [ -0.06, -0.01 ],
-          "sysrate": [ 0.08, 0.18 ],
-          "wepcap": [ -0.06, -0.01 ],
-          "weprate": [ 0.08, 0.18 ]
+          "engcap": [ -0.02, -0.02 ],
+          "engrate": [ 0.09 , 0.18 ],
+          "syscap": [ -0.02 , -0.02 ],
+          "sysrate": [ 0.09 , 0.18 ],
+          "wepcap": [ -0.02 , -0.02 ],
+          "weprate": [ 0.09 , 0.18 ]
         }
       },
       "3": {
@@ -3312,12 +3313,12 @@
           "Modified Consumer Firmware": 1
         },
         "features": {
-          "engcap": [ -0.09, -0.02 ],
-          "engrate": [ 0.12, 0.24 ],
-          "syscap": [ -0.09, -0.02 ],
-          "sysrate": [ 0.12, 0.24 ],
-          "wepcap": [ -0.09, -0.02 ],
-          "weprate": [ 0.12, 0.24 ]
+          "engcap": [ -0.03, -0.03 ],
+          "engrate": [ 0.18, 0.27 ],
+          "syscap": [ -0.03, -0.03 ],
+          "sysrate": [ 0.18, 0.27 ],
+          "wepcap": [ -0.03, -0.03 ],
+          "weprate": [ 0.18, 0.27 ]
         }
       },
       "4": {
@@ -3327,12 +3328,12 @@
           "Hybrid Capacitors": 1
         },
         "features": {
-          "engcap": [ -0.12, -0.03 ],
-          "engrate": [ 0.16, 0.3 ],
-          "syscap": [ -0.12, -0.03 ],
-          "sysrate": [ 0.16, 0.3 ],
-          "wepcap": [ -0.12, -0.03 ],
-          "weprate": [ 0.16, 0.3 ]
+          "engcap": [ -0.04, -0.04 ],
+          "engrate": [ 0.27, 0.36 ],
+          "syscap": [ -0.04, -0.04 ],
+          "sysrate": [ 0.27, 0.36  ],
+          "wepcap": [ -0.04, -0.04 ],
+          "weprate": [ 0.27, 0.36  ]
         }
       },
       "5": {
@@ -3342,12 +3343,12 @@
           "Exquisite Focus Crystals": 1
         },
         "features": {
-          "engcap": [ -0.15, -0.04 ],
-          "engrate": [ 0.2, 0.36 ],
-          "syscap": [ -0.15, -0.04 ],
-          "sysrate": [ 0.2, 0.36 ],
-          "wepcap": [ -0.15, -0.04 ],
-          "weprate": [ 0.2, 0.36 ]
+          "engcap": [ -0.05, -0.05 ],
+          "engrate": [ 0.36, 0.45 ],
+          "syscap": [ -0.05, -0.05 ],
+          "sysrate": [ 0.36, 0.45 ],
+          "wepcap": [ -0.05, -0.05 ],
+          "weprate": [ 0.36, 0.45 ]
         }
       }
     },
@@ -3363,12 +3364,12 @@
           "Sulphur": 1
         },
         "features": {
-          "engcap": [ 0.05, 0.2 ],
-          "engrate": [ 0.02, 0.1 ],
-          "syscap": [ -0.05, 0 ],
-          "sysrate": [ -0.02, 0 ],
-          "wepcap": [ -0.05, 0 ],
-          "weprate": [ -0.02, 0 ]
+          "engcap": [ 0 , 0.2 ],
+          "engrate": [ 0 , 0.16 ],
+          "syscap": [ -0.03 , -0.03 ],
+          "sysrate": [ -0.03 , -0.03 ],
+          "wepcap": [ -0.03 , -0.03 ],
+          "weprate": [ -0.01 , -0.01 ]
         }
       },
       "2": {
@@ -3377,12 +3378,12 @@
           "Sulphur": 1
         },
         "features": {
-          "engcap": [ 0.1, 0.3 ],
-          "engrate": [ 0.04, 0.15 ],
-          "syscap": [ -0.1, -0.02 ],
-          "sysrate": [ -0.04, -0.01 ],
-          "wepcap": [ -0.1, -0.02 ],
-          "weprate": [ -0.04, -0.01 ]
+          "engcap": [ 0.2, 0.3 ],
+          "engrate": [ 0.16, 0.23 ],
+          "syscap": [ -0.06 , -0.06 ],
+          "sysrate": [ -0.06, -0.06 ],
+          "wepcap": [ -0.06 , -0.06  ],
+          "weprate": [ -0.02 , -0.02 ]
         }
       },
       "3": {
@@ -3392,12 +3393,42 @@
           "Electrochemical Arrays": 1
         },
         "features": {
-          "engcap": [ 0.15, 0.4 ],
-          "engrate": [ 0.06, 0.2 ],
-          "syscap": [ -0.15, -0.04 ],
-          "sysrate": [ -0.06, -0.02 ],
-          "wepcap": [ -0.15, -0.04 ],
-          "weprate": [ -0.06, -0.02 ]
+          "engcap": [ 0.3, 0.4 ],
+          "engrate": [ 0.23 , 0.3 ],
+          "syscap": [ -0.09, -0.09 ],
+          "sysrate": [ -0.09, -0.09 ],
+          "wepcap": [ -0.09, -0.09 ],
+          "weprate": [ -0.03, -0.03 ]
+        }
+      },
+      "4": {
+        "components": {
+          "Unidentified Scan Archives": 1,
+          "Selenium": 1,
+          "Polymer Capacitors": 1
+        },
+        "features": {
+          "engcap": [ 0.4, 0.5 ],
+          "engrate": [ 0.3, 0.37 ],
+          "syscap": [ -0.12 , -0.12 ],
+          "sysrate": [ -0.12 , -0.12 ],
+          "wepcap": [ -0.12 , -0.12  ],
+          "weprate": [ -0.04 , -0.04 ]
+        }
+      },
+      "5": {
+        "components": {
+          "Classified Scan Databanks": 1,
+          "Cadmium": 1,
+          "Military Supercapacitors": 1
+        },
+        "features": {
+          "engcap": [ 0.5, 0.6 ],
+          "engrate": [ 0.37, 0.44 ],
+          "syscap": [ -0.15 , -0.15 ],
+          "sysrate": [ -0.15 , -0.15 ],
+          "wepcap": [ -0.15 , -0.15  ],
+          "weprate": [ -0.05 , -0.05 ]
         }
       }
     },
@@ -3413,12 +3444,12 @@
           "Sulphur": 1
         },
         "features": {
-          "engcap": [ -0.05, 0 ],
-          "engrate": [ -0.02, 0 ],
-          "syscap": [ 0.05, 0.2 ],
-          "sysrate": [ 0.02, 0.1 ],
-          "wepcap": [ -0.05, 0 ],
-          "weprate": [ -0.02, 0 ]
+          "engcap": [ -0.03 , -0.03 ],
+          "engrate": [ -0.01 , -0.01 ],
+          "syscap": [  0 , 0.2 ],
+          "sysrate": [ 0 , 0.16 ],
+          "wepcap": [ -0.03 , -0.03 ],
+          "weprate": [ -0.03 , -0.03 ]
         }
       },
       "2": {
@@ -3427,12 +3458,12 @@
           "Sulphur": 1
         },
         "features": {
-          "engcap": [ -0.1, -0.02 ],
-          "engrate": [ -0.04, -0.01 ],
-          "syscap": [ 0.1, 0.3 ],
-          "sysrate": [ -0.04, 0.15 ],
-          "wepcap": [ -0.1, -0.02 ],
-          "weprate": [ -0.04, -0.01 ]
+          "engcap": [ -0.06 , -0.06 ],
+          "engrate": [ -0.02 , -0.02 ],
+          "syscap": [ 0.2, 0.3 ],
+          "sysrate": [ 0.16, 0.23 ],
+          "wepcap": [ -0.06 , -0.06  ],
+          "weprate": [ -0.06 , -0.06 ]
         }
       },
       "3": {
@@ -3442,12 +3473,42 @@
           "Electrochemical Arrays": 1
         },
         "features": {
-          "engcap": [ -0.15, -0.04 ],
-          "engrate": [ -0.06, -0.02 ],
-          "syscap": [ 0.15, 0.4 ],
-          "sysrate": [ 0.06, 0.2 ],
-          "wepcap": [ -0.15, -0.04 ],
-          "weprate": [ -0.06, -0.02 ]
+          "engcap": [ -0.09, -0.09 ],
+          "engrate": [ -0.03, -0.03 ],
+          "syscap": [ 0.3, 0.4 ],
+          "sysrate": [ 0.23 , 0.3 ],
+          "wepcap": [ -0.09, -0.09 ],
+          "weprate": [ -0.09, -0.09 ]
+        }
+      },
+      "4": {
+        "components": {
+          "Unidentified Scan Archives": 1,
+          "Selenium": 1,
+          "Polymer Capacitors": 1
+        },
+        "features": {
+          "engcap": [ -0.12 , -0.12 ],
+          "engrate": [ -0.04 , -0.04 ],
+          "syscap": [ 0.4, 0.5 ],
+          "sysrate": [ 0.3, 0.37 ],
+          "wepcap": [ -0.12 , -0.12  ],
+          "weprate": [ -0.12 , -0.12 ]
+        }
+      },
+      "5": {
+        "components": {
+          "Classified Scan Databanks": 1,
+          "Cadmium": 1,
+          "Military Supercapacitors": 1
+        },
+        "features": {
+          "engcap": [ -0.15 , -0.15 ],
+          "engrate": [ -0.05 , -0.05 ],
+          "syscap": [ 0.5, 0.6 ],
+          "sysrate": [ 0.37, 0.44 ],
+          "wepcap": [ -0.15 , -0.15  ],
+          "weprate": [ -0.15 , -0.15 ]
         }
       }
     },
@@ -3463,12 +3524,12 @@
           "Sulphur": 1
         },
         "features": {
-          "engcap": [ -0.05, 0 ],
-          "engrate": [ -0.02, 0 ],
-          "syscap": [ -0.05, 0 ],
-          "sysrate": [ -0.02, 0 ],
-          "wepcap": [ 0.05, 0.2 ],
-          "weprate": [ 0.02, 0.1 ]
+          "engcap": [ -0.03 , -0.03 ],
+          "engrate": [ -0.03 , -0.03 ],
+          "syscap": [ -0.03 , -0.03  ],
+          "sysrate": [ -0.01 , -0.01 ],
+          "wepcap": [ 0 , 0.2 ],
+          "weprate": [ 0 , 0.16 ]
         }
       },
       "2": {
@@ -3477,27 +3538,57 @@
           "Sulphur": 1
         },
         "features": {
-          "engcap": [ -0.1, -0.02 ],
-          "engrate": [ -0.04, -0.01 ],
-          "syscap": [ -0.1, -0.02 ],
-          "sysrate": [ -0.04, -0.01 ],
-          "wepcap": [ 0.1, 0.3 ],
-          "weprate": [ 0.04, 0.15 ]
+          "engcap": [ -0.06 , -0.06 ],
+          "engrate": [ -0.06 , -0.06 ],
+          "syscap": [ -0.06 , -0.06 ],
+          "sysrate": [ -0.02 , -0.02 ],
+          "wepcap": [ 0.2, 0.3  ],
+          "weprate": [ 0.16, 0.23 ]
         }
       },
       "3": {
         "components": {
           "Anomalous Bulk Scan Data": 1,
-          "Hybrid Capacitors": 1,
-          "Selenium": 1
+          "Chromium": 1,
+          "Electrochemical Arrays": 1
         },
         "features": {
-          "engcap": [ -0.15, -0.04 ],
-          "engrate": [ -0.06, -0.02 ],
-          "syscap": [ -0.15, -0.04 ],
-          "sysrate": [ -0.06, -0.02 ],
-          "wepcap": [ 0.15, 0.4 ],
-          "weprate": [ 0.06, 0.2 ]
+          "engcap": [ -0.09, -0.09 ],
+          "engrate": [ -0.09, -0.09 ],
+          "syscap": [ -0.09, -0.09 ],
+          "sysrate": [ -0.03, -0.03 ],
+          "wepcap": [ 0.3, 0.4 ],
+          "weprate": [ 0.23 , 0.3 ]
+        }
+      },
+      "4": {
+        "components": {
+          "Unidentified Scan Archives": 1,
+          "Selenium": 1,
+          "Polymer Capacitors": 1
+        },
+        "features": {
+          "engcap": [ -0.12 , -0.12 ],
+          "engrate": [ -0.12 , -0.12 ],
+          "syscap": [ -0.12 , -0.12 ],
+          "sysrate": [ -0.04 , -0.04 ],
+          "wepcap": [ 0.4, 0.5 ],
+          "weprate": [ 0.3, 0.37 ]
+        }
+      },
+      "5": {
+        "components": {
+          "Classified Scan Databanks": 1,
+          "Cadmium": 1,
+          "Military Supercapacitors": 1
+        },
+        "features": {
+          "engcap": [ -0.15 , -0.15 ],
+          "engrate": [ -0.15 , -0.15 ],
+          "syscap": [ -0.15 , -0.15 ],
+          "sysrate": [ -0.05 , -0.05 ],
+          "wepcap": [ 0.5, 0.6  ],
+          "weprate": [ 0.37, 0.44 ]
         }
       }
     },
@@ -3513,8 +3604,9 @@
           "Worn Shield Emitters": 1
         },
         "features": {
-          "integrity": [ 0.2, 0.5 ],
-          "power": [ 0.3, 0.2 ]
+          "integrity": [ 0, 0.4 ],
+          "mass": [ 0.03, 0.03 ],
+          "power": [ 0, -0.1 ]
         }
       },
       "2": {
@@ -3523,8 +3615,9 @@
           "Shield Emitters": 1
         },
         "features": {
-          "integrity": [ 0.4, 1 ],
-          "power": [ 0.6, 0.4 ]
+          "integrity": [ 0.4, 0.8 ],
+          "mass": [ 0.06, 0.06 ],
+          "power": [ -0.1, -0.15 ]
         }
       },
       "3": {
@@ -3534,8 +3627,9 @@
           "Shield Emitters": 1
         },
         "features": {
-          "integrity": [ 0.6, 1.5 ],
-          "power": [ 0.9, 0.6 ]
+          "integrity": [ 0.8, 1.2 ],
+          "mass": [ 0.09, 0.09 ],
+          "power": [ -0.15, -0.2 ]
         }
       },
       "4": {
@@ -3545,8 +3639,9 @@
           "Vanadium": 1
         },
         "features": {
-          "integrity": [ 0.8, 2 ],
-          "power": [ 1.2, 0.8 ]
+          "integrity": [ 1.2, 1.6 ],
+          "mass": [ 0.12, 0.12 ],
+          "power": [ -0.2, -0.25 ]
         }
       },
       "5": {
@@ -3556,8 +3651,9 @@
           "Tungsten": 1
         },
         "features": {
-          "integrity": [ 1, 1.5 ],
-          "power": [ 1.5, 1 ]
+          "integrity": [ 1.6, 2 ],
+          "mass": [ 0.15, 0.15 ],
+          "power": [ -0.25, -0.3 ]
         }
       }
     },
@@ -4298,9 +4394,9 @@
           "Phosphorus": 1
         },
         "features": {
-          "integrity": [ -0.15, -0.1 ],
-          "mass": [ -0.2, -0.4 ],
-          "angle": [ -0.1, -0.05 ]
+          "integrity": [ -0.1, -0.1 ],
+          "mass": [ 0, -0.2 ],
+          "angle": [ -0.05, -0.05 ]
         }
       },
       "2": {
@@ -4309,9 +4405,9 @@
           "Salvaged Alloys": 1
         },
         "features": {
-          "integrity": [ -0.3, -0.2 ],
-          "mass": [ -0.3, -0.5 ],
-          "angle": [ -0.15, -0.1 ]
+          "integrity": [ -0.2, -0.2 ],
+          "mass": [ -0.2, -0.35 ],
+          "angle": [ -0.1, -0.1 ]
         }
       },
       "3": {
@@ -4321,9 +4417,9 @@
           "Salvaged Alloys": 1
         },
         "features": {
-          "integrity": [ -0.45, -0.3 ],
-          "mass": [ -0.4, -0.6 ],
-          "angle": [ -0.2, -0.15 ]
+          "integrity": [ -0.3, -0.3 ],
+          "mass": [ -0.35, -0.5 ],
+          "angle": [ -0.15, -0.15 ]
         }
       },
       "4": {
@@ -4333,9 +4429,9 @@
           "Proto Light Alloys": 1
         },
         "features": {
-          "integrity": [ -0.6, -0.4 ],
-          "mass": [ -0.5, -0.7 ],
-          "angle": [ -0.25, -0.2 ]
+          "integrity": [ -0.4, -0.4 ],
+          "mass": [ -0.5, -0.65 ],
+          "angle": [ -0.2, -0.2 ]
         }
       },
       "5": {
@@ -4345,9 +4441,9 @@
           "Proto Radiolic Alloys": 1
         },
         "features": {
-          "integrity": [ -0.75, -0.5 ],
-          "mass": [ -0.6, -0.8 ],
-          "angle": [ -0.3, -0.25 ]
+          "integrity": [ -0.5, -0.5 ],
+          "mass": [ -0.65, -0.8 ],
+          "angle": [ -0.25, -0.25 ]
         }
       }
     },
@@ -4363,9 +4459,9 @@
           "Iron": 1
         },
         "features": {
-          "mass": [ 0.4, 0.2 ],
-          "angle": [ -0.2, -0.1 ],
-          "range": [ 0.1, 0.14 ]
+          "mass": [ 0.2, 0.2 ],
+          "angle": [ 0, -0.1 ],
+          "range": [ 0, 0.15 ]
         }
       },
       "2": {
@@ -4374,9 +4470,9 @@
           "Iron": 1
         },
         "features": {
-          "mass": [ 0.8, 0.4 ],
-          "angle": [ -0.3, -0.15 ],
-          "range": [ 0.2, 0.3 ]
+          "mass": [ 0.4, 0.4 ],
+          "angle": [ -0.1, -0.15 ],
+          "range": [ 0.15, 0.3 ]
         }
       },
       "3": {
@@ -4386,8 +4482,8 @@
           "Unexpected Emission Data": 1
         },
         "features": {
-          "mass": [ 1.2, 0.6 ],
-          "angle": [ -0.4, -0.2 ],
+          "mass": [ 0.6, 0.6 ],
+          "angle": [ -0.15, -0.2 ],
           "range": [ 0.3, 0.45 ]
         }
       },
@@ -4398,9 +4494,9 @@
           "Germanium": 1
         },
         "features": {
-          "mass": [ 1.6, 0.8 ],
-          "angle": [ -0.5, -0.25 ],
-          "range": [ 0.4, 0.6 ]
+          "mass": [ 0.8, 0.8 ],
+          "angle": [ -0.2, -0.25 ],
+          "range": [ 0.45, 0.6 ]
         }
       },
       "5": {
@@ -4410,9 +4506,9 @@
           "Polymer Capacitors": 1
         },
         "features": {
-          "mass": [ 2, 1 ],
-          "angle": [ -0.6, -0.3 ],
-          "range": [ 0.5, 0.75 ]
+          "mass": [ 1, 1 ],
+          "angle": [ -0.25, -0.3 ],
+          "range": [ 0.6, 0.75 ]
         }
       }
     },
@@ -4428,9 +4524,9 @@
           "Mechanical Scrap": 1
         },
         "features": {
-          "power": [ 0.2, 0.1 ],
-          "angle": [ 0.2, 0.4 ],
-          "range": [ -0.08, -0.05 ]
+          "power": [ 0.1, 0.1 ],
+          "angle": [ 0, 0.4 ],
+          "range": [ -0.04, -0.04 ]
         }
       },
       "2": {
@@ -4439,9 +4535,9 @@
           "Mechanical Scrap": 1
         },
         "features": {
-          "power": [ 0.4, 0.2 ],
+          "power": [ 0.2, 0.2 ],
           "angle": [ 0.4, 0.8 ],
-          "range": [ -0.16, -0.08 ]
+          "range": [ -0.08, -0.08 ]
         }
       },
       "3": {
@@ -4451,9 +4547,9 @@
           "Mechanical Scrap": 1
         },
         "features": {
-          "power": [ 0.6, 0.3 ],
-          "angle": [ 0.6, 1.2 ],
-          "range": [ -0.24, -0.12 ]
+          "power": [ 0.3, 0.3 ],
+          "angle": [ 0.8, 1.2 ],
+          "range": [ -0.12, -0.12 ]
         }
       },
       "4": {
@@ -4463,9 +4559,9 @@
           "Niobium": 1
         },
         "features": {
-          "power": [ 0.8, 0.4 ],
-          "angle": [ 0.8, 1.6 ],
-          "range": [ -0.32, -0.16 ]
+          "power": [ 0.4, 0.4 ],
+          "angle": [ 1.2, 1.6 ],
+          "range": [ -0.16, -0.16 ]
         }
       },
       "5": {
@@ -4475,9 +4571,9 @@
           "Tin": 1
         },
         "features": {
-          "power": [ 1, 0.5 ],
-          "angle": [ 1, 2 ],
-          "range": [ -0.4, -0.2 ]
+          "power": [ 0.5, 0.5 ],
+          "angle": [ 1.6, 2 ],
+          "range": [ -0.2, -0.2 ]
         }
       }
     },
@@ -4493,8 +4589,8 @@
           "Phosphorus": 1
         },
         "features": {
-          "mass": [ 0.4, 0.2 ],
-          "scanrate": [ 0.1, 0.4 ]
+          "mass": [ 0.2, 0.2 ],
+          "scanrate": [ 0, 0.2 ]
         }
       },
       "2": {
@@ -4503,8 +4599,8 @@
           "Phosphorus": 1
         },
         "features": {
-          "mass": [ 0.8, 0.4 ],
-          "scanrate": [ 0.2, 0.5 ]
+          "mass": [ 0.4, 0.4 ],
+          "scanrate": [ 0.2, 0.35 ]
         }
       },
       "3": {
@@ -4514,8 +4610,8 @@
           "Phosphorus": 1
         },
         "features": {
-          "mass": [ 1.2, 0.6 ],
-          "scanrate": [ 0.3, 0.6 ]
+          "mass": [ 0.6, 0.6 ],
+          "scanrate": [ 0.35, 0.5 ]
         }
       },
       "4": {
@@ -4525,8 +4621,8 @@
           "Manganese": 1
         },
         "features": {
-          "mass": [ 1.6, 0.8 ],
-          "scanrate": [ 0.4, 0.7 ]
+          "mass": [ 0.8, 0.8 ],
+          "scanrate": [ 0.5, 0.65 ]
         }
       },
       "5": {
@@ -4536,8 +4632,8 @@
           "Refined Focus Crystals": 1
         },
         "features": {
-          "mass": [ 2, 1 ],
-          "scanrate": [ 0.5, 0.8 ]
+          "mass": [ 1, 1 ],
+          "scanrate": [ 0.65, 0.8 ]
         }
       }
     },
@@ -4553,8 +4649,8 @@
           "Iron": 1
         },
         "features": {
-          "mass": [ 0.4, 0.2 ],
-          "range": [ 0.2, 0.4 ]
+          "mass": [ 0.2, 0.2 ],
+          "range": [ 0, 0.4 ]
         }
       },
       "2": {
@@ -4563,7 +4659,7 @@
           "Iron": 1
         },
         "features": {
-          "mass": [ 0.8, 0.4 ],
+          "mass": [ 0.4, 0.4 ],
           "range": [ 0.4, 0.8 ]
         }
       },
@@ -4574,8 +4670,8 @@
           "Unexpected Emission Data": 1
         },
         "features": {
-          "mass": [ 1.2, 0.6 ],
-          "range": [ 0.6, 1.2 ]
+          "mass": [ 0.6, 0.6 ],
+          "range": [ 0.8, 1.2 ]
         }
       },
       "4": {
@@ -4585,8 +4681,8 @@
           "Germanium": 1
         },
         "features": {
-          "mass": [ 1.6, 0.8 ],
-          "range": [ 0.8, 1.6 ]
+          "mass": [ 0.8, 0.8 ],
+          "range": [ 1.2, 1.6 ]
         }
       },
       "5": {
@@ -4596,8 +4692,8 @@
           "Polymer Capacitors": 1
         },
         "features": {
-          "mass": [ 2, 1 ],
-          "range": [ 1, 2 ]
+          "mass": [ 1, 1 ],
+          "range": [ 1.6, 2 ]
         }
       }
     },
@@ -4613,8 +4709,8 @@
           "Mechanical Scrap": 1
         },
         "features": {
-          "mass": [ 0.4, 0.2 ],
-          "angle": [ 0.2, 0.4 ]
+          "mass": [ 0.2, 0.2 ],
+          "angle": [ 0, 0.4 ]
         }
       },
       "2": {
@@ -4623,7 +4719,7 @@
           "Mechanical Scrap": 1
         },
         "features": {
-          "mass": [ 0.8, 0.4 ],
+          "mass": [ 0.4, 0.4 ],
           "angle": [ 0.4, 0.8 ]
         }
       },
@@ -4634,8 +4730,8 @@
           "Mechanical Scrap": 1
         },
         "features": {
-          "mass": [ 1.2, 0.6 ],
-          "angle": [ 0.6, 1.2 ]
+          "mass": [ 0.6, 0.6 ],
+          "angle": [ 0.8, 1.2 ]
         }
       },
       "4": {
@@ -4645,8 +4741,8 @@
           "Niobium": 1
         },
         "features": {
-          "mass": [ 1.6, 0.8 ],
-          "angle": [ 0.8, 1.6 ]
+          "mass": [ 0.8, 0.8 ],
+          "angle": [ 1.2, 1.6 ]
         }
       },
       "5": {
@@ -4656,8 +4752,8 @@
           "Tin": 1
         },
         "features": {
-          "mass": [ 2, 1 ],
-          "angle": [ 1, 2 ]
+          "mass": [ 1, 1 ],
+          "angle": [ 1.6, 2 ]
         }
       }
     },
@@ -5831,8 +5927,8 @@
           "Sulphur": 1
         },
         "features": {
-          "damage": [ 0, 0.04 ],
-          "thermload": [ -0.3, -0.4 ]
+          "damage": [ 0, 0.08 ],
+          "thermload": [ -0, -0.38 ]
         }
       },
       "2": {
@@ -5841,9 +5937,10 @@
           "Sulphur": 1
         },
         "features": {
-          "damage": [ 0.01, 0.05 ],
-          "power": [ 0, -0.1 ],
-          "thermload": [ -0.36, -0.45 ]
+          "damage": [ 0.08, 0.12 ],
+          "distdraw": [ 0, -0.15 ],
+          "power": [ 0, -0.12 ],
+          "thermload": [ -0.38, -0.43 ]
         }
       },
       "3": {
@@ -5853,10 +5950,10 @@
           "Heat Exchangers": 1
         },
         "features": {
-          "damage": [ 0.01, 0.07 ],
-          "distdraw": [ -0.15, -0.25 ],
-          "power": [ -0.06, -0.2 ],
-          "thermload": [ -0.4, -0.5 ]
+          "damage": [ 0.12, 0.16 ],
+          "distdraw": [ -0.15, -0.24 ],
+          "power": [ -0.12, -0.24 ],
+          "thermload": [ -0.43, -0.48 ]
         }
       },
       "4": {
@@ -5866,10 +5963,10 @@
           "Selenium": 1
         },
         "features": {
-          "damage": [ 0.03, 0.08 ],
-          "distdraw": [ -0.2, -0.3 ],
-          "power": [ -0.1, -0.3 ],
-          "thermload": [ -0.45, -0.55 ]
+          "damage": [ 0.16, 0.20 ],
+          "distdraw": [ -0.24, -0.35 ],
+          "power": [ -0.24, -0.36 ],
+          "thermload": [ -0.48, -0.52 ]
         }
       },
       "5": {
@@ -5879,10 +5976,10 @@
           "Unexpected Emission Data": 1
         },
         "features": {
-          "damage": [ 0.03, 0.09 ],
-          "distdraw": [ -0.25, -0.36 ],
-          "power": [ -0.14, -0.4 ],
-          "thermload": [ -0.5, -0.6 ]
+          "damage": [ 0.20, 0.24 ],
+          "distdraw": [ -0.35, -0.45 ],
+          "power": [ -0.36, -0.45 ],
+          "thermload": [ -0.52, -0.6 ]
         }
       }
     },
@@ -5898,9 +5995,10 @@
           "Iron": 1
         },
         "features": {
-          "range": [ 0.1, 0.2 ],
-          "rof": [ -0.17, -0.08 ],
-          "thermload": [ 0.5, 0.4 ]
+          "piercing": [ 0, 0.4 ],
+          "range": [ 0, 0.36 ],
+          "rof": [ 0, 0.36 ],
+          "thermload": [ 0.01, 0.01 ]
         }
       },
       "2": {
@@ -5909,10 +6007,10 @@
           "Iron": 1
         },
         "features": {
-          "piercing": [ 0, 0.1 ],
-          "range": [ 0.2, 0.4 ],
-          "rof": [ -0.14, -0.06 ],
-          "thermload": [ 0.4, 0.3 ]
+          "piercing": [ 0.4, 0.6 ],
+          "range": [ 0.36, 0.52 ],
+          "rof": [ 0.36, 0.52 ],
+          "thermload": [ 0.02, 0.02 ]
         }
       },
       "3": {
@@ -5922,10 +6020,10 @@
           "Iron": 1
         },
         "features": {
-          "piercing": [ 0.1, 0.2 ],
-          "range": [ 0.3, 0.6 ],
-          "rof": [ -0.1, -0.04 ],
-          "thermload": [ 0.3, 0.2 ]
+          "piercing": [ 0.6, 0.8 ],
+          "range": [ 0.52, 0.68 ],
+          "rof": [ 0.52, 0.68 ],
+          "thermload": [ 0.03, 0.03 ]
         }
       },
       "4": {
@@ -5935,10 +6033,10 @@
           "Polymer Capacitors": 1
         },
         "features": {
-          "piercing": [ 0.2, 0.4 ],
-          "range": [ 0.4, 0.8 ],
-          "rof": [ -0.08, -0.02 ],
-          "thermload": [ 0.2, 0.1 ]
+          "piercing": [ 0.8, 1 ],
+          "range": [ 0.68, 0.84 ],
+          "rof": [ 0.68, 0.84 ],
+          "thermload": [ 0.04, 0.04 ]
         }
       },
       "5": {
@@ -5948,10 +6046,10 @@
           "Refined Focus Crystals": 1
         },
         "features": {
-          "piercing": [ 0.3, 0.6 ],
-          "range": [ 0.5, 1 ],
-          "rof": [ -0.04, 0 ],
-          "thermload": [ 0.1, 0 ]
+          "piercing": [ 1, 1.2 ],
+          "range": [ 0.84, 1 ],
+          "rof": [ 0.84, 1 ],
+          "thermload": [ 0.05, 0.05 ]
         }
       }
     },
@@ -6042,10 +6140,8 @@
           "Phosphorus": 1
         },
         "features": {
-          "distdraw": [ -0.02, -0.04 ],
-          "integrity": [ -0.2, 0 ],
-          "mass": [ -0.1, -0.15 ],
-          "power": [ -0.02, -0.04 ]
+          "integrity": [ -0.2, -0.2 ],
+          "mass": [ 0, -0.3 ],
         }
       },
       "2": {
@@ -6054,10 +6150,10 @@
           "Salvaged Alloys": 1
         },
         "features": {
-          "distdraw": [ -0.04, -0.08 ],
-          "integrity": [ -0.3, -0.1 ],
-          "mass": [ -0.2, -0.36 ],
-          "power": [ -0.04, -0.08 ]
+          "distdraw": [ 0, -0.2 ],
+          "integrity": [ -0.3, -0.3 ],
+          "mass": [ -0.3, -0.45 ],
+          "power": [ 0, -0.1 ]
         }
       },
       "3": {
@@ -6067,10 +6163,10 @@
           "Salvaged Alloys": 1
         },
         "features": {
-          "distdraw": [ -0.06, -0.12 ],
-          "integrity": [ -0.4, -0.2 ],
-          "mass": [ -0.3, -0.55 ],
-          "power": [ -0.06, -0.12 ]
+          "distdraw": [ -0.2, -0.25 ],
+          "integrity": [ -0.4, -0.4 ],
+          "mass": [ -0.45, -0.6 ],
+          "power": [ -0.1, -0.2 ]
         }
       },
       "4": {
@@ -6080,10 +6176,10 @@
           "Proto Light Alloys": 1
         },
         "features": {
-          "distdraw": [ -0.08, -0.16 ],
-          "integrity": [ -0.5, -0.3 ],
-          "mass": [ -0.4, -0.75 ],
-          "power": [ -0.08, -0.16 ]
+          "distdraw": [ -0.25, -0.3 ],
+          "integrity": [ -0.5, -0.5 ],
+          "mass": [ -0.6, -0.75 ],
+          "power": [ -0.2, -0.3 ]
         }
       },
       "5": {
@@ -6093,10 +6189,10 @@
           "Proto Radiolic Alloys": 1
         },
         "features": {
-          "distdraw": [ -0.1, -0.2 ],
-          "integrity": [ -0.6, -0.4 ],
-          "mass": [ -0.5, -0.9 ],
-          "power": [ -0.1, -0.2 ]
+          "distdraw": [ -0.3, -0.35 ],
+          "integrity": [ -0.6, -0.6 ],
+          "mass": [ -0.75, -0.9 ],
+          "power": [ -0.3, -0.4 ]
         }
       }
     },
@@ -6112,10 +6208,11 @@
           "Sulphur": 1
         },
         "features": {
-          "fallofffromrange": [ 1, 1 ],
-          "mass": [ 0.1, 0 ],
-          "range": [ 0.1, 0.2 ],
-          "shotspeed": [ 0.1, 0.2 ]
+          "fallofffromrange": [ 0, 0.2 ],
+          "mass": [ 0.1, 0.1 ],
+          "power": [ 0.03, 0.03 ],
+          "range": [ 0, 0.2 ],
+          "shotspeed": [ 0, 0.2 ]
         }
       },
       "2": {
@@ -6124,9 +6221,9 @@
           "Sulphur": 1
         },
         "features": {
-          "fallofffromrange": [ 1, 1 ],
-          "mass": [ 0.2, 0.05 ],
-          "power": [ 0.05, 0 ],
+          "fallofffromrange": [ 0.2, 0.4 ],
+          "mass": [ 0.15, 0.15 ],
+          "power": [ 0.06, 0.06 ],
           "range": [ 0.2, 0.4 ],
           "shotspeed": [ 0.2, 0.4 ]
         }
@@ -6138,11 +6235,11 @@
           "Sulphur": 1
         },
         "features": {
-          "fallofffromrange": [ 1, 1 ],
-          "mass": [ 0.3, 0.1 ],
-          "power": [ 0.1, 0.05 ],
-          "range": [ 0.3, 0.6 ],
-          "shotspeed": [ 0.3, 0.6 ]
+          "fallofffromrange": [ 0.4, 0.6 ],
+          "mass": [ 0.2, 0.2 ],
+          "power": [ 0.09, 0.09 ],
+          "range": [ 0.4, 0.6 ],
+          "shotspeed": [ 0.4, 0.6 ]
         }
       },
       "4": {
@@ -6152,11 +6249,11 @@
           "Modified Consumer Firmware": 1
         },
         "features": {
-          "fallofffromrange": [ 1, 1 ],
-          "mass": [ 0.4, 0.15 ],
-          "power": [ 0.15, 0.1 ],
-          "range": [ 0.4, 0.8 ],
-          "shotspeed": [ 0.4, 0.8 ]
+          "fallofffromrange": [ 0.6, 0.8 ],
+          "mass": [ 0.25, 0.25 ],
+          "power": [ 0.12, 0.12 ],
+          "range": [ 0.6, 0.8 ],
+          "shotspeed": [ 0.6, 0.8 ]
         }
       },
       "5": {
@@ -6166,11 +6263,11 @@
           "Thermic Alloys": 1
         },
         "features": {
-          "fallofffromrange": [ 1, 1 ],
-          "mass": [ 0.5, 0.2 ],
-          "power": [ 0.2, 0.15 ],
-          "range": [ 0.5, 1 ],
-          "shotspeed": [ 0.5, 1 ]
+          "fallofffromrange": [ 0.8, 1 ],
+          "mass": [ 0.3, 0.3 ],
+          "power": [ 0.15, 0.15 ],
+          "range": [ 0.8, 1 ],
+          "shotspeed": [ 0.8, 1 ]
         }
       }
     },
@@ -6186,11 +6283,10 @@
           "Nickel": 1
         },
         "features": {
-          "clip": [ -0.05, -0.04 ],
-          "damage": [ 0.14, 0.25 ],
-          "distdraw": [ 0.9, 0.45 ],
-          "jitter": [ 1, 0.4 ],
-          "thermload": [ 0.45, 0.3 ]
+          "clip": [ 0, -0.03 ],
+          "damage": [ 0, 0.3 ],
+          "distdraw": [ 0, 0.15 ],
+          "thermload": [ 0, 0.03 ]
         }
       },
       "2": {
@@ -6199,11 +6295,10 @@
           "Nickel": 1
         },
         "features": {
-          "clip": [ -0.1, -0.06 ],
-          "damage": [ 0.2, 0.3 ],
-          "distdraw": [ 0.8, 0.4 ],
-          "jitter": [ 0.8, 0.3 ],
-          "thermload": [ 0.3, 0.14 ]
+          "clip": [ -0.03, -0.06 ],
+          "damage": [ 0.3, 0.4 ],
+          "distdraw": [ 0.15, 0.2 ],
+          "thermload": [ 0.03, 0.06 ]
         }
       },
       "3": {
@@ -6213,11 +6308,10 @@
           "Nickel": 1
         },
         "features": {
-          "clip": [ -0.16, -0.1 ],
-          "damage": [ 0.25, 0.35 ],
-          "distdraw": [ 0.7, 0.35 ],
-          "jitter": [ 0.6, 0.2 ],
-          "thermload": [ 0.14, 0 ]
+          "clip": [ -0.06, -0.09 ],
+          "damage": [ 0.4, 0.5 ],
+          "distdraw": [ 0.2, 0.25 ],
+          "thermload": [ 0.06, 0.09 ]
         }
       },
       "4": {
@@ -6227,10 +6321,10 @@
           "Zinc": 1
         },
         "features": {
-          "clip": [ -0.2, -0.12 ],
-          "damage": [ 0.3, 0.4 ],
-          "distdraw": [ 0.6, 0.3 ],
-          "jitter": [ 0.4, 0.1 ]
+          "clip": [ -0.09, -0.12 ],
+          "damage": [ 0.5, 0.6 ],
+          "distdraw": [ 0.25, 0.3 ],
+          "thermload": [ 0.09, 0.12 ]
         }
       },
       "5": {
@@ -6240,9 +6334,10 @@
           "Zirconium": 1
         },
         "features": {
-          "clip": [ -0.25, -0.16 ],
-          "damage": [ 0.35, 0.45 ],
-          "distdraw": [ 0.5, 0.25 ]
+          "clip": [ -0.12, -0.15 ],
+          "damage": [ 0.6, 0.7 ],
+          "distdraw": [ 0.3, 0.35 ],
+          "thermload": [ 0.12, 0.15 ]
         }
       }
     },
@@ -6396,8 +6491,9 @@
           "Nickel": 1
         },
         "features": {
-          "integrity": [ 0.2, 0.5 ],
-          "mass": [ 0.5, 0 ],
+          "integrity": [ 0, 1 ],
+          "mass": [ 0.2, 0.2 ],
+          "piercing": [ 0 , 0.2 ],
           "thermload": [ 0, -0.1 ]
         }
       },
@@ -6407,9 +6503,10 @@
           "Shield Emitters": 1
         },
         "features": {
-          "integrity": [ 0.4, 1 ],
-          "mass": [ 1, 0.5 ],
-          "thermload": [ -0.06, -0.15 ]
+          "integrity": [ 1.5, 1.5 ],
+          "mass": [ 0.4, 0.4 ],
+          "piercing": [ 0.2, 0.3 ],
+          "thermload": [ -0.1, -0.15 ]
         }
       },
       "3": {
@@ -6419,10 +6516,10 @@
           "Tungsten": 1
         },
         "features": {
-          "integrity": [ 0.6, 1.5 ],
-          "mass": [ 1.5, 1 ],
-          "piercing": [ 0, 0.14 ],
-          "thermload": [ -0.1, -0.2 ]
+          "integrity": [ 2, 2 ],
+          "mass": [ 0.6, 0.6 ],
+          "piercing": [ 0.3, 0.4 ],
+          "thermload": [ -0.15, -0.2 ]
         }
       },
       "4": {
@@ -6432,10 +6529,10 @@
           "Zinc": 1
         },
         "features": {
-          "integrity": [ 0.8, 2 ],
-          "mass": [ 2, 1.5 ],
-          "piercing": [ 0.1, 0.3 ],
-          "thermload": [ -0.15, -0.25 ]
+          "integrity": [ 2.5, 2.5 ],
+          "mass": [ 0.8, 0.8 ],
+          "piercing": [ 0.4, 0.5 ],
+          "thermload": [ -0.2, -0.25 ]
         }
       },
       "5": {
@@ -6445,10 +6542,10 @@
           "Technetium": 1
         },
         "features": {
-          "integrity": [ 1, 2.5 ],
-          "mass": [ 2.5, 2 ],
-          "piercing": [ 0.2, 0.45 ],
-          "thermload": [ -0.2, -0.3 ]
+          "integrity": [ 3 , 3 ],
+          "mass": [ 1, 1 ],
+          "piercing": [ 0.5, 0.6 ],
+          "thermload": [ -0.25, -0.3 ]
         }
       }
     },
