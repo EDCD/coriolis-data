@@ -6277,6 +6277,138 @@
           "Sulphur": 1
         },
         "features": {
+          "fallofffromrange": [
+            0,
+            0.2
+          ],
+          "mass": [
+            0.1,
+            0.1
+          ],
+          "power": [
+            0.03,
+            0.03
+          ],
+          "range": [
+            0,
+            0.2
+          ]
+        }
+      },
+      "2": {
+        "components": {
+          "Modified Consumer Firmware": 1,
+          "Sulphur": 1
+        },
+        "features": {
+          "fallofffromrange": [
+            0.2,
+            0.4
+          ],
+          "mass": [
+            0.15,
+            0.15
+          ],
+          "power": [
+            0.06,
+            0.06
+          ],
+          "range": [
+            0.2,
+            0.4
+          ]
+        }
+      },
+      "3": {
+        "components": {
+          "Focus Crystals": 1,
+          "Modified Consumer Firmware": 1,
+          "Sulphur": 1
+        },
+        "features": {
+          "fallofffromrange": [
+            0.4,
+            0.6
+          ],
+          "mass": [
+            0.2,
+            0.2
+          ],
+          "power": [
+            0.09,
+            0.09
+          ],
+          "range": [
+            0.4,
+            0.6
+          ]
+        }
+      },
+      "4": {
+        "components": {
+          "Conductive Polymers": 1,
+          "Focus Crystals": 1,
+          "Modified Consumer Firmware": 1
+        },
+        "features": {
+          "fallofffromrange": [
+            0.6,
+            0.8
+          ],
+          "mass": [
+            0.25,
+            0.25
+          ],
+          "power": [
+            0.12,
+            0.12
+          ],
+          "range": [
+            0.6,
+            0.8
+          ]
+        }
+      },
+      "5": {
+        "components": {
+          "Biotech Conductors": 1,
+          "Cracked Industrial Firmware": 1,
+          "Thermic Alloys": 1
+        },
+        "features": {
+          "fallofffromrange": [
+            0.8,
+            1
+          ],
+          "mass": [
+            0.3,
+            0.3
+          ],
+          "power": [
+            0.15,
+            0.15
+          ],
+          "range": [
+            0.8,
+            1
+          ]
+        }
+      }
+    },
+    "id": 87,
+    "modulename": [
+      "Weapon"
+    ],
+    "name": "Long range"
+  },
+  "Weapon_LongRange_ShotSpeed": {
+    "fdname": "Weapon_LongRange",
+    "grades": {
+      "1": {
+        "components": {
+          "Sulphur": 1
+        },
+        "features": {
           "fallofffromrange": [ 0, 0.2 ],
           "mass": [ 0.1, 0.1 ],
           "power": [ 0.03, 0.03 ],

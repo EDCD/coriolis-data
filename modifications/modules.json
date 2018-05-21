@@ -686,7 +686,7 @@
           }
         }
       },
-      "Weapon_LongRange": {
+      "Weapon_LongRange_ShotSpeed": {
         "grades": {
           "1": {
             "engineers": [
@@ -3551,7 +3551,7 @@
           }
         }
       },
-      "Weapon_LongRange": {
+      "Weapon_LongRange_ShotSpeed": {
         "grades": {
           "1": {
             "engineers": [
