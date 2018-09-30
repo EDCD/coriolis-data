@@ -6,7 +6,7 @@
         "name": "Type-10 Defender",
         "manufacturer": "Lakon",
         "class": 3,
-        "hullCost": 121454173,
+        "hullCost": 121454652,
         "speed": 179,
         "boost": 219,
         "boostEnergy": 19,
@@ -22,7 +22,7 @@
         "yaw": 8,
         "crew": 3
       },
-      "retailCost": 121454652,
+      "retailCost": 124755342,
       "bulkheads": [
         { "id": "1Q", "edID": 128785621, "eddbID": 1627, "grp": "bh", "cost": 0, "mass": 0, "causres": 0, "explres": -0.4, "kinres": -0.2, "thermres": 0, "hullboost": 0.8 },
         { "id": "1R", "edID": 128785622, "eddbID": 1628, "grp": "bh", "cost": 49902137, "mass": 75, "causres": 0, "explres": -0.4, "kinres": -0.2, "thermres": 0, "hullboost": 1.52 },
