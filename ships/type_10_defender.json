@@ -36,7 +36,7 @@
         "internal": [8, 7, 6, 5, 4, 4, 3, 3, 2,{ "class": 5, "name": "Military", "eligible": { "mahr":1, "hr": 1, "scb": 1, "mrp": 1, "gsrp": 1, "gmrp": 1, "ghrp": 1 } },{ "class": 5, "name": "Military", "eligible": { "hr": 1, "scb": 1, "mrp": 1, "gsrp": 1, "gmrp": 1, "ghrp": 1 } }]
       },
       "defaults": {
-        "standard": ["6E", "7E", "6E", "5E", "7E", "4E", "6C"],
+        "standard": ["6E", "7E", "6E", "5E", "6E", "4E", "6C"],
         "hardpoints": [0, 0, 0, 0, 17, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         "internal": ["06", "05", "4j", "03", "02", 0, "01", 0, "2h", 0, 0]
       }
