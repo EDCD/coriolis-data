@@ -197,13 +197,13 @@
   },
   "special_fsd_interrupt": {
     "damage": -0.3,
-    "rof": 0.5
+    "rof": -0.5
   },
   "special_high_yield_shell": {
-    "rof": 0.1111111111111111
+    "rof": -0.10
   },
   "special_incendiary_rounds": {
-    "rof": 0.05263157894736842,
+    "rof": -0.05,
     "thermload": 2,
     "damagedist": {
       "T": 1
@@ -237,7 +237,7 @@
   },
   "special_reverberating_cascade": {},
   "special_scramble_spectrum": {
-    "rof": 0.1111111111111111
+    "rof": -0.10
   },
   "special_screening_shell": {
     "reload": -0.5
