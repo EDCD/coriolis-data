@@ -691,7 +691,7 @@
 	  "mass": 3,
 	  "pgen": 18.24,
 	  "rating": "A",
-	  "name": "Modified Power Plant",
+	  "name": "Ar+OC Power Plant",
 	  "symbol": "Int_Powerplant_Size3_Class5",
 	  "ukName": "Double Engineered Power Plant",
 	  "ukDiscript": "Consumes fuel to power all ship modules."
