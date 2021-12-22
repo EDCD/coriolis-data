@@ -971,6 +971,34 @@
       "symbol": "Int_ShieldGenerator_Size8_Class5",
       "ukName": "Shield Generator",
       "ukDiscript": "Forms a continually regenerating protective energy shield around the vessel."
-    }
+    },
+	{
+	  "brokenregen": 1.87,
+	  "class": 3,
+	  "cost": 0,
+	  "distdraw": 0.6,
+	  "edID": 128064272,
+	  "eddbID": 1125,
+	  "explres": 0.5,
+	  "grp": "sg",
+	  "id": "xp",
+	  "integrity": 92.4,
+	  "kinres": 0.58,
+	  "mass": 5,
+	  "maxmass": 413,
+	  "maxmul": 1.7,
+	  "minmass": 83,
+	  "minmul": 0.7,
+	  "name": "Modified Shield Generator",
+	  "optmass": 165,
+	  "optmul": 1.2,
+	  "power": 3.528,
+	  "rating": "A",
+	  "regen": 1,
+	  "thermres": 0.22,
+	  "symbol": "Int_ShieldGenerator_Size3_Class5",
+	  "ukName": "Shield Generator",
+	  "ukDiscript": "Forms a continually regenerating protective energy shield around the vessel."
+	}
   ]
 }

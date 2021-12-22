@@ -61,6 +61,38 @@
       "rating": "D",
       "thermload": 1.8,
       "symbol": "Hpt_Mining_Abrblstr_Turret_Small"
+    },
+	{
+      "breachdmg": 0.6,
+      "breachmax": 0.2,
+      "shotspeed": 3335,
+      "breachmin": 0.1,
+      "class": 1,
+      "cost": 0,
+      "damage": 4,
+      "chargetime": 0,
+      "damagedist": {
+        "T": 1
+      },
+      "distdraw": 1,
+      "edID": 128915458,
+      "eddbID": 0,
+      "falloff": 5000,
+      "fireint": 0.2,
+      "clip": 1,
+      "grp": "abl",
+      "id": "xa",
+      "reload": 2,
+      "integrity": 20,
+      "mass": 2,
+      "mount": "F",
+	  "name" : "Modified Abrasion Blaster",
+      "piercing": 18,
+      "power": 0.17,
+      "range": 5000,
+      "rating": "D",
+      "thermload": 1,
+      "symbol": "Hpt_Mining_Abrblstr_Fixed_Small"
     }
   ]
 }

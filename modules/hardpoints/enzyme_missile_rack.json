@@ -29,6 +29,37 @@
       "damagedist": {
         "E": 1
       }
-    }
+  },
+  {
+      "experimental": true,
+	  "rating": "B",
+	  "class": 2,
+	  "grp": "tbem",
+	  "id": "xb",
+	  "eddbID": 0,
+	  "edID": 128833995,
+	  "fireint": 2.0,
+	  "mount": "F",
+	  "name": "Modified Enzyme Missile Rack",
+	  "cost": 0,
+	  "mass": 6.40,
+	  "integrity": 51,
+	  "power": 1.44,
+	  "damage": 7.5,
+	  "distdraw": 0.08,
+	  "thermload": 1.5,
+	  "piercing": 60,
+	  "shotspeed": 750,
+	  "clip": 14,
+	  "ammo": 80,
+	  "reload": 5,
+	  "breachdmg": 0,
+	  "breachmin": 0.8,
+	  "breachmax": 1,
+	  "symbol": "Hpt_CausticMissile_Fixed_Medium",
+	  "damagedist": {
+  		"E": 1
+	  }
+  }
   ]
 }

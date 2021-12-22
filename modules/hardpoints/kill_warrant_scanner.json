@@ -74,6 +74,22 @@
       "rating": "A",
       "scantime": 10,
       "symbol": "Hpt_CrimeScanner_Size0_Class5"
-    }
+    },
+	{
+	  "class": 0,
+	  "cost": 0,
+	  "edID": 128662534,
+	  "eddbID": 1241,
+	  "grp": "kw",
+	  "id": "xi",
+	  "integrity": 24,
+	  "mass": 1.3,
+	  "name": "Modified KWS",
+	  "power": 4.8,
+	  "range": 6600,
+	  "rating": "A",
+	  "scantime": 2,
+	  "symbol": "Hpt_CrimeScanner_Size0_Class5"
+	}
   ]
 }

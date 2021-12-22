@@ -15,6 +15,22 @@
       "symbol": "Int_DetailedSurfaceScanner_Tiny",
       "ukName": "Surface Scanner",
       "ukDiscript": "Advanced stellar body scanner used during exploration."
-    }
+    },
+	{
+	  "class": 1,
+	  "cost": 0,
+	  "edID": 128666634,
+	  "eddbID": 1245,
+	  "grp": "ss",
+	  "id": "xq",
+	  "mass": 0,
+	  "name": "Modified Detailed Surface Scanner",
+	  "power": 0,
+	  "proberadius": 0.4,
+	  "rating": "I",
+	  "symbol": "Int_DetailedSurfaceScanner_Tiny",
+	  "ukName": "Surface Scanner",
+	  "ukDiscript": "Advanced stellar body scanner used during exploration."
+	}
   ]
 }

@@ -96,6 +96,38 @@
       "reload": 1,
       "thermload": 11,
       "symbol": "Hpt_Railgun_Fixed_Medium_Burst"
-    }
+    },
+	{
+	  "ammo": 160,
+	  "breachdmg": 31.6,
+	  "breachmax": 0.8,
+	  "breachmin": 0.4,
+	  "class": 2,
+	  "clip": 2,
+	  "cost": 0,
+	  "damage": 33.22,
+	  "damagedist": {
+		"T": 0.66666666666666666666666666666667,
+		"K": 0.33333333333333333333333333333333
+	  },
+	  "distdraw": 5.11,
+	  "edID": 128049489,
+	  "eddbID": 877,
+	  "falloff": 6000,
+	  "fireint": 1.52,
+	  "grp": "rg",
+	  "id": "xg",
+	  "integrity": 51,
+	  "mass": 7.6,
+	  "mount": "F",
+	  "name": "Modified Rail Gun",
+	  "piercing": 100,
+	  "power": 2.6895,
+	  "range": 6000,
+	  "rating": "B",
+	  "reload": 1.25,
+	  "thermload": 12,
+	  "symbol": "Hpt_Railgun_Fixed_Medium"
+	}
   ]
 }

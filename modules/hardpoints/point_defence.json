@@ -28,6 +28,35 @@
       "shotspeed": 1000,
       "thermload": 0.1,
       "symbol": "Hpt_PlasmaPointDefence_Turret_Tiny"
-    }
+    },
+	{
+	  "ammo": 10000,
+	  "burst": 4,
+	  "burstrof": 15,
+	  "class": 0,
+	  "clip": 12,
+	  "cost": 0,
+	  "damage": 0.2,
+	  "damagedist": {
+		"K": 1
+	  },
+	  "edID": 128049522,
+	  "eddbID": 887,
+	  "fireint": 0.2,
+	  "grp": "po",
+	  "id": "xj",
+	  "integrity": 15,
+	  "jitter": 0.75,
+	  "mass": 0.075,
+	  "name": "Modified Point Defence",
+	  "passive": 1,
+	  "power": 0.2,
+	  "range": 5000,
+	  "rating": "I",
+	  "reload": 0.4,
+	  "shotspeed": 2000,
+	  "thermload": 0.0735,
+	  "symbol": "Hpt_PlasmaPointDefence_Turret_Tiny"
+	}
   ]
 }

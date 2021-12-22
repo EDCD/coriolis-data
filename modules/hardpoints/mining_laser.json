@@ -131,6 +131,33 @@
       "rating": "D",
       "thermload": 4,
       "symbol": "Hpt_MiningLaser_Turret_Medium"
-    }
+    },
+	{
+	  "breachdmg": 0.285,
+	  "breachmax": 0.2,
+	  "breachmin": 0.1,
+	  "class": 1,
+	  "cost": 0,
+	  "damage": 1.9,
+	  "damagedist": {
+		"T": 1
+	  },
+	  "distdraw": 0.75,
+	  "edID": 128049525,
+	  "eddbID": 1588,
+	  "falloff": 2500,
+	  "grp": "ml",
+	  "id": "xe",
+	  "integrity": 20,
+	  "mass": 2,
+	  "mount": "F",
+	  "name": "Modified Mining Laser",
+	  "piercing": 18,
+	  "power": 0.25,
+	  "range": 2500,
+	  "rating": "D",
+	  "thermload": 1,
+	  "symbol": "Hpt_MiningLaser_Fixed_Small"
+	}
   ]
 }

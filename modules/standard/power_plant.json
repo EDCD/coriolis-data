@@ -678,6 +678,23 @@
       "symbol": "Int_GuardianPowerplant_Size8",
       "ukName": "Guardian Power Plant",
       "ukDiscript": "Consumes fuel to power all ship modules. Enhanced with Guardian technology to produce greater power output, at the cost of heat generated and mass."
-    }
+    },
+	{
+	  "class": 3,
+	  "cost": 0,
+	  "edID": 128064042,
+	  "eddbID": 900,
+	  "eff": 0.452,
+	  "grp": "pp",
+	  "id": "xk",
+	  "integrity": 136.5,
+	  "mass": 3,
+	  "pgen": 18.24,
+	  "rating": "A",
+	  "name": "Modified Power Plant",
+	  "symbol": "Int_Powerplant_Size3_Class5",
+	  "ukName": "Double Engineered Power Plant",
+	  "ukDiscript": "Consumes fuel to power all ship modules."
+	}
   ]
 }

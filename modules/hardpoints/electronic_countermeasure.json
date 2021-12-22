@@ -19,6 +19,26 @@
       "reload": 10,
       "thermload": 4,
       "symbol": "Hpt_ElectronicCountermeasure_Tiny"
+    },
+	{
+      "activepower": 4,
+      "chargeup": 3,
+      "class": 0,
+      "cooldown": 10,
+      "cost": 0,
+      "edID": 128049516,
+      "eddbID": 885,
+      "grp": "ec",
+      "id": "xh",
+      "integrity": 40,
+      "mass": 0.195,
+      "name": "Modified Electronic Countermeasure",
+      "power": 0.4,
+      "range": 3000,
+      "rating": "F",
+      "reload": 10,
+      "thermload": 4,
+      "symbol": "Hpt_ElectronicCountermeasure_Tiny"
     }
   ]
 }
