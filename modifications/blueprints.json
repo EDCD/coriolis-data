@@ -8272,6 +8272,19 @@
     ],
     "name": "Thermal resistant"
   },
+  "Reward_Special": {
+    "fdname": "Modified",
+    "grades": {
+	  "5": {
+	    "components": {},
+	    "features": {},
+	    "uuid": "b805acff-0759-4aab-a4f5-963ef551ce97"
+	  }
+    },
+    "id": 106,
+	"modulename": [],
+    "name": "Modified"
+  },
   "Weapon_DoubleShot": {
     "fdname": "Weapon_DoubleShot",
     "grades": {
