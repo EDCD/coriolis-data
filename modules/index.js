@@ -61,6 +61,7 @@ module.exports = {
     hb: require('./internal/hatch_breaker_limpet_controller').hb,
     hr: require('./internal/hull_reinforcement_package').hr,
     mahr: require('./internal/meta_alloy_hull_reinforcement_package.json').mahr,
+	mlc: require('./internal/multi_limpet_controllers.json').mlc,
     mrp: require('./internal/module_reinforcement_package').mrp,
     pv: require('./internal/planetary_vehicle_hanger').pv,
     psg: require('./internal/pristmatic_shield_generator').psg,
