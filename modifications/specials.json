@@ -61,6 +61,17 @@
             "Worn Shield Emitters": 5
         }
     },
+    "special_distortion_field": {
+        "id": 6,
+        "edname": "special_distortion_field",
+        "name": "Inertial impact",
+        "uuid": "6eda22d3-8049-4bab-a125-762b12fa576a",
+        "components": {
+            "Flawed Focus Crystals": 5,
+            "Distorted Shield Cycle Recordings": 5,
+            "Atypical Disrupted Wake Echoes": 5
+        }
+    },
     "special_drag_munitions": {
         "id": 7,
         "edname": "special_drag_munitions",
@@ -140,7 +151,7 @@
     },
     "special_inertial_impact": {
         "id": 32,
-        "edname": "special_distortion_field",
+        "edname": "special_inertial_impact",
         "name": "Inertial impact",
         "uuid": "6eda22d3-8049-4bab-a125-762b12fa576a",
         "components": {
