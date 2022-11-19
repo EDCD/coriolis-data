@@ -6464,7 +6464,7 @@
     ],
     "specials": [
       "special_concordant_sequence",
-      "special_inertial_impact",
+      "special_distortion_field",
       "special_phasing_sequence",
       "special_scramble_spectrum",
       "special_thermalshock",

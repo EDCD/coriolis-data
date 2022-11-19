@@ -192,7 +192,6 @@
   },
   "special_dispersal_field": {
   },
-  "special_distortion_field": {},
   "special_drag_munitions": {},
   "special_emissive_munitions": {
     "thermload": 1
@@ -224,7 +223,7 @@
       "K": 0.1
     }
   },
-  "special_inertial_impact": {
+  "special_distortion_field": {
     "damage": 0.5,
     "jitter": 3,
     "damagedist": {
