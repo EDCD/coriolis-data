@@ -1409,6 +1409,129 @@
       "scantime"
     ]
   },
+  "csl": {
+    "blueprints": {
+      "Misc_HeatSinkCapacity": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          }
+        }
+      },
+      "Misc_LightWeight": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          }
+        }
+      },
+      "Misc_Reinforced": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          }
+        }
+      },
+      "Misc_Shielded": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Petra Olmanova",
+              "Ram Tah"
+            ]
+          }
+        }
+      }
+    },
+    "modifications": [
+      "ammo",
+      "integrity",
+      "mass",
+      "power",
+      "reload"
+    ]
+  },
   "dc": {
     "blueprints": {
     },
@@ -3445,6 +3568,12 @@
     ]
   },
   "axmr": {
+    "blueprints": {
+    },
+    "modifications": [
+    ]
+  },
+  "ews": {
     "blueprints": {
     },
     "modifications": [

@@ -26,6 +26,7 @@ module.exports = {
     nl: require('./hardpoints/mine_launcher').nl,
     ml: require('./hardpoints/mining_laser').ml,
     cs: require('./hardpoints/cargo_scanner').cs,
+    csl: require('./hardpoints/caustic_sink_launcher').csl,
     ws: require('./hardpoints/frame_shift_wake_scanner').ws,
     pwa: require('./hardpoints/pulse_wave_analyser').pwa,
     abl: require('./hardpoints/abrasion_blaster').abl,
@@ -61,7 +62,7 @@ module.exports = {
     hb: require('./internal/hatch_breaker_limpet_controller').hb,
     hr: require('./internal/hull_reinforcement_package').hr,
     mahr: require('./internal/meta_alloy_hull_reinforcement_package.json').mahr,
-	mlc: require('./internal/multi_limpet_controllers.json').mlc,
+	  mlc: require('./internal/multi_limpet_controllers.json').mlc,
     mrp: require('./internal/module_reinforcement_package').mrp,
     pv: require('./internal/planetary_vehicle_hanger').pv,
     psg: require('./internal/pristmatic_shield_generator').psg,
@@ -82,5 +83,6 @@ module.exports = {
     ghrp: require('./internal/guardian_hull_reinforcement_package').ghrp,
     gmrp: require('./internal/guardian_module_reinforcement_package').gmrp,
     sua: require('./internal/supercruise_assist').sua,
+    ews: require('./internal/experemental_weapon_stabilizer').ews,
   }
 }

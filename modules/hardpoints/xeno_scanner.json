@@ -34,6 +34,23 @@
       "scantime": 10,
       "angle": 23,
       "symbol": "Hpt_XenoScannerMk2_Basic_Tiny"
+    },
+    {
+      "class": 0,
+      "cost": 745950,
+      "edID": 129022952,
+      "grp": "xs",
+      "id": "4B",
+      "integrity": 100,
+      "mass": 3,
+      "name": "Pulse Wave Xeno Scanner",
+      "power": 1.0,
+      "range": 1000,
+      "rating": "C",
+      "boot": 2,
+      "scantime": 10,
+      "angle": 23,
+      "symbol": "Hpt_XenoScanner_Advanced_Tiny"
     }
   ]
 }
