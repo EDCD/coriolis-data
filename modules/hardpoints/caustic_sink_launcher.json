@@ -1,0 +1,25 @@
+{
+  "csl": [
+    {
+      "ammo": 5,
+      "ammocost": 10,
+      "class": 0,
+      "clip": 1,
+      "cost": 50000,
+      "distdraw": 2,
+      "edID": 129019262,
+      "eps": 0.4,
+      "fireint": 5.0,
+      "grp": "csl",
+      "id": "4A",
+      "integrity": 45,
+      "mass": 1.7,
+      "name": "Caustic Sink Launcher",
+      "passive": 1,
+      "power": 0.6,
+      "rating": "I",
+      "reload": 10,
+      "symbol": "Hpt_CausticSinkLauncher_Turret_Tiny"
+    }
+  ]
+}

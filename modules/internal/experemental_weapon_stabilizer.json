@@ -1,0 +1,32 @@
+{
+  "ews": [
+    {
+      "rating": "F",
+      "class": 3,
+      "mass": 8,
+      "id": "3z",
+      "edID": 129019260,
+      "eddbID": 1836,
+      "power": 1.5,
+      "cost": 1930500,
+      "symbol": "Int_ExpModuleStabiliser_Size3_Class3",
+      "grp": "ews",
+      "ukName": "Experimental Weapon Stabilizer",
+      "ukDiscript": "Stabilises the stress typically applied to a ship's structural integrity by experimental weapons"
+    },
+    {
+      "rating": "F",
+      "class": 5,
+      "mass": 20,
+      "id": "4D",
+      "edID": 129019261,
+      "eddbID": 1837,
+      "power": 3.0,
+      "cost": 4000000,
+      "symbol": "Int_ExpModuleStabiliser_Size5_Class3",
+      "grp": "ews",
+      "ukName": "Experimental Weapon Stabilizer",
+      "ukDiscript": "Stabilises the stress typically applied to a ship's structural integrity by experimental weapons"
+    }
+  ]
+}

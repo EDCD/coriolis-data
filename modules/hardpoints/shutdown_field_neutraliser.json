@@ -18,6 +18,24 @@
       "duration": 1,
       "range": 3000,
       "symbol": "Hpt_AntiUnknownShutdown_Tiny"
+    },
+    {
+      "class": 0,
+      "cost": 0,
+      "grp": "sfn",
+      "id": "4E",
+      "edID": 129022663,
+      "integrity": 70,
+      "mass": 3,
+      "name": "Thargoid Pulse Neutraliser",
+      "passive": 1,
+      "power": 0.4,
+      "activepower": 0.33,
+      "rating": "E",
+      "cooldown": 10,
+      "duration": 1,
+      "range": 0,
+      "symbol": "Hpt_AntiUnknownShutdown_Tiny_V2"
     }
   ]
 }
