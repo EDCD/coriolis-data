@@ -774,8 +774,8 @@
       "maxfuel": 8.3,
       "optmass": 2000,
       "power": 0.75,
-      "rating": "Int_Hyperdrive_Overcharge_Size6_Class5",
-      "symbol": "A",
+      "rating": "A",
+      "symbol": "Int_Hyperdrive_Overcharge_Size6_Class5",
       "ukName": "FSD",
       "ukDiscript": "Faster-than-light capable ship drive, featuring experimental overcharge capabilities, necessary for supercruise travel and hyperspace jumps between star systems."
     },
