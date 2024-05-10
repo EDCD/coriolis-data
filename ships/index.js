@@ -29,6 +29,7 @@ module.exports = {
   orca: require('./orca').orca,
   mamba: require('./mamba').mamba,
   python: require('./python').python,
+  python_nx: require('./python_nx').python_nx,
   sidewinder: require('./sidewinder').sidewinder,
   type_6_transporter: require('./type_6_transporter').type_6_transporter,
   type_7_transport: require('./type_7_transport').type_7_transport,
