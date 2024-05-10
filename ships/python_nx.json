@@ -7,8 +7,8 @@
       "manufacturer": "Faulcon DeLacy",
       "class": 2,
       "hullCost": 56812626,
-      "speed": 261,
-      "boost": 352,
+      "speed": 256,
+      "boost": 345,
       "boostEnergy": 19,
       "baseShieldStrength": 335,
       "baseArmour": 280,
@@ -17,9 +17,9 @@
       "hullMass": 450,
       "masslock": 17,
       "pipSpeed": 0.097826086956522,
-      "pitch": 37,
-      "roll": 91,
-      "yaw": 12.5,
+      "pitch": 37.72,
+      "roll": 92.76,
+      "yaw": 12.74,
       "crew": 2,
       "reserveFuelCapacity": 0.83
     },
@@ -27,7 +27,7 @@
     "bulkheads": [
       {
         "id": "bO",
-        "edID": 128049340,
+        "edID": 129030465,
         "eddbID": 808,
         "grp": "bh",
         "cost": 0,
@@ -40,10 +40,10 @@
       },
       {
         "id": "bP",
-        "edID": 128049341,
+        "edID": 129030466,
         "eddbID": 809,
         "grp": "bh",
-        "cost": 22791270,
+        "cost": 23702103,
         "mass": 26,
         "causres": 0,
         "explres": -0.4,
@@ -53,10 +53,10 @@
       },
       {
         "id": "bQ",
-        "edID": 128049342,
+        "edID": 129030467,
         "eddbID": 810,
         "grp": "bh",
-        "cost": 51280360,
+        "cost": 53329732,
         "mass": 53,
         "causres": 0,
         "explres": -0.4,
@@ -66,10 +66,10 @@
       },
       {
         "id": "bR",
-        "edID": 128049343,
+        "edID": 129030468,
         "eddbID": 811,
         "grp": "bh",
-        "cost": 121192590,
+        "cost": 126035933,
         "mass": 53,
         "causres": 0,
         "explres": -0.5,
@@ -79,10 +79,10 @@
       },
       {
         "id": "bS",
-        "edID": 128049344,
+        "edID": 129030469,
         "eddbID": 812,
         "grp": "bh",
-        "cost": 134297570,
+        "cost": 139664643,
         "mass": 53,
         "causres": 0,
         "explres": 0.2,
@@ -110,6 +110,9 @@
         2,
         0,
         0,
+        0,
+        0,
+        0,
         0
       ],
       "internal": [
@@ -118,7 +121,6 @@
         3,
         2,
         1,
-        1,
         1
       ]
     },
@@ -126,7 +128,7 @@
       "standard": [
         "6E",
         "6E",
-        "5CSCO",
+        "FL",
         "4E",
         "6E",
         "5E",
