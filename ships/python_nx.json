@@ -1,7 +1,7 @@
 {
   "python_nx": {
     "edID": 129030464,
-    "eddbID": 99,
+    "eddbID": 0,
     "properties": {
       "name": "Python MkII",
       "manufacturer": "Faulcon DeLacy",
@@ -28,7 +28,7 @@
       {
         "id": "bO",
         "edID": 129030465,
-        "eddbID": 808,
+        "eddbID": 0,
         "grp": "bh",
         "cost": 0,
         "mass": 0,
@@ -41,7 +41,7 @@
       {
         "id": "bP",
         "edID": 129030466,
-        "eddbID": 809,
+        "eddbID": 0,
         "grp": "bh",
         "cost": 23702103,
         "mass": 26,
@@ -54,7 +54,7 @@
       {
         "id": "bQ",
         "edID": 129030467,
-        "eddbID": 810,
+        "eddbID": 0,
         "grp": "bh",
         "cost": 53329732,
         "mass": 53,
@@ -67,7 +67,7 @@
       {
         "id": "bR",
         "edID": 129030468,
-        "eddbID": 811,
+        "eddbID": 0,
         "grp": "bh",
         "cost": 126035933,
         "mass": 53,
@@ -80,7 +80,7 @@
       {
         "id": "bS",
         "edID": 129030469,
-        "eddbID": 812,
+        "eddbID": 0,
         "grp": "bh",
         "cost": 139664643,
         "mass": 53,
