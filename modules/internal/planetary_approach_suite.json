@@ -1,0 +1,35 @@
+{
+    "pas": [
+        {
+          "class": 1,
+          "cost": 500,
+          "edID": 128672317,
+          "eddbID": 0,
+          "grp": "pas",
+          "id": "4C",
+          "mass": 0,
+          "name": "Planetary Approach Suite (Horizons)",
+          "power": 0,
+          "rating": "I",
+          "symbol": "Int_PlanetApproachSuite",
+          "ukName": "Planetary Approach Suite (Horizons)",
+          "ukDiscript": "Assistant for planetary approach and landing."
+        },
+        {
+          "class": 1,
+          "cost": 500,
+          "edID": 128975719,
+          "eddbID": 0,
+          "grp": "pas",
+          "id": "4F",
+          "mass": 0,
+          "name": "Advanced Planetary Approach Suite (Odyssey)",
+          "power": 0,
+          "rating": "I",
+          "symbol": "int_planetapproachsuite_advanced",
+          "ukName": "Advanced Planetary Approach Suite (Odyssey)",
+          "ukDiscript": "Advanced assistant for planetary approach and landing."
+        }
+    ]
+  }
+  

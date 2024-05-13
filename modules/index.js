@@ -84,5 +84,6 @@ module.exports = {
     gmrp: require('./internal/guardian_module_reinforcement_package').gmrp,
     sua: require('./internal/supercruise_assist').sua,
     ews: require('./internal/experemental_weapon_stabilizer').ews,
+    pas: require('./internal/planetary_approach_suite').pas,
   }
 }
