@@ -1146,7 +1146,7 @@
       "edID": 129030580,
       "fuelmul": 0.013,
       "fuelpower": 2.0,
-      "grp": "fsd2",
+      "grp": "fsd",
       "id": "FY",
       "name": "Frame Shift Drive (SCO)",
       "integrity": 64,
