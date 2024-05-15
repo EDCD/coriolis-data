@@ -108,7 +108,7 @@
       "distdraw": 0.12,
       "edID": 128671345,
       "eddbID": 1481,
-      "falloff": 4500,
+      "falloff": 3000,
       "fireint": 0.23,
       "grp": "mc",
       "id": "e0",
