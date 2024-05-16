@@ -678,6 +678,24 @@
       "symbol": "Int_GuardianPowerplant_Size8",
       "ukName": "Guardian Power Plant",
       "ukDiscript": "Consumes fuel to power all ship modules. Enhanced with Guardian technology to produce greater power output, at the cost of heat generated and mass."
+    },
+    {
+      "class": 0,
+      "cost": 0,
+      "edID": 0,
+      "eddbID": 0,
+      "eff": 0,
+      "grp": "pp",
+      "id": "4K",
+      "integrity": 0,
+      "mass": 0,
+      "pgen": 0,
+      "rating": "Z",
+      "name": "Unrecognised Power Plant",
+      "info": "Not in Coriolis yet. Check GitHub issues. Add Issue if needed.",
+      "symbol": "Int_Missing_Powerplant",
+      "ukName": "Unrecognised Power Plant",
+      "ukDiscript": "Unrecognised Power Plant"
     }
   ]
 }

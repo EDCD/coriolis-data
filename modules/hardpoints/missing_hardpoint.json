@@ -1,0 +1,35 @@
+{
+    "mh": [
+      {
+        "class": 0,
+        "cost": 0,
+        "edID": 0,
+        "eddbID": 0,
+        "grp": "mh",
+        "id": "4G",
+        "integrity": 0,
+        "mass": 0,
+        "name": "Unrecognised Utility",
+        "info": "Not in Coriolis yet. Check GitHub issues. Add Issue if needed.",
+        "power": 0,
+        "rating": "I",
+        "symbol": "Hpt_Missing_Utility"
+      },
+      {
+        "class": 0,
+        "cost": 10,
+        "edID": 0,
+        "eddbID": 0,
+        "grp": "mh",
+        "id": "4H",
+        "integrity": 0,
+        "mass": 0,
+        "name": "Unrecognised Weapon",
+        "info": "Not in Coriolis yet. Check GitHub issues. Add Issue if needed.",
+        "power": 0,
+        "rating": "Z",
+        "symbol": "Hpt_Missing_Hardpoint"
+      }
+    ]
+  }
+  

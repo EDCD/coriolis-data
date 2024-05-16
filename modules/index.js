@@ -7,7 +7,6 @@ module.exports = {
     pd: require('./standard/power_distributor').pd,
     s: require('./standard/sensors').s,
     ft: require('./standard/fuel_tank').ft,
-    pas: require('./standard/planetary_approach_suite').pas
   },
   hardpoints: {
     pl: require('./hardpoints/pulse_laser').pl,
@@ -45,7 +44,8 @@ module.exports = {
     tbsc: require('./hardpoints/shock_cannon').tbsc,
     tbem: require('./hardpoints/enzyme_missile_rack.json').tbem,
     tbrfl: require('./hardpoints/remote_release_flechette_launcher.json').tbrfl,
-    gsc: require('./hardpoints/guardian_shard_cannon').gsc
+    gsc: require('./hardpoints/guardian_shard_cannon').gsc,
+    mh: require('./hardpoints/missing_hardpoint').mh,
   },
   internal: {
     am: require('./internal/auto_field_maintenance_unit').am,
@@ -85,5 +85,6 @@ module.exports = {
     sua: require('./internal/supercruise_assist').sua,
     ews: require('./internal/experemental_weapon_stabilizer').ews,
     pas: require('./internal/planetary_approach_suite').pas,
+    mm: require('./internal/missing_module').mm,
   }
 }

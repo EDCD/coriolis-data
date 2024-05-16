@@ -679,6 +679,24 @@
       "symbol": "Int_LifeSupport_Size1_Class5",
       "ukName": "Life Support",
       "ukDiscript": "Regulates habitable ship atmosphere and provides emergency reservoir for pilot's Remlock system. "
+    },
+    {
+      "boot": 0,
+      "class": 0,
+      "cost": 0,
+      "edID": 0,
+      "eddbID": 0,
+      "grp": "ls",
+      "id": "4O",
+      "integrity": 0,
+      "mass": 0,
+      "power": 0,
+      "rating": "Z",
+      "time": 0,
+      "symbol": "Int_Missing_LifeSupport",
+      "info": "Not in Coriolis yet. Check GitHub issues. Add Issue if needed.",
+      "ukName": "Unrecognised Life Support",
+      "ukDiscript": "Unrecognised Life Support"
     }
   ]
 }
