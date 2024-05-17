@@ -3384,7 +3384,304 @@
       "special_weapon_lightweight"
     ]
   },
+  "advmc": {
+    "blueprints": {
+      "Weapon_Efficient": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          }
+        }
+      },
+      "Weapon_HighCapacity": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          }
+        }
+      },
+      "Weapon_LightWeight": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          }
+        }
+      },
+      "Weapon_LongRange": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          }
+        }
+      },
+      "MC_Overcharged": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          }
+        }
+      },
+      "Weapon_RapidFire": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          }
+        }
+      },
+      "Weapon_ShortRange": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          }
+        }
+      },
+      "Weapon_Sturdy": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Tod McQuinn",
+              "Zacariah Nemo"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Tod McQuinn"
+            ]
+          }
+        }
+      }
+    },
+    "modifications": [
+      "ammo",
+      "clip",
+      "damage",
+      "damagedist",
+      "fallofffromrange",
+      "distdraw",
+      "integrity",
+      "jitter",
+      "mass",
+      "piercing",
+      "power",
+      "range",
+      "reload",
+      "rof",
+      "shotspeed",
+      "thermload"
+    ],
+    "specials": [
+      "special_auto_loader",
+      "special_corrosive_shell",
+      "special_emissive_munitions",
+      "special_incendiary_rounds",
+      "special_smart_rounds",
+      "special_thermalshock",
+      "special_weapon_damage",
+      "special_weapon_efficient",
+      "special_weapon_rateoffire",
+      "special_weapon_toughened",
+      "special_weapon_lightweight"
+    ]
+  },
   "axmc": {
+    "blueprints": {
+    },
+    "modifications": [
+    ]
+  },
+  "axmce": {
     "blueprints": {
     },
     "modifications": [
@@ -3568,6 +3865,12 @@
     ]
   },
   "axmr": {
+    "blueprints": {
+    },
+    "modifications": [
+    ]
+  },
+  "axmre": {
     "blueprints": {
     },
     "modifications": [
@@ -6314,6 +6617,12 @@
       "special_weapon_toughened",
       "special_weapon_lightweight",
       "special_mass_lock"
+    ]
+  },
+  "ntp": {
+    "blueprints": {
+    },
+    "modifications": [
     ]
   },
   "ul": {

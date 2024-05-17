@@ -1,0 +1,59 @@
+{
+    "ntp": [
+      {
+        "ammo": 64,
+        "breachdmg": 0,
+        "class": 2,
+        "clip": 1,
+        "cost": 843170,
+        "damage": 0,
+        "damagedist": {
+          "E": 1
+        },
+        "distdraw": 0,
+        "edID": 128049511,
+        "eddbID": 0,
+        "fireint": 2.0,
+        "grp": "ntp",
+        "id": "4Q",
+        "integrity": 50,
+        "mass": 3,
+        "missile": "S",
+        "mount": "F",
+        "power": 0.4,
+        "rating": "I",
+        "reload": 3,
+        "shotspeed": 1000,
+        "thermload": 35,
+        "symbol": "Hpt_ATVentDisruptorPylon_Fixed_Medium"
+      },
+      {
+        "ammo": 125,
+        "breachdmg": 0,
+        "class": 3,
+        "clip": 1,
+        "cost": 1627420,
+        "damage": 0,
+        "damagedist": {
+          "E": 1
+        },
+        "distdraw": 0,
+        "edID": 128049511,
+        "eddbID": 0,
+        "fireint": 2.0,
+        "grp": "ntp",
+        "id": "4R",
+        "integrity": 80,
+        "mass": 5,
+        "missile": "S",
+        "mount": "F",
+        "power": 0.7,
+        "rating": "I",
+        "reload": 3,
+        "shotspeed": 1000,
+        "thermload": 35,
+        "symbol": "Hpt_ATVentDisruptorPylon_Fixed_Large"
+      }
+    ]
+  }
+  
