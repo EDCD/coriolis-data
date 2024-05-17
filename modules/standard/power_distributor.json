@@ -1015,6 +1015,29 @@
       "symbol": "Int_GuardianPowerDistributor_Size8",
       "ukName": "Guardian Power Distributor",
       "ukDiscript": "Distribution system for ENG, SYS and WEP capacitors. Enhanced with Guardian technology to speed up capacitor recharge rates, at the cost of smaller capacitors and increased heat generation. Also boosts overall power output of any power plant it is hooked into."
+    },
+    {
+      "class": 0,
+      "cost": 0,
+      "edID": 0,
+      "eddbID": 0,
+      "engcap": 0,
+      "engrate": 0,
+      "grp": "pd",
+      "id": "4N",
+      "integrity": 0,
+      "mass": 0,
+      "power": 0,
+      "rating": "Z",
+      "syscap": 0,
+      "sysrate": 0,
+      "wepcap": 0,
+      "weprate": 0,
+      "info": "Not in Coriolis yet. Check GitHub issues. Add Issue if needed.",
+      "name": "Unrecognised Power Distributor",
+      "symbol": "Int_Missing_PowerDistributor",
+      "ukName": "Unrecognised Power Distributor",
+      "ukDiscript": "Unrecognised Power Distributor"
     }
   ]
 }

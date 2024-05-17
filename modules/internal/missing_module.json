@@ -1,0 +1,20 @@
+{
+    "mm": [
+      {
+        "class": 0,
+        "cost": 0,
+        "edID": 0,
+        "eddbID": 0,
+        "grp": "mm",
+        "id": "4I",
+        "integrity": 0,
+        "mass": 0,
+        "name": "Unrecognised Module",
+        "info": "Not in Coriolis yet. Check GitHub issues. Add Issue if needed.",
+        "power": 0,
+        "rating": "Z",
+        "symbol": "Int_Missing_Module"
+      }
+    ]
+  }
+  
