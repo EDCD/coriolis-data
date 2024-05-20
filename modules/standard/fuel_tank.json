@@ -111,6 +111,21 @@
       "symbol": "Int_FuelTank_Size8_Class3",
       "ukName": "Fuel Tank",
       "ukDiscript": "Storage container for fuel used by ship's power plant."
+    },
+    {
+      "class": 1,
+      "cost": 0,
+      "edID": 0,
+      "eddbID": 0,
+      "fuel": 0,
+      "mass": 0,
+      "grp": "ft",
+      "id": "4M",
+      "rating": "Z",
+      "symbol": "Int_Missing_FuelTank",
+      "info": "Not in Coriolis yet. Check GitHub issues. Add Issue if needed.",
+      "ukName": "Unrecognised Fuel Tank",
+      "ukDiscript": "Unrecognised Fuel Tank"
     }
   ]
 }

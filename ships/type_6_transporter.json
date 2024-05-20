@@ -119,7 +119,7 @@
         1,
         {
           "class": 1,
-          "name": "Planetary",
+          "name": "PlanetaryApproachSuite",
           "eligible": {
             "pas": 1
           }

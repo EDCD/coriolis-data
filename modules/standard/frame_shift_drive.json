@@ -1234,6 +1234,25 @@
       "symbol": "Int_Hyperdrive_Overcharge_Size2_Class1",
       "ukName": "FSD",
       "ukDiscript": "Faster-than-light capable ship drive, featuring experimental overcharge capabilities, necessary for supercruise travel and hyperspace jumps between star systems."
+    },
+    {
+      "class": 0,
+      "cost": 0,
+      "edID": 0,
+      "fuelmul": 0,
+      "fuelpower": 0,
+      "grp": "fsd",
+      "id": "4P",
+      "name": "Unrecognised Frame Shift Drive",
+      "integrity": 0,
+      "mass": 0,
+      "maxfuel": 0,
+      "optmass": 0,
+      "power": 0,
+      "rating": "Z",
+      "symbol": "Int_Missing_Hyperdrive",
+      "ukName": "Unrecognised Frame Shift Drive",
+      "ukDiscript": "Unrecognised Frame Shift Drive"
     }
   ]
 }

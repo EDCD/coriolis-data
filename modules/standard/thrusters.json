@@ -796,6 +796,28 @@
       "symbol": "Int_Engine_Size2_Class5_Fast",
       "ukName": "Thrusters",
       "ukDiscript": "Enhanced performance normal-space propulsion system."
+    },
+    {
+      "class": 2,
+      "cost": 0,
+      "edID": 0,
+      "eddbID": 0,
+      "grp": "t",
+      "id": "4J",
+      "integrity": 0,
+      "mass": 0,
+      "maxmass": 0,
+      "maxmul": 0,
+      "minmass": 0,
+      "minmul": 0,
+      "optmass": 0,
+      "optmul": 0,
+      "power": 0,
+      "rating": "Z",
+      "symbol": "Int_Missing_Engine",
+      "info": "Not in Coriolis yet. Check GitHub issues. Add Issue if needed.",
+      "ukName": "Unrecognised Thrusters",
+      "ukDiscript": "Unrecognised Thrusters "
     }
   ]
 }

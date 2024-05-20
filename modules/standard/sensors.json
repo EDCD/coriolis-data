@@ -679,6 +679,24 @@
       "symbol": "Int_Sensors_Size1_Class5",
       "ukName": "Sensors",
       "ukDiscript": "Standard suite providing basic detection, identification and targeting capabilities."
+    },
+    {
+      "angle": 0,
+      "class": 1,
+      "cost": 0,
+      "edID": 0,
+      "eddbID": 0,
+      "grp": "s",
+      "id": "4L",
+      "integrity": 0,
+      "mass": 0,
+      "power": 0,
+      "range": 0,
+      "rating": "Z",
+      "symbol": "Int_Missing_Sensors",
+      "info": "Not in Coriolis yet. Check GitHub issues. Add Issue if needed.",
+      "ukName": "Unrecognised Sensors",
+      "ukDiscript": "Unrecognised Sensors"
     }
   ]
 }
