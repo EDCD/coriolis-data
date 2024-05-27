@@ -72,6 +72,7 @@
       "mass": 2,
       "mount": "F",
       "name": "Mining Lance",
+      "special": "Lance",
       "piercing": 18,
       "power": 0.7,
       "pp": "Zemina Torval",
