@@ -91,6 +91,7 @@
       "mass": 8,
       "mount": "F",
       "name": "Advanced Plasma Accelerator",
+      "special": "Advanced",
       "piercing": 100,
       "power": 1.97,
       "pp": "Denton Patreus",

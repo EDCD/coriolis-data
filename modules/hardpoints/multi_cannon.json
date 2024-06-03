@@ -116,6 +116,7 @@
       "mass": 2,
       "mount": "F",
       "name": "Enforcer",
+      "special": "Enforcer",
       "piercing": 30,
       "power": 0.28,
       "pp": "Pranav Antal",

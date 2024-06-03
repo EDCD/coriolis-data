@@ -321,6 +321,7 @@
       "mass": 8,
       "mount": "F",
       "name": "Pacifier",
+      "special": "Pacifier",
       "piercing": 45,
       "power": 1.02,
       "pp": "Zachary Hudson",

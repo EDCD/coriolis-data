@@ -100,6 +100,7 @@
       "mass": 2,
       "mount": "F",
       "name": "Retributor",
+      "special": "Retributor",
       "piercing": 18,
       "power": 0.62,
       "pp": "Edmund Mahon",

@@ -22,6 +22,7 @@ module.exports = {
     rg: require('./hardpoints/rail_gun').rg,
     pa: require('./hardpoints/plasma_accelerator').pa,
     mr: require('./hardpoints/missile_rack').mr,
+    amr: require('./hardpoints/missile_rack_advanced').amr,
     axmr: require('./hardpoints/ax_missile_rack').axmr,
     axmre: require('./hardpoints/ax_missile_rack_enhanced').axmre,
     tp: require('./hardpoints/torpedo_pylon').tp,
