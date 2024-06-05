@@ -3,7 +3,7 @@
     {
       "bays": 1,
       "class": 5,
-      "cost": 575644,
+      "cost": 575643,
       "edID": 128727930,
       "eddbID": 1562,
       "fightercost": 1030,
@@ -21,7 +21,7 @@
     {
       "bays": 2,
       "class": 6,
-      "cost": 1869350,
+      "cost": 1869340,
       "edID": 128727931,
       "eddbID": 1561,
       "fightercost": 1030,
@@ -40,7 +40,7 @@
       "bays": 2,
       "class": 7,
       "edID": 128727932,
-      "cost": 2369330,
+      "cost": 2369320,
       "eddbID": 1560,
       "fightercost": 1030,
       "grp": "fh",
