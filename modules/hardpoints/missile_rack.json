@@ -7,7 +7,7 @@
       "breachmin": 1,
       "class": 1,
       "clip": 8,
-      "cost": 32180,
+      "cost": 32175,
       "damage": 50,
       "damagedist": {
         "E": 1
@@ -202,7 +202,7 @@
       "breachmin": 1,
       "class": 3,
       "clip": 12,
-      "cost": 1021501,
+      "cost": 1021500,
       "damage": 50,
       "damagedist": {
         "E": 1
@@ -255,6 +255,68 @@
       "shotspeed": 625,
       "thermload": 3.6,
       "symbol": "Hpt_BasicMissileRack_Fixed_Large"
+    },
+    {
+      "ammo": 64,
+      "breachdmg": 20,
+      "breachmax": 1,
+      "breachmin": 1,
+      "class": 1,
+      "clip": 8,
+      "cost": 32175,
+      "damage": 50,
+      "damagedist": {
+        "E": 1
+      },
+      "distdraw": 0.24,
+      "edID": 128935982,
+      "eddbID": 1813,
+      "fireint": 2,
+      "grp": "mr",
+      "id": "yT",
+      "integrity": 40,
+      "mass": 2,
+      "missile": "D",
+      "mount": "F",
+      "name": "Advanced Missile Rack",
+      "piercing": 60,
+      "power": 0.4,
+      "rating": "B",
+      "reload": 5,
+      "shotspeed": 750,
+      "thermload": 3.6,
+      "symbol": "Hpt_DumbfireMissileRack_Fixed_Small_Advanced"
+    },
+    {
+      "ammo": 64,
+      "breachdmg": 20,
+      "breachmax": 1,
+      "breachmin": 1,
+      "class": 2,
+      "clip": 12,
+      "cost": 240400,
+      "damage": 50,
+      "damagedist": {
+        "E": 1
+      },
+      "distdraw": 0.24,
+      "edID": 128935983,
+      "eddbID": 1814,
+      "fireint": 2,
+      "grp": "mr",
+      "id": "yU",
+      "integrity": 51,
+      "mass": 4,
+      "missile": "D",
+      "mount": "F",
+      "name": "Advanced Missile Rack",
+      "piercing": 60,
+      "power": 1.2,
+      "rating": "B",
+      "reload": 5,
+      "shotspeed": 750,
+      "thermload": 3.6,
+      "symbol": "Hpt_DumbfireMissileRack_Fixed_Medium_Advanced"
     }
   ]
 }
