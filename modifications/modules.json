@@ -3864,6 +3864,177 @@
       "special_penetrator_munitions"
     ]
   },
+  "amr": {
+    "blueprints": {
+      "Weapon_HighCapacity": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Liz Ryder"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Liz Ryder"
+            ]
+          }
+        }
+      },
+      "Weapon_LightWeight": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Liz Ryder"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Liz Ryder"
+            ]
+          }
+        }
+      },
+      "Weapon_RapidFire": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Liz Ryder"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Liz Ryder"
+            ]
+          }
+        }
+      },
+      "Weapon_Sturdy": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Juri Ishmaak",
+              "Liz Ryder"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Liz Ryder"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Liz Ryder"
+            ]
+          }
+        }
+      }
+    },
+    "modifications": [
+      "ammo",
+      "clip",
+      "damage",
+      "damagedist",
+      "fallofffromrange",
+      "distdraw",
+      "integrity",
+      "jitter",
+      "mass",
+      "piercing",
+      "power",
+      "reload",
+      "rof",
+      "thermload"
+    ],
+    "specials_S": [
+      "special_drag_munitions",
+      "special_emissive_munitions",
+      "special_overload_munitions",
+      "special_thermal_cascade",
+      "special_weapon_damage",
+      "special_weapon_efficient",
+      "special_weapon_rateoffire",
+      "special_weapon_toughened",
+      "special_weapon_lightweight"
+    ],
+    "specials_D": [
+      "special_emissive_munitions",
+      "special_fsd_interrupt",
+      "special_overload_munitions",
+      "special_thermal_cascade",
+      "special_weapon_damage",
+      "special_weapon_efficient",
+      "special_weapon_rateoffire",
+      "special_weapon_toughened",
+      "special_weapon_lightweight",
+      "special_penetrator_munitions"
+    ]
+  },
   "axmr": {
     "blueprints": {
     },
