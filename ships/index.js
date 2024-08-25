@@ -33,6 +33,7 @@ module.exports = {
   sidewinder: require('./sidewinder').sidewinder,
   type_6_transporter: require('./type_6_transporter').type_6_transporter,
   type_7_transport: require('./type_7_transport').type_7_transport,
+  type_8_transport: require('./type_8_transport').type_8_transport,
   type_9_heavy: require('./type_9_heavy').type_9_heavy,
   type_10_defender: require('./type_10_defender').type_10_defender,
   viper: require('./viper').viper,
