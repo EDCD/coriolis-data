@@ -18,6 +18,7 @@
     "test": "npm run lint && npm run jasmine-no-stack",
     "start": "node generate_distribution.js",
     "build": "node generate_distribution.js",
+    "preinstall": "npm install --ignore-scripts",
     "install": "node generate_distribution.js"
   },
   "dependencies": {
