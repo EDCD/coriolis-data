@@ -1,11 +1,11 @@
 {
   "mandalay": {
-    "edID": 129030534,
+    "edID": 129030680,
     "properties": {
       "name": "Mandalay",
       "manufacturer": "Zorgon Peterson",
       "class": 2,
-      "hullCost": 36238840,
+      "hullCost": 14502616,
       "speed": 280,
       "heatCapacity": 226,
       "boost": 350,
@@ -22,11 +22,11 @@
       "crew": 2,
       "reserveFuelCapacity": 0.52
     },
-    "retailCost": 38453970,
+    "retailCost": 15478416,
     "bulkheads": [
       {
         "id": "Bs",
-        "edID": 129030535,
+        "edID": 129030681,
         "grp": "bh",
         "cost": 0,
         "mass": 0,
@@ -38,9 +38,9 @@
       },
       {
         "id": "Bt",
-        "edID": 129030536,
+        "edID": 129030682,
         "grp": "bh",
-        "cost": 15381590,
+        "cost": 6191367,
         "mass": 32,
         "causres": 0,
         "explres": -0.4,
@@ -50,9 +50,9 @@
       },
       {
         "id": "Bu",
-        "edID": 129030537,
+        "edID": 129030683,
         "grp": "bh",
-        "cost": 34608570,
+        "cost": 13930575,
         "mass": 63,
         "causres": 0,
         "explres": -0.4,
@@ -62,9 +62,9 @@
       },
       {
         "id": "Bv",
-        "edID": 129030538,
+        "edID": 129030684,
         "grp": "bh",
-        "cost": 37163480,
+        "cost": 32922590,
         "mass": 63,
         "causres": 0,
         "explres": -0.5,
@@ -74,9 +74,9 @@
       },
       {
         "id": "Bw",
-        "edID": 129030539,
+        "edID": 129030685,
         "grp": "bh",
-        "cost": 90636000,
+        "cost": 36482626,
         "mass": 63,
         "causres": 0,
         "explres": 0.2,
@@ -131,17 +131,19 @@
       "standard": [
         "5E",
         "5E",
-        "FL",
+        "FN",
         "4E",
         "5E",
         "5E",
         "5C"
       ],
       "hardpoints": [
-        17,
-        17,
         0,
         0,
+        0,
+        0,
+        17,
+        17,
         0,
         0,
         0,
