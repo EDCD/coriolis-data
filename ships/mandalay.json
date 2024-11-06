@@ -7,14 +7,14 @@
       "class": 2,
       "hullCost": 14502616,
       "speed": 280,
-      "heatCapacity": 226,
+      "heatCapacity": 250,
       "boost": 350,
-      "boostEnergy": 10,
+      "boostEnergy": 14,
       "baseShieldStrength": 220,
       "baseArmour": 230,
       "hardness": 55,
       "hullMass": 230,
-      "masslock": 16,
+      "masslock": 11,
       "pipSpeed": 0.16666666666667,
       "pitch": 35,
       "roll": 96,
@@ -22,7 +22,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.52
     },
-    "retailCost": 15478416,
+    "retailCost": 17639221,
     "bulkheads": [
       {
         "id": "Bs",
