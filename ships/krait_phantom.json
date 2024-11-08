@@ -9,6 +9,7 @@
       "hullCost": 35589214,
       "speed": 250,
       "boost": 350,
+      "boostInt": 4.5,
       "heatCapacity": 300,
       "boostEnergy": 13,
       "baseShieldStrength": 200,

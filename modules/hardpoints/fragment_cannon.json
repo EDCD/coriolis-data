@@ -325,6 +325,7 @@
       "piercing": 45,
       "power": 1.02,
       "pp": "Zachary Hudson",
+      "range": 3000,
       "rating": "C",
       "reload": 5,
       "roundspershot": 12,

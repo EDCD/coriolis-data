@@ -10,6 +10,7 @@
       "speed": 220,
       "boost": 320,
       "boostEnergy": 7,
+      "boostInt": 4,
       "heatCapacity": 140,
       "baseShieldStrength": 40,
       "baseArmour": 60,
