@@ -11,6 +11,7 @@
       "boost": 380,
       "boostEnergy": 10,
       "baseShieldStrength": 120,
+      "boostInt": 4,
       "baseArmour": 120,
       "hardness": 40,
       "heatCapacity": 346,
