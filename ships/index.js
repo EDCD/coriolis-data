@@ -28,6 +28,7 @@ module.exports = {
   krait_phantom: require('./krait_phantom').krait_phantom,
   orca: require('./orca').orca,
   mamba: require('./mamba').mamba,
+  mandalay: require('./mandalay').mandalay,
   python: require('./python').python,
   python_nx: require('./python_nx').python_nx,
   sidewinder: require('./sidewinder').sidewinder,

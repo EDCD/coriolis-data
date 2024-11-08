@@ -346,6 +346,41 @@
       "shotspeed": 750,
       "thermload": 4.4,
       "symbol": "Hpt_Cannon_Gimbal_Huge"
+    },
+    {
+      "ammo": 300,
+      "breachdmg": 13.9,
+      "breachmax": 0.9,
+      "breachmin": 0.6,
+      "burst": 3,
+      "burstrof": 4,
+      "class": 2,
+      "clip": 9,
+      "cost": 314620,
+      "damage": 14.6,
+      "damagedist": {
+        "K": 1
+      },
+      "distdraw": 0.75,
+      "edID": 129030051,
+      "falloff": 3500,
+      "fireint": 1.1,
+      "eps": 0.688,
+      "grp": "c",
+      "hps": 1.76,
+      "id": "4w",
+      "integrity": 51,
+      "mass": 4,
+      "mount": "G",
+      "name": "Concord Cannon",
+      "piercing": 42,
+      "power": 0.64,
+      "range": 3500,
+      "rating": "D",
+      "reload": 4,
+      "shotspeed": 1300,
+      "thermload": 1.9,
+      "symbol": "Hpt_Cannon_Gimbal_Medium_Burst"
     }
   ]
 }
