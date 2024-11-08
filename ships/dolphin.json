@@ -10,6 +10,7 @@
       "speed": 250,
       "boost": 350,
       "boostEnergy": 10,
+      "boostInt": 4,
       "baseShieldStrength": 110,
       "baseArmour": 110,
       "hardness": 35,

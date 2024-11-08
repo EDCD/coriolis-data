@@ -10,6 +10,7 @@
       "speed": 256,
       "boost": 345,
       "boostEnergy": 19,
+      "boostInt": 4.5,
       "baseShieldStrength": 335,
       "baseArmour": 280,
       "heatCapacity": 316,
@@ -159,7 +160,7 @@
         "",
         "00",
         "3w",
-        "4F", 
+        "4F",
         0,
         0,
         0
