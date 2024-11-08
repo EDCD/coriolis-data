@@ -379,6 +379,7 @@
       "rating": "D",
       "reload": 4,
       "shotspeed": 1300,
+      "thermload": 1.9,
       "symbol": "Hpt_Cannon_Gimbal_Medium_Burst"
     }
   ]
