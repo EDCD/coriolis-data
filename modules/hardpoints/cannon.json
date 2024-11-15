@@ -357,14 +357,14 @@
       "class": 2,
       "clip": 9,
       "cost": 314620,
-      "damage": 7.42,
+      "damage": 14.63,
       "damagedist": {
         "K": 1
       },
       "distdraw": 0.75,
       "edID": 129030051,
       "falloff": 3500,
-      "fireint": 1.1,
+      "fireint": 2.26,
       "eps": 0.688,
       "grp": "c",
       "hps": 1.76,
@@ -379,7 +379,7 @@
       "rating": "D",
       "reload": 4,
       "shotspeed": 1300,
-      "thermload": 1.9,
+      "thermload": 1.92,
       "symbol": "Hpt_Cannon_Gimbal_Medium_Burst"
     }
   ]
