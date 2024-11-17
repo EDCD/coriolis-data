@@ -6,7 +6,7 @@
       "name": "Viper",
       "manufacturer": "Faulcon DeLacy",
       "class": 1,
-      "hullCost": 95900,
+      "hullCost": 96733,
       "speed": 320,
       "boost": 400,
       "boostEnergy": 10,
@@ -24,7 +24,7 @@
       "crew": 1,
       "reserveFuelCapacity": 0.41
     },
-    "retailCost": 142930,
+    "retailCost": 142931,
     "bulkheads": [
       {
         "id": "B3",

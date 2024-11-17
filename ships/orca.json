@@ -6,7 +6,7 @@
       "name": "Orca",
       "manufacturer": "Saud Kruger",
       "class": 3,
-      "hullCost": 47790590,
+      "hullCost": 47800723,
       "speed": 300,
       "boost": 380,
       "boostEnergy": 16,
@@ -25,7 +25,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.79
     },
-    "retailCost": 48539900,
+    "retailCost": 48539887,
     "bulkheads": [
       {
         "id": "BM",

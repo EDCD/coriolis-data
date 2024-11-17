@@ -6,7 +6,7 @@
       "name": "Type-9 Heavy",
       "manufacturer": "Lakon",
       "class": 3,
-      "hullCost": 72076730,
+      "hullCost": 72116858,
       "speed": 130,
       "boost": 200,
       "boostEnergy": 19,
@@ -25,7 +25,7 @@
       "crew": 3,
       "reserveFuelCapacity": 0.77
     },
-    "retailCost": 76555840,
+    "retailCost": 76555842,
     "bulkheads": [
       {
         "id": "Bx",

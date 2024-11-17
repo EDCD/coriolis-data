@@ -6,7 +6,7 @@
       "name": "Cobra Mk IV",
       "manufacturer": "Faulcon DeLacy",
       "class": 1,
-      "hullCost": 603740,
+      "hullCost": 623374,
       "speed": 200,
       "boost": 300,
       "boostEnergy": 10,
@@ -24,7 +24,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.51
     },
-    "retailCost": 747660,
+    "retailCost": 764720,
     "requirements": {
       "horizonsEarlyAdoption": true
     },

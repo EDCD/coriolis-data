@@ -5,7 +5,7 @@
       "name": "Mandalay",
       "manufacturer": "Zorgon Peterson",
       "class": 2,
-      "hullCost": 14502616,
+      "hullCost": 16527192,
       "speed": 280,
       "heatCapacity": 250,
       "boost": 350,
@@ -23,7 +23,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.52
     },
-    "retailCost": 17639221,
+    "retailCost": 17639220,
     "bulkheads": [
       {
         "id": "Bs",

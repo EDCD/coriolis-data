@@ -6,7 +6,7 @@
       "name": "Dolphin",
       "manufacturer": "Saud Kruger",
       "class": 1,
-      "hullCost": 1115330,
+      "hullCost": 1117906,
       "speed": 250,
       "boost": 350,
       "boostEnergy": 10,
@@ -25,7 +25,7 @@
       "crew": 1,
       "reserveFuelCapacity": 0.5
     },
-    "retailCost": 1337330,
+    "retailCost": 1337323,
     "requirements": {
       "horizons": true
     },
