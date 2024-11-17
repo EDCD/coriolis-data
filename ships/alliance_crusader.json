@@ -6,7 +6,7 @@
       "name": "Alliance Crusader",
       "manufacturer": "Lakon",
       "class": 2,
-      "hullCost": 22866341,
+      "hullCost": 22096565,
       "speed": 180,
       "boost": 300,
       "boostEnergy": 19,
@@ -25,7 +25,7 @@
       "crew": 3,
       "reserveFuelCapacity": 0.77
     },
-    "retailCost": 19382252,
+    "retailCost": 22866341,
     "requirements": {
       "horizons": true
     },

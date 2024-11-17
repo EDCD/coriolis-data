@@ -6,7 +6,7 @@
       "name": "Keelback",
       "manufacturer": "Lakon",
       "class": 2,
-      "hullCost": 2943870,
+      "hullCost": 2946463,
       "speed": 200,
       "boost": 300,
       "boostEnergy": 10,
@@ -25,7 +25,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.39
     },
-    "retailCost": 3126150,
+    "retailCost": 3126154,
     "bulkheads": [
       {
         "id": "cb",

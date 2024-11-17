@@ -6,7 +6,7 @@
       "name": "Imperial Courier",
       "manufacturer": "Gutamaya",
       "class": 1,
-      "hullCost": 2481550,
+      "hullCost": 2484137,
       "speed": 280,
       "boost": 380,
       "boostEnergy": 10,
@@ -24,7 +24,7 @@
       "crew": 1,
       "reserveFuelCapacity": 0.41
     },
-    "retailCost": 2542930,
+    "retailCost": 2542931,
     "requirements": {
       "empireRank": 3
     },

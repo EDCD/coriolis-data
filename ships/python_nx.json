@@ -6,7 +6,7 @@
       "name": "Python Mk II",
       "manufacturer": "Faulcon DeLacy",
       "class": 2,
-      "hullCost": 66122374,
+      "hullCost": 64743724,
       "speed": 256,
       "boost": 345,
       "boostEnergy": 19,
@@ -24,7 +24,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.83
     },
-    "retailCost": 67527360,
+    "retailCost": 67527359,
     "bulkheads": [
       {
         "id": "bO",

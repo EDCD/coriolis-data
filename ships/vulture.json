@@ -6,7 +6,7 @@
       "name": "Vulture",
       "manufacturer": "Core Dynamics",
       "class": 1,
-      "hullCost": 4689640,
+      "hullCost": 4692214,
       "speed": 210,
       "boost": 340,
       "boostEnergy": 16,
@@ -24,7 +24,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.57
     },
-    "retailCost": 4925620,
+    "retailCost": 4925615,
     "bulkheads": [
       {
         "id": "B8",

@@ -6,7 +6,7 @@
       "name": "Asp Scout",
       "manufacturer": "Lakon",
       "class": 2,
-      "hullCost": 3818240,
+      "hullCost": 3819823,
       "speed": 220,
       "boost": 300,
       "boostEnergy": 13,
@@ -24,7 +24,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.47
     },
-    "retailCost": 3961150,
+    "retailCost": 3961154,
     "bulkheads": [
       {
         "id": "c1",

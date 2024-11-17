@@ -6,7 +6,7 @@
       "name": "Cobra Mk III",
       "manufacturer": "Faulcon DeLacy",
       "class": 1,
-      "hullCost": 205800,
+      "hullCost": 208372,
       "speed": 280,
       "boost": 400,
       "boostEnergy": 10,
@@ -24,7 +24,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.49
     },
-    "retailCost": 349720,
+    "retailCost": 349718,
     "bulkheads": [
       {
         "id": "bk",
