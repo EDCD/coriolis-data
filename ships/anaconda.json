@@ -6,7 +6,7 @@
       "name": "Anaconda",
       "manufacturer": "Faulcon DeLacy",
       "class": 3,
-      "hullCost": 141889930,
+      "hullCost": 142456440,
       "speed": 180,
       "boost": 240,
       "boostEnergy": 27,
@@ -25,7 +25,7 @@
       "crew": 3,
       "reserveFuelCapacity": 1.07
     },
-    "retailCost": 146969450,
+    "retailCost": 146969451,
     "bulkheads": [
       {
         "id": "bT",

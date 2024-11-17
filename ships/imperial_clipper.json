@@ -6,7 +6,7 @@
       "name": "Imperial Clipper",
       "manufacturer": "Gutamaya",
       "class": 3,
-      "hullCost": 21077780,
+      "hullCost": 21116895,
       "speed": 300,
       "boost": 380,
       "boostEnergy": 19,
@@ -24,7 +24,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.74
     },
-    "retailCost": 22296860,
+    "retailCost": 22295860,
     "requirements": {
       "empireRank": 7
     },

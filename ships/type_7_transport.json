@@ -6,7 +6,7 @@
       "name": "Type-7 Transporter",
       "manufacturer": "Lakon",
       "class": 3,
-      "hullCost": 16780510,
+      "hullCost": 16783094,
       "speed": 180,
       "heatCapacity": 226,
       "boost": 300,
@@ -24,7 +24,7 @@
       "crew": 1,
       "reserveFuelCapacity": 0.52
     },
-    "retailCost": 17472260,
+    "retailCost": 17472252,
     "bulkheads": [
       {
         "id": "Bs",

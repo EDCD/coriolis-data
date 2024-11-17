@@ -6,7 +6,7 @@
       "name": "Diamondback Scout",
       "manufacturer": "Lakon",
       "class": 1,
-      "hullCost": 461340,
+      "hullCost": 463926,
       "speed": 280,
       "boost": 380,
       "boostEnergy": 10,
@@ -24,7 +24,7 @@
       "crew": 1,
       "reserveFuelCapacity": 0.49
     },
-    "retailCost": 564330,
+    "retailCost": 564329,
     "bulkheads": [
       {
         "id": "b5",

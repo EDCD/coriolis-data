@@ -6,7 +6,7 @@
       "name": "Beluga Liner",
       "manufacturer": "Saud Kruger",
       "class": 3,
-      "hullCost": 79654610,
+      "hullCost": 79694761,
       "speed": 200,
       "boost": 280,
       "boostEnergy": 19,
@@ -26,7 +26,7 @@
       "crew": 3,
       "reserveFuelCapacity": 0.81
     },
-    "retailCost": 84532770,
+    "retailCost": 84532764,
     "requirements": {
       "horizons": true
     },

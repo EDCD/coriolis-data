@@ -6,7 +6,7 @@
       "name": "Type-6 Transporter",
       "manufacturer": "Lakon",
       "class": 2,
-      "hullCost": 865790,
+      "hullCost": 866622,
       "speed": 220,
       "boost": 350,
       "boostInt": 4,
@@ -24,7 +24,7 @@
       "crew": 1,
       "reserveFuelCapacity": 0.39
     },
-    "retailCost": 1045950,
+    "retailCost": 1045945,
     "bulkheads": [
       {
         "id": "Bn",

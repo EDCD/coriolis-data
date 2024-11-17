@@ -6,7 +6,7 @@
       "name": "Viper Mk IV",
       "manufacturer": "Faulcon DeLacy",
       "class": 1,
-      "hullCost": 310220,
+      "hullCost": 312797,
       "speed": 270,
       "boost": 340,
       "boostEnergy": 10,
@@ -24,7 +24,7 @@
       "crew": 1,
       "reserveFuelCapacity": 0.46
     },
-    "retailCost": 437930,
+    "retailCost": 437931,
     "bulkheads": [
       {
         "id": "c6",

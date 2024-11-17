@@ -6,7 +6,7 @@
       "name": "Mamba",
       "manufacturer": "Zorgon Peterson",
       "class": 2,
-      "hullCost": 55866341,
+      "hullCost": 55442918,
       "speed": 310,
       "boost": 380,
       "boostEnergy": 17,
@@ -24,7 +24,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.5
     },
-    "retailCost": 55867041,
+    "retailCost": 55867040,
     "bulkheads": [
       {
         "id": "1A",
