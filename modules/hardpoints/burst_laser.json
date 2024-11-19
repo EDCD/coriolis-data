@@ -111,6 +111,7 @@
       "mass": 2,
       "mount": "F",
       "name": "Cytoscrambler",
+      "special": "Cyto",
       "piercing": 1,
       "power": 0.8,
       "pp": "Archon Delaine",

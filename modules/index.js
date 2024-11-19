@@ -7,22 +7,26 @@ module.exports = {
     pd: require('./standard/power_distributor').pd,
     s: require('./standard/sensors').s,
     ft: require('./standard/fuel_tank').ft,
-    pas: require('./standard/planetary_approach_suite').pas
   },
   hardpoints: {
     pl: require('./hardpoints/pulse_laser').pl,
     ul: require('./hardpoints/burst_laser').ul,
     bl: require('./hardpoints/beam_laser').bl,
     mc: require('./hardpoints/multi_cannon').mc,
+    advmc: require('./hardpoints/multi_cannon_advanced').advmc,
     axmc: require('./hardpoints/ax_multi_cannon').axmc,
+    axmce: require('./hardpoints/ax_multi_cannon_enhanced').axmce,
     c: require('./hardpoints/cannon').c,
     fc: require('./hardpoints/fragment_cannon').fc,
     rfl: require('./hardpoints/remote_release_flak_launcher.json').rfl,
     rg: require('./hardpoints/rail_gun').rg,
     pa: require('./hardpoints/plasma_accelerator').pa,
     mr: require('./hardpoints/missile_rack').mr,
+    amr: require('./hardpoints/missile_rack_advanced').amr,
     axmr: require('./hardpoints/ax_missile_rack').axmr,
+    axmre: require('./hardpoints/ax_missile_rack_enhanced').axmre,
     tp: require('./hardpoints/torpedo_pylon').tp,
+    ntp: require('./hardpoints/nanite_torpedo_pylon').ntp,
     nl: require('./hardpoints/mine_launcher').nl,
     ml: require('./hardpoints/mining_laser').ml,
     cs: require('./hardpoints/cargo_scanner').cs,
@@ -45,7 +49,8 @@ module.exports = {
     tbsc: require('./hardpoints/shock_cannon').tbsc,
     tbem: require('./hardpoints/enzyme_missile_rack.json').tbem,
     tbrfl: require('./hardpoints/remote_release_flechette_launcher.json').tbrfl,
-    gsc: require('./hardpoints/guardian_shard_cannon').gsc
+    gsc: require('./hardpoints/guardian_shard_cannon').gsc,
+    mh: require('./hardpoints/missing_hardpoint').mh,
   },
   internal: {
     am: require('./internal/auto_field_maintenance_unit').am,
@@ -84,5 +89,7 @@ module.exports = {
     gmrp: require('./internal/guardian_module_reinforcement_package').gmrp,
     sua: require('./internal/supercruise_assist').sua,
     ews: require('./internal/experemental_weapon_stabilizer').ews,
+    pas: require('./internal/planetary_approach_suite').pas,
+    mm: require('./internal/missing_module').mm,
   }
 }

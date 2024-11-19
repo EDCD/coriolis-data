@@ -183,6 +183,7 @@
       "mass": 4,
       "mount": "F",
       "name": "Disruptor",
+      "special": "Disruptor",
       "piercing": 35,
       "power": 0.7,
       "pp": "Felicia Winters",

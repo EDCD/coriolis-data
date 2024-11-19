@@ -30,7 +30,7 @@
     {
       "brokenregen": 1.6,
       "class": 2,
-      "cost": 1980,
+      "cost": 1978,
       "distdraw": 0.6,
       "edID": 128064263,
       "eddbID": 1116,
@@ -57,7 +57,7 @@
     {
       "brokenregen": 1.6,
       "class": 2,
-      "cost": 5930,
+      "cost": 5934,
       "distdraw": 0.6,
       "edID": 128064264,
       "eddbID": 1117,
@@ -84,7 +84,7 @@
     {
       "brokenregen": 1.6,
       "class": 2,
-      "cost": 17800,
+      "cost": 17803,
       "distdraw": 0.6,
       "edID": 128064265,
       "eddbID": 1118,
@@ -111,7 +111,7 @@
     {
       "brokenregen": 1.6,
       "class": 2,
-      "cost": 53410,
+      "cost": 53408,
       "distdraw": 0.6,
       "edID": 128064266,
       "eddbID": 1119,
@@ -138,7 +138,7 @@
     {
       "brokenregen": 1.6,
       "class": 2,
-      "cost": 160220,
+      "cost": 160224,
       "distdraw": 0.6,
       "edID": 128064267,
       "eddbID": 1120,
@@ -165,7 +165,7 @@
     {
       "brokenregen": 1.87,
       "class": 3,
-      "cost": 6270,
+      "cost": 6271,
       "distdraw": 0.6,
       "edID": 128064268,
       "eddbID": 1121,
@@ -192,7 +192,7 @@
     {
       "brokenregen": 1.87,
       "class": 3,
-      "cost": 18810,
+      "cost": 18812,
       "distdraw": 0.6,
       "edID": 128064269,
       "eddbID": 1122,
@@ -219,7 +219,7 @@
     {
       "brokenregen": 1.87,
       "class": 3,
-      "cost": 56440,
+      "cost": 56435,
       "distdraw": 0.6,
       "edID": 128064270,
       "eddbID": 1123,
@@ -246,7 +246,7 @@
     {
       "brokenregen": 1.87,
       "class": 3,
-      "cost": 169300,
+      "cost": 169304,
       "distdraw": 0.6,
       "edID": 128064271,
       "eddbID": 1124,
@@ -273,7 +273,7 @@
     {
       "brokenregen": 1.87,
       "class": 3,
-      "cost": 507910,
+      "cost": 507912,
       "distdraw": 0.6,
       "edID": 128064272,
       "eddbID": 1125,
@@ -300,7 +300,7 @@
     {
       "brokenregen": 2.53,
       "class": 4,
-      "cost": 19880,
+      "cost": 19878,
       "distdraw": 0.6,
       "edID": 128064273,
       "eddbID": 1126,
@@ -327,7 +327,7 @@
     {
       "brokenregen": 2.53,
       "class": 4,
-      "cost": 59630,
+      "cost": 59633,
       "distdraw": 0.6,
       "edID": 128064274,
       "eddbID": 1127,
@@ -354,7 +354,7 @@
     {
       "brokenregen": 2.53,
       "class": 4,
-      "cost": 178900,
+      "cost": 178898,
       "distdraw": 0.6,
       "edID": 128064275,
       "eddbID": 1128,
@@ -381,7 +381,7 @@
     {
       "brokenregen": 2.53,
       "class": 4,
-      "cost": 536690,
+      "cost": 536693,
       "distdraw": 0.6,
       "edID": 128064276,
       "eddbID": 1129,
@@ -435,7 +435,7 @@
     {
       "brokenregen": 3.75,
       "class": 5,
-      "cost": 63010,
+      "cost": 63012,
       "distdraw": 0.6,
       "edID": 128064278,
       "eddbID": 1131,
@@ -462,7 +462,7 @@
     {
       "brokenregen": 3.75,
       "class": 5,
-      "cost": 189040,
+      "cost": 189035,
       "distdraw": 0.6,
       "edID": 128064279,
       "eddbID": 1132,
@@ -489,7 +489,7 @@
     {
       "brokenregen": 3.75,
       "class": 5,
-      "cost": 567110,
+      "cost": 567106,
       "distdraw": 0.6,
       "edID": 128064280,
       "eddbID": 1133,
@@ -516,7 +516,7 @@
     {
       "brokenregen": 3.75,
       "class": 5,
-      "cost": 1701320,
+      "cost": 1701318,
       "distdraw": 0.6,
       "edID": 128064281,
       "eddbID": 1134,
@@ -543,7 +543,7 @@
     {
       "brokenregen": 3.75,
       "class": 5,
-      "cost": 5103950,
+      "cost": 5103953,
       "distdraw": 0.6,
       "edID": 128064282,
       "eddbID": 1135,
@@ -570,7 +570,7 @@
     {
       "brokenregen": 5.33,
       "class": 6,
-      "cost": 199750,
+      "cost": 199747,
       "distdraw": 0.6,
       "edID": 128064283,
       "eddbID": 1136,
@@ -597,7 +597,7 @@
     {
       "brokenregen": 5.33,
       "class": 6,
-      "cost": 599240,
+      "cost": 599242,
       "distdraw": 0.6,
       "edID": 128064284,
       "eddbID": 1137,
@@ -624,7 +624,7 @@
     {
       "brokenregen": 5.33,
       "class": 6,
-      "cost": 1797730,
+      "cost": 1797726,
       "distdraw": 0.6,
       "edID": 128064285,
       "eddbID": 1138,
@@ -651,7 +651,7 @@
     {
       "brokenregen": 5.33,
       "class": 6,
-      "cost": 5393180,
+      "cost": 5393177,
       "distdraw": 0.6,
       "edID": 128064286,
       "eddbID": 1139,
@@ -678,7 +678,7 @@
     {
       "brokenregen": 5.33,
       "class": 6,
-      "cost": 16179530,
+      "cost": 16179531,
       "distdraw": 0.6,
       "edID": 128064287,
       "eddbID": 1140,
@@ -705,7 +705,7 @@
     {
       "brokenregen": 7.33,
       "class": 7,
-      "cost": 633200,
+      "cost": 633199,
       "distdraw": 0.6,
       "edID": 128064288,
       "eddbID": 1141,
@@ -732,7 +732,7 @@
     {
       "brokenregen": 7.33,
       "class": 7,
-      "cost": 1899600,
+      "cost": 1899597,
       "distdraw": 0.6,
       "edID": 128064289,
       "eddbID": 1142,
@@ -786,7 +786,7 @@
     {
       "brokenregen": 7.33,
       "class": 7,
-      "cost": 17096370,
+      "cost": 17096371,
       "distdraw": 0.6,
       "edID": 128064291,
       "eddbID": 1144,
@@ -813,7 +813,7 @@
     {
       "brokenregen": 7.33,
       "class": 7,
-      "cost": 51289110,
+      "cost": 51289112,
       "distdraw": 0.6,
       "edID": 128064292,
       "eddbID": 1145,
@@ -840,7 +840,7 @@
     {
       "brokenregen": 9.6,
       "class": 8,
-      "cost": 2007240,
+      "cost": 2007241,
       "distdraw": 0.6,
       "edID": 128064293,
       "eddbID": 1146,
@@ -867,7 +867,7 @@
     {
       "brokenregen": 9.6,
       "class": 8,
-      "cost": 6021720,
+      "cost": 6021722,
       "distdraw": 0.6,
       "edID": 128064294,
       "eddbID": 1147,
@@ -894,7 +894,7 @@
     {
       "brokenregen": 9.6,
       "class": 8,
-      "cost": 18065170,
+      "cost": 18065165,
       "distdraw": 0.6,
       "edID": 128064295,
       "eddbID": 1148,
@@ -921,7 +921,7 @@
     {
       "brokenregen": 9.6,
       "class": 8,
-      "cost": 54195500,
+      "cost": 54195495,
       "distdraw": 0.6,
       "edID": 128064296,
       "eddbID": 1149,
@@ -948,7 +948,7 @@
     {
       "brokenregen": 9.6,
       "class": 8,
-      "cost": 162586490,
+      "cost": 162586486,
       "distdraw": 0.6,
       "edID": 128064297,
       "eddbID": 1150,

@@ -6,11 +6,12 @@
       "name": "Type-7 Transporter",
       "manufacturer": "Lakon",
       "class": 3,
-      "hullCost": 16780510,
+      "hullCost": 16783094,
       "speed": 180,
       "heatCapacity": 226,
       "boost": 300,
       "boostEnergy": 10,
+      "boostInt": 6,
       "baseShieldStrength": 155,
       "baseArmour": 340,
       "hardness": 54,
@@ -23,7 +24,7 @@
       "crew": 1,
       "reserveFuelCapacity": 0.52
     },
-    "retailCost": 17472260,
+    "retailCost": 17472252,
     "bulkheads": [
       {
         "id": "Bs",
@@ -56,7 +57,7 @@
         "edID": 128049300,
         "eddbID": 775,
         "grp": "bh",
-        "cost": 15725030,
+        "cost": 15725026,
         "mass": 63,
         "causres": 0,
         "explres": -0.4,
@@ -82,7 +83,7 @@
         "edID": 128049302,
         "eddbID": 777,
         "grp": "bh",
-        "cost": 41182100,
+        "cost": 41182097,
         "mass": 63,
         "causres": 0,
         "explres": 0.2,
@@ -121,7 +122,14 @@
         3,
         3,
         2,
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -154,7 +162,8 @@
         0,
         0,
         "",
-        0
+        0,
+        "4F"
       ]
     }
   }

@@ -1,0 +1,66 @@
+{
+    "advmc": [
+      {
+        "ammo": 2100,
+        "breachdmg": 1,
+        "breachmax": 0.8,
+        "breachmin": 0.4,
+        "class": 1,
+        "clip": 100,
+        "cost": 9500,
+        "damage": 1.12,
+        "damagedist": {
+          "K": 1
+        },
+        "distdraw": 0.06,
+        "edID": 128935981,
+        "eddbID": 0,
+        "falloff": 2000,
+        "fireint": 0.13,
+        "grp": "advmc",
+        "id": "5C",
+        "integrity": 40,
+        "mass": 2,
+        "mount": "F",
+        "piercing": 22,
+        "power": 0.28,
+        "range": 4000,
+        "rating": "F",
+        "reload": 4,
+        "shotspeed": 1600,
+        "thermload": 0.09,
+        "symbol": "Hpt_MultiCannon_Fixed_Small_Advanced"
+      },
+      {
+        "ammo": 2100,
+        "breachdmg": 2,
+        "breachmax": 0.8,
+        "breachmin": 0.4,
+        "class": 2,
+        "clip": 100,
+        "cost": 38000,
+        "damage": 2.19,
+        "damagedist": {
+          "K": 1
+        },
+        "distdraw": 0.11,
+        "edID": 128935980,
+        "eddbID": 0,
+        "falloff": 2000,
+        "fireint": 0.14,
+        "grp": "advmc",
+        "id": "5D",
+        "integrity": 51,
+        "mass": 4,
+        "mount": "F",
+        "piercing": 37,
+        "power": 0.46,
+        "range": 4000,
+        "rating": "E",
+        "reload": 4,
+        "shotspeed": 1600,
+        "thermload": 0.18,
+        "symbol": "Hpt_MultiCannon_Fixed_Medium_Advanced"
+      }
+    ]
+}

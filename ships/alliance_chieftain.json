@@ -6,10 +6,11 @@
       "name": "Alliance Chieftain",
       "manufacturer": "Lakon",
       "class": 2,
-      "hullCost": 18182883,
+      "hullCost": 18612476,
       "speed": 230,
       "boost": 330,
       "boostEnergy": 19,
+      "boostInt": 6,
       "baseShieldStrength": 200,
       "heatCapacity": 289,
       "baseArmour": 280,
@@ -46,7 +47,7 @@
         "edID": 128816577,
         "eddbID": 1641,
         "grp": "bh",
-        "cost": 6803170,
+        "cost": 7752900,
         "mass": 40,
         "causres": 0,
         "explres": -0.4,
@@ -59,7 +60,7 @@
         "edID": 128816578,
         "eddbID": 1642,
         "grp": "bh",
-        "cost": 15307134,
+        "cost": 17444026,
         "mass": 78,
         "causres": 0,
         "explres": -0.4,
@@ -72,7 +73,7 @@
         "edID": 128816579,
         "eddbID": 1643,
         "grp": "bh",
-        "cost": 36175859,
+        "cost": 41226050,
         "mass": 78,
         "causres": 0,
         "explres": -0.5,
@@ -85,7 +86,7 @@
         "edID": 128816580,
         "eddbID": 1644,
         "grp": "bh",
-        "cost": 40087682,
+        "cost": 45683967,
         "mass": 78,
         "causres": 0,
         "explres": 0.2,
@@ -161,7 +162,14 @@
             "ghrp": 1
           }
         },
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -195,7 +203,8 @@
         "",
         "",
         "",
-        0
+        0,
+        "4F"
       ]
     }
   }

@@ -6,10 +6,11 @@
       "name": "Federal Dropship",
       "manufacturer": "Core Dynamics",
       "class": 2,
-      "hullCost": 13469990,
+      "hullCost": 13510106,
       "speed": 180,
       "boost": 300,
       "boostEnergy": 19,
+      "boostInt": 6,
       "baseShieldStrength": 200,
       "baseArmour": 300,
       "hardness": 60,
@@ -46,7 +47,7 @@
         "edID": 128049323,
         "eddbID": 794,
         "grp": "bh",
-        "cost": 5725680,
+        "cost": 5725682,
         "mass": 44,
         "causres": 0,
         "explres": -0.4,
@@ -59,7 +60,7 @@
         "edID": 128049324,
         "eddbID": 795,
         "grp": "bh",
-        "cost": 12882780,
+        "cost": 12882784,
         "mass": 87,
         "causres": 0,
         "explres": -0.4,
@@ -72,7 +73,7 @@
         "edID": 128049325,
         "eddbID": 796,
         "grp": "bh",
-        "cost": 30446310,
+        "cost": 30446314,
         "mass": 87,
         "causres": 0,
         "explres": -0.5,
@@ -85,7 +86,7 @@
         "edID": 128049326,
         "eddbID": 797,
         "grp": "bh",
-        "cost": 33738580,
+        "cost": 33738581,
         "mass": 87,
         "causres": 0,
         "explres": 0.2,
@@ -149,7 +150,14 @@
         3,
         3,
         2,
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -183,7 +191,8 @@
         0,
         0,
         "",
-        0
+        0,
+        "4F"
       ]
     }
   }

@@ -3,7 +3,7 @@
     {
       "angle": 15,
       "class": 0,
-      "cost": 13540,
+      "cost": 13544,
       "edID": 128662520,
       "eddbID": 1227,
       "grp": "cs",
@@ -19,7 +19,7 @@
     {
       "angle": 15,
       "class": 0,
-      "cost": 40630,
+      "cost": 40633,
       "edID": 128662521,
       "eddbID": 1228,
       "grp": "cs",
@@ -35,7 +35,7 @@
     {
       "angle": 15,
       "class": 0,
-      "cost": 121900,
+      "cost": 121899,
       "edID": 128662522,
       "eddbID": 1229,
       "grp": "cs",
@@ -51,7 +51,7 @@
     {
       "angle": 15,
       "class": 0,
-      "cost": 365700,
+      "cost": 365698,
       "edID": 128662523,
       "eddbID": 1230,
       "grp": "cs",
@@ -67,7 +67,7 @@
     {
       "angle": 15,
       "class": 0,
-      "cost": 1097100,
+      "cost": 1097095,
       "edID": 128662524,
       "eddbID": 1231,
       "grp": "cs",

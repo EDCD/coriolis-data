@@ -6,10 +6,11 @@
       "name": "Anaconda",
       "manufacturer": "Faulcon DeLacy",
       "class": 3,
-      "hullCost": 141889930,
+      "hullCost": 142456440,
       "speed": 180,
       "boost": 240,
       "boostEnergy": 27,
+      "boostInt": 6,
       "baseShieldStrength": 350,
       "baseArmour": 525,
       "heatCapacity": 334,
@@ -24,7 +25,7 @@
       "crew": 3,
       "reserveFuelCapacity": 1.07
     },
-    "retailCost": 146969450,
+    "retailCost": 146969451,
     "bulkheads": [
       {
         "id": "bT",
@@ -57,7 +58,7 @@
         "edID": 128049366,
         "eddbID": 820,
         "grp": "bh",
-        "cost": 132272510,
+        "cost": 132272505,
         "mass": 60,
         "causres": 0,
         "explres": -0.4,
@@ -70,7 +71,7 @@
         "edID": 128049367,
         "eddbID": 821,
         "grp": "bh",
-        "cost": 312604020,
+        "cost": 312604021,
         "mass": 60,
         "causres": 0,
         "explres": -0.5,
@@ -83,7 +84,7 @@
         "edID": 128049368,
         "eddbID": 822,
         "grp": "bh",
-        "cost": 346407000,
+        "cost": 346406995,
         "mass": 60,
         "causres": 0,
         "explres": 0.2,
@@ -145,7 +146,14 @@
         4,
         4,
         2,
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -189,7 +197,8 @@
         0,
         "",
         "00",
-        0
+        0,
+        "4F"
       ]
     }
   }

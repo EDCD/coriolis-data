@@ -6,10 +6,11 @@
       "name": "Imperial Courier",
       "manufacturer": "Gutamaya",
       "class": 1,
-      "hullCost": 2481550,
+      "hullCost": 2484137,
       "speed": 280,
       "boost": 380,
       "boostEnergy": 10,
+      "boostInt": 4,
       "baseShieldStrength": 200,
       "baseArmour": 80,
       "hardness": 30,
@@ -23,7 +24,7 @@
       "crew": 1,
       "reserveFuelCapacity": 0.41
     },
-    "retailCost": 2542930,
+    "retailCost": 2542931,
     "requirements": {
       "empireRank": 3
     },
@@ -46,7 +47,7 @@
         "edID": 128671225,
         "eddbID": 1390,
         "grp": "bh",
-        "cost": 1017200,
+        "cost": 1017172,
         "mass": 4,
         "causres": 0,
         "explres": -0.4,
@@ -59,7 +60,7 @@
         "edID": 128671226,
         "eddbID": 1391,
         "grp": "bh",
-        "cost": 2288600,
+        "cost": 2288637,
         "mass": 8,
         "causres": 0,
         "explres": -0.4,
@@ -72,7 +73,7 @@
         "edID": 128671227,
         "eddbID": 1392,
         "grp": "bh",
-        "cost": 5408800,
+        "cost": 5408814,
         "mass": 8,
         "causres": 0,
         "explres": -0.5,
@@ -85,7 +86,7 @@
         "edID": 128671228,
         "eddbID": 1393,
         "grp": "bh",
-        "cost": 5993700,
+        "cost": 5993688,
         "mass": 8,
         "causres": 0,
         "explres": 0.2,
@@ -121,7 +122,14 @@
         2,
         1,
         1,
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -151,7 +159,8 @@
         "00",
         "",
         0,
-        0
+        0,
+        "4F"
       ]
     }
   }
