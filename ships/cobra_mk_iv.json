@@ -6,10 +6,11 @@
       "name": "Cobra Mk IV",
       "manufacturer": "Faulcon DeLacy",
       "class": 1,
-      "hullCost": 603740,
+      "hullCost": 623374,
       "speed": 200,
       "boost": 300,
       "boostEnergy": 10,
+      "boostInt": 5,
       "baseShieldStrength": 120,
       "heatCapacity": 228,
       "baseArmour": 120,
@@ -23,7 +24,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.51
     },
-    "retailCost": 747660,
+    "retailCost": 764720,
     "requirements": {
       "horizonsEarlyAdoption": true
     },
@@ -46,7 +47,7 @@
         "edID": 128672265,
         "eddbID": 1519,
         "grp": "bh",
-        "cost": 305890,
+        "cost": 305887,
         "mass": 14,
         "causres": 0,
         "explres": -0.4,
@@ -59,7 +60,7 @@
         "edID": 128672266,
         "eddbID": 1520,
         "grp": "bh",
-        "cost": 688250,
+        "cost": 688246,
         "mass": 27,
         "causres": 0,
         "explres": -0.4,
@@ -72,7 +73,7 @@
         "edID": 128672267,
         "eddbID": 1521,
         "grp": "bh",
-        "cost": 1605910,
+        "cost": 1605907,
         "mass": 27,
         "causres": 0,
         "explres": -0.5,
@@ -123,7 +124,14 @@
         2,
         2,
         1,
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -155,7 +163,8 @@
         "00",
         "",
         0,
-        0
+        0,
+        "4F"
       ]
     }
   }

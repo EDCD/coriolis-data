@@ -11,7 +11,7 @@ if (!fs.existsSync('./dist')){
     fs.mkdirSync('./dist');
 }
 
-fs.open('./dist/index.json', 'w', function() {
+fs.open('./dist/index.js', 'w', function() {
     fs.writeFile('./dist/index.js', code, function(err) {});
 });
 

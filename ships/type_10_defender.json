@@ -6,10 +6,11 @@
       "name": "Type-10 Defender",
       "manufacturer": "Lakon",
       "class": 3,
-      "hullCost": 121454652,
+      "hullCost": 121334619,
       "speed": 179,
       "boost": 219,
       "boostEnergy": 19,
+      "boostInt": 6,
       "baseShieldStrength": 320,
       "baseArmour": 580,
       "hardness": 75,
@@ -44,7 +45,7 @@
         "edID": 128785622,
         "eddbID": 1628,
         "grp": "bh",
-        "cost": 49902137,
+        "cost": 49902136,
         "mass": 75,
         "causres": 0,
         "explres": -0.4,
@@ -83,7 +84,7 @@
         "edID": 128785625,
         "eddbID": 1631,
         "grp": "bh",
-        "cost": 294048342,
+        "cost": 294048341,
         "mass": 150,
         "causres": 0,
         "explres": 0.2,
@@ -156,7 +157,14 @@
             "ghrp": 1
           }
         },
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -200,7 +208,8 @@
         "",
         0,
         0,
-        0
+        0,
+        "4F"
       ]
     }
   }

@@ -6,10 +6,11 @@
       "name": "Type-9 Heavy",
       "manufacturer": "Lakon",
       "class": 3,
-      "hullCost": 72076730,
+      "hullCost": 72116858,
       "speed": 130,
       "boost": 200,
       "boostEnergy": 19,
+      "boostInt": 6,
       "heatCapacity": 289,
       "baseShieldStrength": 240,
       "baseArmour": 480,
@@ -24,7 +25,7 @@
       "crew": 3,
       "reserveFuelCapacity": 0.77
     },
-    "retailCost": 76555840,
+    "retailCost": 76555842,
     "bulkheads": [
       {
         "id": "Bx",
@@ -44,7 +45,7 @@
         "edID": 128049335,
         "eddbID": 804,
         "grp": "bh",
-        "cost": 30622340,
+        "cost": 30622336,
         "mass": 75,
         "causres": 0,
         "explres": -0.4,
@@ -57,7 +58,7 @@
         "edID": 128049336,
         "eddbID": 805,
         "grp": "bh",
-        "cost": 68900260,
+        "cost": 68900257,
         "mass": 150,
         "causres": 0,
         "explres": -0.4,
@@ -70,7 +71,7 @@
         "edID": 128049337,
         "eddbID": 806,
         "grp": "bh",
-        "cost": 162834280,
+        "cost": 162834275,
         "mass": 150,
         "causres": 0,
         "explres": -0.5,
@@ -83,7 +84,7 @@
         "edID": 128049338,
         "eddbID": 807,
         "grp": "bh",
-        "cost": 180442120,
+        "cost": 180442119,
         "mass": 150,
         "causres": 0,
         "explres": 0.2,
@@ -124,7 +125,14 @@
         3,
         3,
         2,
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -159,7 +167,8 @@
         "01",
         0,
         "",
-        0
+        0,
+        "4F"
       ]
     }
   }

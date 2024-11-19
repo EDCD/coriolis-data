@@ -6,7 +6,7 @@
       "shotspeed": 550,
       "breachmin": 0.1,
       "class": 2,
-      "cost": 381750,
+      "cost": 122170,
       "damage": 5,
       "chargetime": 2,
       "damagedist": {
@@ -70,7 +70,7 @@
       "shotspeed": 550,
       "breachmin": 0.1,
       "class": 1,
-      "cost": 12601,
+      "cost": 12600,
       "damage": 5,
       "chargetime": 2,
       "damagedist": {
@@ -102,7 +102,7 @@
       "shotspeed": 550,
       "breachmin": 0.1,
       "class": 1,
-      "cost": 38751,
+      "cost": 38750,
       "damage": 5,
       "chargetime": 2,
       "damagedist": {

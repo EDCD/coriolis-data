@@ -139,7 +139,7 @@
       "breachmin": 0.4,
       "class": 2,
       "clip": 3,
-      "cost": 437761,
+      "cost": 437760,
       "damage": 2.275,
       "damagedist": {
         "K": 1
@@ -321,9 +321,11 @@
       "mass": 8,
       "mount": "F",
       "name": "Pacifier",
+      "special": "Pacifier",
       "piercing": 45,
       "power": 1.02,
       "pp": "Zachary Hudson",
+      "range": 3000,
       "rating": "C",
       "reload": 5,
       "roundspershot": 12,

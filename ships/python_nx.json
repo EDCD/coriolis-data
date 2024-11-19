@@ -6,10 +6,11 @@
       "name": "Python Mk II",
       "manufacturer": "Faulcon DeLacy",
       "class": 2,
-      "hullCost": 56812626,
+      "hullCost": 64743724,
       "speed": 256,
       "boost": 345,
       "boostEnergy": 19,
+      "boostInt": 4.5,
       "baseShieldStrength": 335,
       "baseArmour": 280,
       "heatCapacity": 316,
@@ -23,7 +24,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.83
     },
-    "retailCost": 67527360,
+    "retailCost": 67527359,
     "bulkheads": [
       {
         "id": "bO",
@@ -121,7 +122,14 @@
         3,
         2,
         1,
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -152,7 +160,7 @@
         "",
         "00",
         "3w",
-        0, 
+        "4F",
         0,
         0,
         0

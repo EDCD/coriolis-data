@@ -6,10 +6,11 @@
       "name": "Orca",
       "manufacturer": "Saud Kruger",
       "class": 3,
-      "hullCost": 47790590,
+      "hullCost": 47800723,
       "speed": 300,
       "boost": 380,
       "boostEnergy": 16,
+      "boostInt": 4,
       "baseShieldStrength": 220,
       "baseArmour": 220,
       "heatCapacity": 262,
@@ -24,7 +25,7 @@
       "crew": 2,
       "reserveFuelCapacity": 0.79
     },
-    "retailCost": 48539900,
+    "retailCost": 48539887,
     "bulkheads": [
       {
         "id": "BM",
@@ -44,7 +45,7 @@
         "edID": 128049329,
         "eddbID": 799,
         "grp": "bh",
-        "cost": 19415950,
+        "cost": 19415954,
         "mass": 21,
         "causres": 0,
         "explres": -0.4,
@@ -57,7 +58,7 @@
         "edID": 128049330,
         "eddbID": 800,
         "grp": "bh",
-        "cost": 43685900,
+        "cost": 43685898,
         "mass": 87,
         "causres": 0,
         "explres": -0.4,
@@ -70,7 +71,7 @@
         "edID": 128049331,
         "eddbID": 801,
         "grp": "bh",
-        "cost": 103244340,
+        "cost": 103244339,
         "mass": 87,
         "causres": 0,
         "explres": -0.5,
@@ -83,7 +84,7 @@
         "edID": 128049332,
         "eddbID": 802,
         "grp": "bh",
-        "cost": 114408510,
+        "cost": 114408513,
         "mass": 87,
         "causres": 0,
         "explres": 0.2,
@@ -120,7 +121,14 @@
         3,
         2,
         2,
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -151,7 +159,8 @@
         0,
         0,
         "",
-        0
+        0,
+        "4F"
       ]
     }
   }

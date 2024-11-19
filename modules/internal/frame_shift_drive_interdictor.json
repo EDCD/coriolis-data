@@ -273,7 +273,7 @@
     {
       "boot": 15,
       "class": 4,
-      "cost": 263420,
+      "cost": 263424,
       "edID": 128666707,
       "eddbID": 1309,
       "facinglimit": 50,
@@ -291,7 +291,7 @@
     {
       "boot": 15,
       "class": 4,
-      "cost": 790270,
+      "cost": 790272,
       "edID": 128666711,
       "eddbID": 1313,
       "facinglimit": 50,
@@ -309,7 +309,7 @@
     {
       "boot": 15,
       "class": 4,
-      "cost": 2370820,
+      "cost": 2370816,
       "edID": 128666715,
       "eddbID": 1317,
       "facinglimit": 50,
@@ -327,7 +327,7 @@
     {
       "boot": 15,
       "class": 4,
-      "cost": 7112450,
+      "cost": 7112448,
       "edID": 128666719,
       "eddbID": 1321,
       "facinglimit": 50,
@@ -345,7 +345,7 @@
     {
       "boot": 15,
       "class": 4,
-      "cost": 21337340,
+      "cost": 21337344,
       "edID": 128666723,
       "eddbID": 1325,
       "facinglimit": 50,

@@ -6,10 +6,11 @@
       "name": "Krait Mk II",
       "manufacturer": "Faulcon DeLacy",
       "class": 2,
-      "hullCost": 42409425,
+      "hullCost": 44160710,
       "speed": 240,
       "boost": 330,
       "boostEnergy": 13,
+      "boostInt": 4.5,
       "baseShieldStrength": 220,
       "heatCapacity": 300,
       "baseArmour": 220,
@@ -44,7 +45,7 @@
         "edID": 128816570,
         "eddbID": 1646,
         "grp": "bh",
-        "cost": 22791270,
+        "cost": 18325682,
         "mass": 36,
         "causres": 0,
         "explres": -0.4,
@@ -57,7 +58,7 @@
         "edID": 128816571,
         "eddbID": 1647,
         "grp": "bh",
-        "cost": 51280360,
+        "cost": 41232784,
         "mass": 67,
         "causres": 0,
         "explres": -0.4,
@@ -70,7 +71,7 @@
         "edID": 128816572,
         "eddbID": 1648,
         "grp": "bh",
-        "cost": 121192590,
+        "cost": 97446814,
         "mass": 67,
         "causres": 0,
         "explres": -0.5,
@@ -83,7 +84,7 @@
         "edID": 128816573,
         "eddbID": 1649,
         "grp": "bh",
-        "cost": 134297570,
+        "cost": 88322097,
         "mass": 67,
         "causres": 0,
         "explres": 0.2,
@@ -122,7 +123,14 @@
         3,
         3,
         2,
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -155,7 +163,8 @@
         "",
         0,
         "00",
-        0
+        0,
+        "4F"
       ]
     }
   }

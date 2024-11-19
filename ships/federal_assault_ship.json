@@ -6,10 +6,11 @@
       "name": "Federal Assault Ship",
       "manufacturer": "Core Dynamics",
       "class": 2,
-      "hullCost": 19072000,
+      "hullCost": 19111109,
       "speed": 210,
       "boost": 350,
       "boostEnergy": 19,
+      "boostInt": 6,
       "baseShieldStrength": 200,
       "baseArmour": 300,
       "hardness": 60,
@@ -46,7 +47,7 @@
         "edID": 128672148,
         "eddbID": 1467,
         "grp": "bh",
-        "cost": 7925680,
+        "cost": 7925682,
         "mass": 44,
         "causres": 0,
         "explres": -0.4,
@@ -59,7 +60,7 @@
         "edID": 128672149,
         "eddbID": 1468,
         "grp": "bh",
-        "cost": 17832780,
+        "cost": 17832784,
         "mass": 87,
         "causres": 0,
         "explres": -0.4,
@@ -72,7 +73,7 @@
         "edID": 128672150,
         "eddbID": 1469,
         "grp": "bh",
-        "cost": 42144810,
+        "cost": 42144814,
         "mass": 87,
         "causres": 0,
         "explres": -0.5,
@@ -85,7 +86,7 @@
         "edID": 128672151,
         "eddbID": 1470,
         "grp": "bh",
-        "cost": 46702080,
+        "cost": 46702081,
         "mass": 87,
         "causres": 0,
         "explres": 0.2,
@@ -147,7 +148,14 @@
         3,
         2,
         2,
-        1
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
       ]
     },
     "defaults": {
@@ -179,7 +187,8 @@
         "02",
         0,
         0,
-        0
+        0,
+        "4F"
       ]
     }
   }
