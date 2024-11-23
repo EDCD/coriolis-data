@@ -9163,7 +9163,7 @@
     "name": "Long range"
   },
   "MC_Overcharged": {
-    "fdname": "MC_Overcharged",
+    "fdname": "Weapon_Overcharged",
     "grades": {
       "1": {
         "components": {
@@ -9187,7 +9187,7 @@
             0.03
           ]
         },
-        "uuid": "e917ebe3-d5f1-4016-b8a9-2c759e16a7d4"
+        "uuid": "2eed699d-0840-4669-bc49-5f298441bde5"
       },
       "2": {
         "components": {
@@ -9212,7 +9212,7 @@
             0.06
           ]
         },
-        "uuid": "f5921fc1-fb10-4d2f-8e0a-cd8d8e9e3a84"
+        "uuid": "cf26b291-7f22-473c-81d7-928644f08f42"
       },
       "3": {
         "components": {
@@ -9238,7 +9238,7 @@
             0.09
           ]
         },
-        "uuid": "4389883f-c2b3-4487-9b1a-b668a761057a"
+        "uuid": "41e39424-9e5a-4320-868e-df0fecbe838b"
       },
       "4": {
         "components": {
@@ -9264,7 +9264,7 @@
             0.12
           ]
         },
-        "uuid": "25ec26dd-63b8-4e83-9a6e-86e5b80c4771"
+        "uuid": "f8ce2bac-1556-4073-991c-b45e8f9053ef"
       },
       "5": {
         "components": {
@@ -9290,7 +9290,7 @@
             0.15
           ]
         },
-        "uuid": "4dcf6bdc-bcff-448a-92a0-7612de548db7"
+        "uuid": "54b792c8-e968-4608-ba5a-6340231a4bd1"
       }
     },
     "id": 88,
