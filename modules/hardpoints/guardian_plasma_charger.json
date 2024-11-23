@@ -9,7 +9,7 @@
       "class": 1,
       "clip": 15,
       "cost": 176500,
-      "damage": 1.7,
+      "damage": 3,
       "damagedist": {
         "A": 1
       },
@@ -41,7 +41,7 @@
       "class": 1,
       "clip": 15,
       "cost": 484050,
-      "damage": 1.1,
+      "damage": 2,
       "damagedist": {
         "A": 1
       },
@@ -141,7 +141,7 @@
       "mass": 8,
       "integrity": 51,
       "power": 3.1,
-      "damage": 3.4,
+      "damage": 7,
       "distdraw": 2.42,
       "fireint": 0.2,
       "thermload": 6.2,
@@ -169,7 +169,7 @@
       "class": 3,
       "clip": 15,
       "cost": 5495200,
-      "damage": 3.3,
+      "damage": 6,
       "damagedist": {
         "A": 1
       },
