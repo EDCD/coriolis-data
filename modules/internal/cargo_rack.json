@@ -130,7 +130,7 @@
     {
       "cargo": 2,
       "class": 1,
-      "cost": 12563,
+      "cost": 0,
       "edID": 128681992,
       "eddbID": 1552,
       "grp": "cr",
@@ -154,6 +154,34 @@
       "rating": "E",
       "mass": 0,
       "symbol": "Int_CorrosionProofCargoRack_Size4_Class1",
+      "ukName": "Corrosion Resistant Cargo Rack",
+      "ukDiscript": "Specialised storage rack for use in automated cargo transfer system that can resist the effects of corrosive cargo."
+    },
+    {
+      "cargo": 32,
+      "class": 5,
+      "cost": 0,
+      "edID": 128957069,
+      "grp": "cr",
+      "id": "5E",
+      "name": "Corrosion Resistant",
+      "rating": "E",
+      "mass": 0,
+      "symbol": "Int_CorrosionProofCargoRack_Size5_Class1",
+      "ukName": "Corrosion Resistant Cargo Rack",
+      "ukDiscript": "Specialised storage rack for use in automated cargo transfer system that can resist the effects of corrosive cargo."
+    },
+    {
+      "cargo": 64,
+      "class": 6,
+      "cost": 0,
+      "edID": null,
+      "grp": "cr",
+      "id": "5F",
+      "name": "Corrosion Resistant",
+      "rating": "E",
+      "mass": 0,
+      "symbol": "Int_CorrosionProofCargoRack_Size6_Class1",
       "ukName": "Corrosion Resistant Cargo Rack",
       "ukDiscript": "Specialised storage rack for use in automated cargo transfer system that can resist the effects of corrosive cargo."
     }
