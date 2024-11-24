@@ -342,7 +342,7 @@
     "optmass": 0.04
   },
   "special_fsd_toughened": {
-    "integrity": 0.15
+    "integrity": 0.25
   },
   "special_fsd_lightweight": {
     "mass": -0.1
