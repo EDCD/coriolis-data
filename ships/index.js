@@ -9,7 +9,7 @@ module.exports = {
   beluga: require('./beluga').beluga,
   cobra_mk_iii: require('./cobra_mk_iii').cobra_mk_iii,
   cobra_mk_iv: require('./cobra_mk_iv').cobra_mk_iv,
-  cobra_mk_v: require('./cobra_mk_v').cobra_mk_v,
+  cobramkv: require('./cobra_mk_v').cobramkv,
   diamondback_explorer: require('./diamondback_explorer').diamondback_explorer,
   diamondback: require('./diamondback_scout').diamondback,
   dolphin: require('./dolphin').dolphin,
