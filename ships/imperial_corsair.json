@@ -1,0 +1,176 @@
+{
+  "imperial_corsair": {
+    "edID": 0,
+    "eddbID": 0,
+    "properties": {
+      "name": "Corsair",
+      "manufacturer": "Gutamaya",
+      "class": 2,
+      "hullCost": 76884160,
+      "speed": 280,
+      "boost": 355,
+      "boostEnergy": 19,
+      "boostInt": 5,
+      "baseShieldStrength": 235,
+      "baseArmour": 270,
+      "hardness": 65,
+      "hullMass": 265,
+      "masslock": 7,
+      "heatCapacity": 230,
+      "pipSpeed": 0.053571428571429,
+      "pitch": 26,
+      "roll": 80,
+      "yaw": 10,
+      "crew": 2,
+      "reserveFuelCapacity": 0.41
+    },
+    "retailCost": 79304750,
+    "requirements": {
+      "empireRank": 0
+    },
+    "bulkheads": [
+      {
+        "id": "bf",
+        "edID": 0,
+        "eddbID": 0,
+        "grp": "bh",
+        "cost": 0,
+        "mass": 0,
+        "causres": 0,
+        "explres": -0.4,
+        "kinres": -0.2,
+        "thermres": 0,
+        "hullboost": 0.8
+      },
+      {
+        "id": "bg",
+        "edID": 0,
+        "eddbID": 0,
+        "grp": "bh",
+        "cost": 31721900,
+        "mass": 32,
+        "causres": 0,
+        "explres": -0.4,
+        "kinres": -0.2,
+        "thermres": 0,
+        "hullboost": 1.52
+      },
+      {
+        "id": "bh",
+        "edID": 0,
+        "eddbID": 0,
+        "grp": "bh",
+        "cost": 71374270,
+        "mass": 63,
+        "causres": 0,
+        "explres": -0.4,
+        "kinres": -0.2,
+        "thermres": 0,
+        "hullboost": 2.5
+      },
+      {
+        "id": "bi",
+        "edID": 0,
+        "eddbID": 0,
+        "grp": "bh",
+        "cost": 166539970,
+        "mass": 63,
+        "causres": 0,
+        "explres": -0.5,
+        "kinres": -0.75,
+        "thermres": 0.5,
+        "hullboost": 2.5
+      },
+      {
+        "id": "bj",
+        "edID": 0,
+        "eddbID": 0,
+        "grp": "bh",
+        "cost": 186921290,
+        "mass": 63,
+        "causres": 0,
+        "explres": 0.2,
+        "kinres": 0.25,
+        "thermres": -0.4,
+        "hullboost": 2.5
+      }
+    ],
+    "slots": {
+      "standard": [
+        7,
+        7,
+        5,
+        4,
+        7,
+        6,
+        5
+      ],
+      "hardpoints": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "internal": [
+        6,
+        6,
+        6,
+        5,
+        5,
+        5,
+        4,
+        3,
+        2,
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
+      ]
+    },
+    "defaults": {
+      "standard": [
+        "7E",
+        "7E",
+        "FN",
+        "4E",
+        "7E",
+        "6E",
+        "5C"
+      ],
+      "hardpoints": [
+        0,
+        0,
+        0,
+        17,
+        17,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "internal": [
+        "04",
+        "4e",
+        "",
+        "03",
+        "",
+        "",
+        "",
+        "",
+        "3w",
+        "4F"
+      ]
+    }
+  }
+}

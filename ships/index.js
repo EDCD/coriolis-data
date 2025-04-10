@@ -21,6 +21,7 @@ module.exports = {
   fer_de_lance: require('./fer_de_lance').fer_de_lance,
   hauler: require('./hauler').hauler,
   imperial_clipper: require('./imperial_clipper').imperial_clipper,
+  imperial_corsair: require('./imperial_corsair').imperial_corsair,
   imperial_courier: require('./imperial_courier').imperial_courier,
   imperial_cutter: require('./imperial_cutter').imperial_cutter,
   imperial_eagle: require('./imperial_eagle').imperial_eagle,
