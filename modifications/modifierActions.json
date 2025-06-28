@@ -171,21 +171,21 @@
   "special_choke_canister": {},
   "special_feedback_cascade_cooled": {
     "damage": -0.2,
-    "thermload": -40
+    "thermload": -0.4
   },
   "special_super_penetrator_cooled": {
     "reload": 0.5,
-    "thermload": -40
+    "thermload": -0.4
   },
   "special_concordant_sequence": {
-    "thermload": 50
+    "thermload": 0.5
   },
   "special_corrosive_shell": {
     "ammo": -0.2
   },
   "special_plasma_slug_cooled": {
     "damage": -0.1,
-    "thermload": -40
+    "thermload": -0.4
   },
   "special_plasma_slug_pa": {
     "damage": -0.1
@@ -195,7 +195,7 @@
   "special_distortion_field": {},
   "special_drag_munitions": {},
   "special_emissive_munitions": {
-    "thermload": 100
+    "thermload": 1
   },
   "special_feedback_cascade": {
     "breachdmg": -0.2,
@@ -218,7 +218,7 @@
   },
   "special_incendiary_rounds": {
     "rof": 0.05263157894736842,
-    "thermload": 200,
+    "thermload": 2,
     "damagedist": {
       "T": 0.9,
       "K": 0.1
@@ -318,14 +318,14 @@
   },
   "special_engine_cooled": {
     "mass": 0.05,
-    "thermload": -10
+    "thermload": -0.1
   },
   "special_engine_haulage": {
     "optmass": 0.1
   },
   "special_engine_overloaded": {
     "optmul": 0.04,
-    "thermload": 10
+    "thermload": 0.1
   },
   "special_engine_toughened": {
     "integrity": 0.15
@@ -348,7 +348,7 @@
     "mass": -0.1
   },
   "special_fsd_cooled": {
-    "thermload": -10
+    "thermload": -0.1
   },
   "special_lock_breaker": {},
   "special_powerplant_highcharge": {
@@ -356,7 +356,7 @@
     "pgen": 0.05
   },
   "special_powerplant_cooled": {
-    "eff": -10
+    "eff": -0.1
   },
   "special_powerplant_toughened": {
     "integrity": 0.15
