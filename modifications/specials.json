@@ -3,6 +3,7 @@
         "id": 0,
         "edname": "special_auto_loader",
         "name": "Auto loader",
+        "description": "An experimental upgrade that automatically reloads the weapon, even when firing.",
         "uuid": "640d6dde-f497-42cd-8bc9-73ab3fa1b43a",
         "components": {
             "Mechanical Equipment": 4,
@@ -20,6 +21,7 @@
         "id": 2,
         "edname": "special_concordant_sequence",
         "name": "Concordant sequence",
+        "description": "A modification that causes weapon strikes to temporarily enhance the regeneration rate of a wingman's shield, at the cost of increased heat generation.",
         "uuid": "b556c19a-e756-45b1-846f-9ddc61af18a9",
         "components": {
             "Focus Crystals": 5,
@@ -31,6 +33,7 @@
         "id": 3,
         "edname": "special_corrosive_shell",
         "name": "Corrosive shell",
+        "description": "Experimental rounds that temporarily weaken hull hardness and increase all damage taken, at the cost of reduced ammo capacity.",
         "uuid": "a6faa870-ff89-4e48-b607-424e065cbd43",
         "components": {
             "Chemical Storage Units": 5,
@@ -42,6 +45,7 @@
         "id": 4,
         "edname": "special_blinding_shell",
         "name": "Dazzle shell",
+        "description": "Experimental shells that temporarily reduce a target's sensor acuity upon impact.",
         "uuid": "0a1e29ee-2fc7-4cbd-bbda-e8803c3e03ac",
         "components": {
             "Mechanical Scrap": 5,
@@ -53,6 +57,7 @@
         "id": 5,
         "edname": "special_dispersal_field",
         "name": "Dispersal field",
+        "description": "Experimental upgrade that causes successful strikes to temporarily confuse all gimbal and turret hardpoints on the target, at the cost of direct damage potential.",
         "uuid": "0e2dbd63-335d-4dca-8050-c7ca8ddc56b0",
         "components": {
             "Conductive Components": 5,
@@ -71,6 +76,7 @@
         "id": 7,
         "edname": "special_drag_munitions",
         "name": "Drag munitions",
+        "description": "Experimental munitions that disrupt engine exhaust flow on the target, temporarily preventing ENG power distribution from increasing thrust.",
         "uuid": "ca4cd540-660a-4fba-b38d-179f72125819",
         "components": {
             "Carbon": 5,
@@ -82,6 +88,7 @@
         "id": 8,
         "edname": "special_emissive_munitions",
         "name": "Emissive munitions",
+        "description": "Experimental upgrade that causes strikes to envelope the target in energetic particles, significantly amplifying its signature, at the cost of increasing heat generation for the attacker.",
         "uuid": "16c9ed0f-63c0-4ff2-b2e0-59bbb294632d",
         "components": {
             "Mechanical Equipment": 4,
@@ -94,12 +101,14 @@
         "id": 9,
         "edname": "special_feedback_cascade",
         "name": "Feedback cascade (Legacy)",
+        "description": "Rail slug energy charging mechanism, designed to interfere with shield cell operation. Strikes to a target deploying a shield cell will damage the shield cell bank and reduce shield restoration, at the cost of reduced damage from smaller rounds.",
         "uuid": "fe22ebee-802a-4905-b390-f59a65c1394c"
     },
     "special_force_shell": {
         "id": 10,
         "edname": "special_force_shell",
         "name": "Force shell",
+        "description": "A modification to allow firing of low explosive shells, designed to generate a propelling blast. Strikes to a target are capable of forcing ships off course, at the cost of shot accuracy.",
         "uuid": "62056851-d2f2-474d-ba77-66c030c900e9",
         "components": {
             "Mechanical Scrap": 5,
@@ -112,6 +121,7 @@
         "id": 33,
         "edname": "special_fsd_interrupt",
         "name": "FSD interrupt",
+        "description": "Experimental munitions that cause the frame shift drive on the impacted ship to reboot, at the cost of reduced damage.",
         "uuid": "c1400054-1c2b-487c-8854-7a22d96d4cd2",
         "components": {
             "Strange Wake Solutions": 3,
@@ -124,6 +134,7 @@
         "id": 11,
         "edname": "special_high_yield_shell",
         "name": "High yield shell",
+        "description": "Modified munitions that convert a portion of damage to explosive, capable of hitting multiple internal modules if the attack breaches the hull, at the cost of a reduced fire rate.",
         "uuid": "a950b42c-204f-4775-a0c5-21bfcec1fd14",
         "components": {
             "Mechanical Scrap": 5,
@@ -136,6 +147,7 @@
         "id": 12,
         "edname": "special_incendiary_rounds",
         "name": "Incendiary rounds",
+        "description": "Modified ammo system capable of delivering superheated rounds, increasing damage and converting a large portion to thermal.",
         "uuid": "3526773e-a814-4bec-afbf-30db79a3e239",
         "components": {
             "Heat Conduction Wiring": 5,
@@ -148,6 +160,7 @@
         "id": 32,
         "edname": "special_inertial_impact",
         "name": "Inertial impact",
+        "description": "Experimental upgrade that increases damage and converts half of it to kinetic, at the cost of introducing aiming jitter.",
         "uuid": "6eda22d3-8049-4bab-a125-762b12fa576a",
         "components": {
             "Flawed Focus Crystals": 5,
@@ -159,6 +172,7 @@
         "id": 13,
         "edname": "special_ion_disruptor",
         "name": "Ion disruptor",
+        "description": "Experimental munitions capable of disrupting a target's drives, causing them to reboot.",
         "uuid": "d84e40ca-afc1-4b01-9940-034152d288e7",
         "components": {
             "Chemical Distillery": 3,
@@ -171,6 +185,7 @@
         "id": 14,
         "edname": "special_mass_lock_munition",
         "name": "Mass lock munition",
+        "description": "Experimental warheads incorporating frame shift technology. Successful detonation significantly inhibits charging for supercruise.",
         "uuid": "9e8635af-4077-4d7a-98dd-5220c8722688",
         "components": {
             "High Density Composites": 3,
@@ -182,6 +197,7 @@
         "id": 15,
         "edname": "special_overload_munitions",
         "name": "Overload munitions",
+        "description": "Experimental munitions that convert a portion of explosive damage to thermal.",
         "uuid": "c157bbd1-a14d-4aa2-9081-94cbfbdee558",
         "components": {
             "Germanium": 3,
@@ -194,6 +210,7 @@
         "id": 16,
         "edname": "special_penetrator_payload",
         "name": "Penetrator payload",
+        "description": "Deep cut munitions are guaranteed to penetrate upon impact with hull and are capable of damaging multiple internal modules.",
         "uuid": "5d25c5bc-4b45-4119-bd87-71bfd0f85957",
         "components": {
             "Selenium": 3,
@@ -206,6 +223,7 @@
         "id": 17,
         "edname": "special_phasing_sequence",
         "name": "Phasing sequence",
+        "description": "Modulating burst fire system designed to defeat shielding. A small amount of damage is able to bleed through shields and attack the target's hull directly, at the cost of minor damage reduction.",
         "uuid": "47254ea9-c88f-43e0-9166-d1796649917b",
         "components": {
             "Configurable Components": 3,
@@ -218,12 +236,14 @@
         "id": 18,
         "edname": "special_plasma_slug",
         "name": "Plasma slug (Legacy)",
+        "description": "Experimental upgrade allowing plasma slug ammo to be generated directly from ship fuel, at the cost of reduced damage.",
         "uuid": "8794e18a-ecd5-4ebc-afd7-0b7d0d0cdd91"
     },
     "special_radiant_canister": {
         "id": 19,
         "edname": "special_radiant_canister",
         "name": "Radiant Canister",
+        "description": "Experimental munitions that apply significant heat to all targets caught in the blast radius. In addition, targets' sensors are temporarily disrupted, at the cost of ammo capacity.",
         "uuid": "51f84837-e9a5-432c-a125-d4322099266c",
         "components": {
             "Heat Dispersion Plate": 4,
@@ -235,6 +255,7 @@
         "id": 20,
         "edname": "special_regeneration_sequence",
         "name": "Regeneration sequence",
+        "description": "Friend or Foe Beam modulation upgrade. When the beam strikes a wingman's shields its energy is regulated, regenerating the shield instead of damaging it.",
         "uuid": "3bece1bb-7c31-4735-8c18-54dc4a0057bc",
         "components": {
             "Shielding Sensors": 4,
@@ -246,6 +267,7 @@
         "id": 21,
         "edname": "special_reverberating_cascade",
         "name": "Reverberating cascade",
+        "description": "Experimental munitions that overload shields on impact, directly damaging the shield generator.",
         "uuid": "c03e2f4f-9520-44bb-9a1f-7a917e8e3a48",
         "components": {
             "Configurable Components": 2,
@@ -258,6 +280,7 @@
         "id": 22,
         "edname": "special_scramble_spectrum",
         "name": "Scramble spectrum",
+        "description": "Experimental upgrade that allows hull strikes to potentially trigger random malfunctions on the target.",
         "uuid": "4f42cb92-4440-4295-ada9-fcca788a65b8",
         "components": {
             "Exceptional Scrambled Emission Data": 5,
@@ -269,6 +292,7 @@
         "id": 23,
         "edname": "special_screening_shell",
         "name": "Screening shell",
+        "description": "Modified firing and targeting mechanism, decreasing reload times and increasing effectiveness against munitions.",
         "uuid": "9cf533fc-ccb1-4c92-8b6b-dd700af2988a",
         "components": {
             "Niobium": 2,
@@ -281,6 +305,7 @@
         "id": 24,
         "edname": "special_shiftlock_canister",
         "name": "Shift-lock canister",
+        "description": "Experimental munitions that cause all frame shift drives caught in the blast radius to reboot, at the cost of reduced damage.",
         "uuid": "1f7b0deb-e023-43e5-96f6-ebf60d683e8b",
         "components": {
             "Tempered Alloys": 5,
@@ -292,6 +317,7 @@
         "id": 25,
         "edname": "special_smart_rounds",
         "name": "Smart rounds",
+        "description": "Friend or foe targeting upgrade that causes rounds to self-destruct before damaging ships that are not currently targeted.",
         "uuid": "2a3d8519-27af-44f2-a50b-33095964d1cc",
         "components": {
             "Mechanical Scrap": 5,
@@ -304,12 +330,14 @@
         "id": 26,
         "edname": "special_super_penetrator",
         "name": "Super penetrator (Legacy)",
+        "description": "Experimental munitions that are capable of penetrating and damaging all modules along its trajectory, at the cost of increased reload times.",
         "uuid": "2423e8f7-2384-4d32-8b9d-0e06a42a301d"
     },
     "special_lock_breaker": {
         "id": 27,
         "edname": "special_lock_breaker",
         "name": "Target lock breaker",
+        "description": "Experimental upgrade that breaks target lock on successful strikes.",
         "uuid": "4cf42ed8-574f-4bb8-a1f2-ee154475b463",
         "components": {
             "Selenium": 5,
@@ -321,6 +349,7 @@
         "id": 28,
         "edname": "special_thermal_cascade",
         "name": "Thermal cascade",
+        "description": "Experimental munitions that interact with shields upon detonation, generating significant heat on the target.",
         "uuid": "e5c8cab4-7a2f-450d-a937-2d0d8b9e3714",
         "components": {
             "Phosphorus": 5,
@@ -333,6 +362,7 @@
         "id": 29,
         "edname": "special_thermal_conduit",
         "name": "Thermal conduit",
+        "description": "Experimental upgrade that increases damage output based on heat level of the firing ship.",
         "uuid": "4e4e1f59-6762-47ff-b1fa-40ca43304698",
         "components": {
             "Heat Dispersion Plate": 5,
@@ -344,6 +374,7 @@
         "id": 30,
         "edname": "special_thermal_vent",
         "name": "Thermal vent",
+        "description": "Experimental upgrade that increases heat dissipation when successfully striking a target, at the cost of increased heat generation when missing.",
         "uuid": "70f11414-7904-405c-92db-806178ee9df4",
         "components": {
             "Flawed Focus Crystals": 5,
@@ -355,6 +386,7 @@
         "id": 31,
         "edname": "special_thermalshock",
         "name": "Thermal shock",
+        "description": "Articulated focus array designed to spread heat effectively. Strikes to shields and hull impart additional heat into the target.",
         "uuid": "fe8b4daa-e65d-464c-811d-400d3632a3d6",
         "components": {
             "Flawed Focus Crystals": 5,
@@ -365,6 +397,7 @@
     },
     "special_feedback_cascade_cooled": {
         "name": "Feedback Cascade",
+        "description": "Rail slug energy charging mechanism, designed to interfere with shield cell operation. Strikes to a target deploying a shield cell will damage the shield cell bank and reduce shield restoration, at the cost of reduced damage from smaller rounds.",
         "id": 100,
         "edname": "special_feedback_cascade_cooled",
         "uuid": "3c153755-3d2c-4832-bb73-d6b3d0e99a71",
@@ -375,6 +408,7 @@
     },
     "special_super_penetrator_cooled": {
         "name": "Super Penetrator",
+        "description": "Experimental munitions that are capable of penetrating and damaging all modules along its trajectory, at the cost of increased reload times.",
         "id": 101,
         "edname": "special_super_penetrator_cooled",
         "uuid": "4bb4ec50-40fb-473d-abaf-4fc386aa889c",
@@ -387,6 +421,7 @@
     },
     "special_plasma_slug_cooled": {
         "name": "Plasma Slug",
+        "description": "Experimental upgrade allowing plasma slug ammo to be generated directly from ship fuel, at the cost of reduced damage.",
         "id": 102,
         "edname": "special_plasma_slug_cooled",
         "uuid": "58a7b1b6-57b9-40f2-9a5a-712a5388a5eb",
@@ -399,6 +434,7 @@
     },
     "special_plasma_slug_pa": {
         "name": "Plasma Slug",
+        "description": "Experimental upgrade allowing plasma slug ammo to be generated directly from ship fuel, at the cost of reduced damage.",
         "id": 157,
         "edname": "special_plasma_slug_pa",
         "uuid": "58a7b1b6-57b9-40f2-9a5a-712a5388a5eb",
@@ -411,6 +447,7 @@
     },
     "special_penetrator_munitions": {
         "name": "Penetrator Munitions",
+        "description": "Experimental munitions capable of penetrating hull to damage internal modules.",
         "id": 103,
         "edname": "special_penetrator_munitions",
         "uuid": "35578402-1bc7-4d19-828b-af31ebd79866",
@@ -422,6 +459,7 @@
     },
     "special_deep_cut_payload": {
         "name": "Penetrator Payload",
+        "description": "Deep cut munitions are guaranteed to penetrate upon impact with hull and are capable of damaging multiple internal modules.",
         "id": 104,
         "edname": "special_deep_cut_payload",
         "uuid": "5d25c5bc-4b45-4119-bd87-71bfd0f85957",
@@ -434,6 +472,7 @@
     },
     "special_mass_lock": {
         "name": "Mass Lock Munition",
+        "description": "Experimental warheads incorporating frame shift technology. Successful detonation significantly inhibits charging for supercruise.",
         "id": 105,
         "edname": "special_mass_lock",
         "uuid": "9e8635af-4077-4d7a-98dd-5220c8722688",
@@ -445,6 +484,7 @@
     },
     "special_shield_regenerative": {
         "name": "Fast Charge",
+        "description": "High speed charging units increase shield regeneration rate when active and reforming, at the cost of slightly weaker resistance versus all forms of damage.",
         "id": 106,
         "edname": "special_shield_regenerative",
         "uuid": "42c5e92d-ccab-435a-b2c6-fd268d39d6f5",
@@ -456,6 +496,7 @@
     },
     "special_shield_resistive": {
         "name": "Multi-weave",
+        "description": "Reinforced shield weave structures increase resistance versus all types of damage, at the cost of increased power draw and SYS drain.",
         "id": 107,
         "edname": "special_shield_resistive",
         "uuid": "dd46c8be-730c-4671-87fe-f98b181b66cf",
@@ -467,6 +508,7 @@
     },
     "special_shield_health": {
         "name": "Hi-Cap",
+        "description": "Additional capacitors and projection nodes increase maximum shield strength, at the cost of increased power draw and SYS drain.",
         "id": 108,
         "edname": "special_shield_health",
         "uuid": "603c1ba6-45e6-4401-af56-639c3e7c9b79",
@@ -478,6 +520,7 @@
     },
     "special_shield_efficient": {
         "name": "Lo-draw",
+        "description": "Lightweight component swaps and smaller charging units reduce power draw and SYS drain, at the cost of overall shield effectiveness.",
         "id": 109,
         "edname": "special_shield_efficient",
         "uuid": "66a39288-59d7-4cfb-914d-354a200c0210",
@@ -489,6 +532,7 @@
     },
     "special_shield_thermic": {
         "name": "Thermo Block",
+        "description": "Improved feedback protection and reinforced projection nodes increase resistance to thermal damage, at the cost of overall shield strength.",
         "id": 110,
         "edname": "special_shield_thermic",
         "uuid": "c3340df8-c6da-49c9-b236-8f1cc4209088",
@@ -500,6 +544,7 @@
     },
     "special_shield_kinetic": {
         "name": "Force Block",
+        "description": "Enlarged projection nodes increase resistance to kinetic damage, at the cost of overall shield strength.",
         "id": 111,
         "edname": "special_shield_kinetic",
         "uuid": "cb95d9b4-a945-491d-95ad-e230c0454cd9",
@@ -511,6 +556,7 @@
     },
     "special_shield_toughened": {
         "name": "Double Braced",
+        "description": "Additional, hardened supports and bracing further improve module survivability.",
         "id": 112,
         "edname": "special_shield_toughened",
         "uuid": "32cb80c0-bb11-49ea-ae21-4c94eb5f9195",
@@ -522,6 +568,7 @@
     },
     "special_shield_lightweight": {
         "name": "Stripped Down",
+        "description": "Key components replaced with versions crafted from lightweight materials and all extraneous parts removed entirely to reduce mass.",
         "id": 113,
         "edname": "special_shield_lightweight",
         "uuid": "91ff72db-51cf-428d-80a8-be96d6418c4b",
@@ -533,6 +580,7 @@
     },
     "special_engine_cooled": {
         "name": "Thermal Spread",
+        "description": "Additional thermal conduits and radiator solutions integrated across the module help balance thermal load increase cooling potential at the cost of slight mass increase",
         "id": 114,
         "edname": "special_engine_cooled",
         "uuid": "42ff1374-3ecb-4872-abfa-b39b495fb203",
@@ -544,6 +592,7 @@
     },
     "special_engine_haulage": {
         "name": "Drive Distributors",
+        "description": "Enhanced fuel and thrust balancing across the drives to improve mass curve efficiency.",
         "id": 115,
         "edname": "special_engine_haulage",
         "uuid": "bd3c1991-370e-4b9d-b8cd-d5dec3260647",
@@ -555,6 +604,7 @@
     },
     "special_engine_overloaded": {
         "name": "Drag Drives",
+        "description": "Removal of safety protocols in controller software to increase drive thrust output at the cost of additional heat generation.",
         "id": 116,
         "edname": "special_engine_overloaded",
         "uuid": "68998b16-7b65-4f58-8bc0-6e0f2686c367",
@@ -566,6 +616,7 @@
     },
     "special_engine_toughened": {
         "name": "Double Braced",
+        "description": "Additional, hardened supports and bracing further improve module survivability.",
         "id": 117,
         "edname": "special_engine_toughened",
         "uuid": "41b04d96-0817-479b-92e5-2114de444170",
@@ -577,6 +628,7 @@
     },
     "special_engine_lightweight": {
         "name": "Stripped Down",
+        "description": "Key components replaced with versions crafted from lightweight materials and all extraneous parts removed entirely to reduce mass.",
         "id": 118,
         "edname": "special_engine_lightweight",
         "uuid": "dd77b197-412e-4ca1-88ed-0939c5c31a01",
@@ -588,6 +640,7 @@
     },
     "special_fsd_fuelcapacity": {
         "name": "Deep Charge",
+        "description": "Toughened FSD power conduits and a reinforced charging field increase the amount of fuel injected when charging, allowing larger jumps at the cost of increased power draw.",
         "id": 119,
         "edname": "special_fsd_fuelcapacity",
         "uuid": "56f1e58d-2044-4a31-8b54-ad0f99dfd64e",
@@ -599,6 +652,7 @@
     },
     "special_fsd_heavy": {
         "name": "Mass Manager",
+        "description": "Complex software upgrade and internal sensor suite able to optimise frame shift operation by analysing and accounting for ship loadout. Increases optimised mass at the cost of module health.",
         "id": 120,
         "edname": "special_fsd_heavy",
         "uuid": "4d7d30c3-970b-4c6e-a507-89ac7e6441bd",
@@ -610,6 +664,7 @@
     },
     "special_fsd_toughened": {
         "name": "Double Braced",
+        "description": "Additional, hardened supports and bracing further improve module survivability.",
         "id": 121,
         "edname": "special_fsd_toughened",
         "uuid": "14c7f016-5c32-4599-8a27-caa1733f92e3",
@@ -621,6 +676,7 @@
     },
     "special_fsd_lightweight": {
         "name": "Stripped Down",
+        "description": "Key components replaced with versions crafted from lightweight materials and all extraneous parts removed entirely to reduce mass.",
         "id": 122,
         "edname": "special_fsd_lightweight",
         "uuid": "6ab9d9d4-d488-4de8-9c1b-089a31f290a0",
@@ -632,6 +688,7 @@
     },
     "special_fsd_cooled": {
         "name": "Thermal Spread",
+        "description": "Additional thermal conduits and radiator solutions integrated across the module help balance thermal load increase cooling potential.",
         "id": 123,
         "edname": "special_fsd_cooled",
         "uuid": "60ab0728-c8cd-47c9-a357-8c8bfeeb7023",
@@ -644,6 +701,7 @@
     },
     "special_powerplant_highcharge": {
         "name": "Monstered",
+        "description": "Oversized, reinforced components increase power output at the cost of increased mass.",
         "id": 124,
         "edname": "special_powerplant_highcharge",
         "uuid": "12a57a09-0e05-41a9-9824-14a3618e7a0f",
@@ -655,6 +713,7 @@
     },
     "special_powerplant_cooled": {
         "name": "Thermal Spread",
+        "description": "Additional thermal conduits and radiator solutions integrated across the module help balance thermal load increase cooling potential.",
         "id": 125,
         "edname": "special_powerplant_cooled",
         "uuid": "6cda2960-a05b-4dd1-978c-202d746e47bc",
@@ -666,6 +725,7 @@
     },
     "special_powerplant_toughened": {
         "name": "Double Braced",
+        "description": "Additional, hardened supports and bracing further improve module survivability.",
         "id": 126,
         "edname": "special_powerplant_toughened",
         "uuid": "1fddaba5-bc0b-492c-9caa-4a72a149532b",
@@ -677,6 +737,7 @@
     },
     "special_powerplant_lightweight": {
         "name": "Stripped Down",
+        "description": "Key components replaced with versions crafted from lightweight materials and all extraneous parts removed entirely to reduce mass.",
         "id": 127,
         "edname": "special_powerplant_lightweight",
         "uuid": "11b258eb-36d1-4cbc-be04-7fc426ef3121",
@@ -688,6 +749,7 @@
     },
     "special_powerdistributor_capacity": {
         "name": "Cluster Capacitors",
+        "description": "Additional capacitor arrays allow the power distributor to store more energy at the cost of a slower charging rate.",
         "id": 128,
         "edname": "special_powerdistributor_capacity",
         "uuid": "c4231886-f988-4a31-a749-2a58550f9e44",
@@ -699,6 +761,7 @@
     },
     "special_powerdistributor_fast": {
         "name": "Super Conduits",
+        "description": "Advanced, oversized energy conduits increase the power distributor's charge rate at the cost of reduced maximum charge potential.",
         "id": 129,
         "edname": "special_powerdistributor_fast",
         "uuid": "b5bb35a1-e851-4d37-8f26-8fe828f84c95",
@@ -710,6 +773,7 @@
     },
     "special_powerdistributor_efficient": {
         "name": "Flow Control",
+        "description": "Advanced software and internal sensors regulate energy flow more efficiently, reducing module power draw.",
         "id": 130,
         "edname": "special_powerdistributor_efficient",
         "uuid": "c226afaf-ee7f-4809-a4e4-0797d4822a69",
@@ -721,6 +785,7 @@
     },
     "special_powerdistributor_toughened": {
         "name": "Double Braced",
+        "description": "Additional, hardened supports and bracing further improve module survivability.",
         "id": 131,
         "edname": "special_powerdistributor_toughened",
         "uuid": "14d36c9b-efd5-450b-8175-80287daecd78",
@@ -732,6 +797,7 @@
     },
     "special_powerdistributor_lightweight": {
         "name": "Stripped Down",
+        "description": "Key components replaced with versions crafted from lightweight materials and all extraneous parts removed entirely to reduce mass.",
         "id": 132,
         "edname": "special_powerdistributor_lightweight",
         "uuid": "ec53deaf-ece6-443f-9503-dd3dc5329e14",
@@ -743,6 +809,7 @@
     },
     "special_shieldcell_gradual": {
         "name": "Recycling Cell",
+        "description": "Uprated resonating coils maximise the amount of time the shield cell can remain active before depleting, at the cost of overall strength of the cell charge.",
         "id": 133,
         "edname": "special_shieldcell_gradual",
         "uuid": "c8aa2134-3153-47b8-a367-9c5dbb9c557d",
@@ -754,6 +821,7 @@
     },
     "special_shieldcell_oversized": {
         "name": "Boss Cells",
+        "description": "Oversized cells offer increased cell strength at cost of an increased spin up time.",
         "id": 134,
         "edname": "special_shieldcell_oversized",
         "uuid": "87ed0cec-9624-4ecb-8ffb-cc941464e8d2",
@@ -765,6 +833,7 @@
     },
     "special_shieldcell_efficient": {
         "name": "Flow Control",
+        "description": "Advanced software and internal sensors regulate energy flow more efficiently, reducing module power draw.",
         "id": 135,
         "edname": "special_shieldcell_efficient",
         "uuid": "1d2316b8-3ddb-4db4-b36f-2d3e0e8581b5",
@@ -776,6 +845,7 @@
     },
     "special_shieldcell_toughened": {
         "name": "Double Braced",
+        "description": "Additional, hardened supports and bracing further improve module survivability.",
         "id": 136,
         "edname": "special_shieldcell_toughened",
         "uuid": "beecd33b-b171-4a08-9d5a-459266bcb275",
@@ -787,6 +857,7 @@
     },
     "special_shieldcell_lightweight": {
         "name": "Stripped Down",
+        "description": "Key components replaced with versions crafted from lightweight materials and all extraneous parts removed entirely to reduce mass.",
         "id": 137,
         "edname": "special_shieldcell_lightweight",
         "uuid": "b92c2e2e-baa5-4ce9-bf60-05771d7dcbc1",
@@ -798,6 +869,7 @@
     },
     "special_weapon_damage": {
         "name": "Oversized",
+        "description": "Scaled up components and reinforced munitions housing allows the weapon to pack more of a punch, increasing damage at the cost of increased power draw.",
         "id": 138,
         "edname": "special_weapon_damage",
         "uuid": "ceb5c729-4565-4869-ade8-5ee897e8b410",
@@ -809,6 +881,7 @@
     },
     "special_weapon_rateoffire": {
         "name": "Multi-servos",
+        "description": "Additional servomechanisms and controller software allow the weapon to safely fire at an increased rate, at the cost of increased power draw.",
         "id": 139,
         "edname": "special_weapon_rateoffire",
         "uuid": "fd62292f-f5ed-4728-bc8a-3ae215ced386",
@@ -821,6 +894,7 @@
     },
     "special_weapon_efficient": {
         "name": "Flow Control",
+        "description": "Advanced software and internal sensors regulate energy flow more efficiently, reducing module power draw.",
         "id": 140,
         "edname": "special_weapon_efficient",
         "uuid": "441e1d85-5174-4172-85ea-caee8d3c632d",
@@ -832,6 +906,7 @@
     },
     "special_weapon_toughened": {
         "name": "Double Braced",
+        "description": "Additional, hardened supports and bracing further improve module survivability.",
         "id": 141,
         "edname": "special_weapon_toughened",
         "uuid": "32cb80c0-bb11-49ea-ae21-4c94eb5f9195",
@@ -843,6 +918,7 @@
     },
     "special_weapon_lightweight": {
         "name": "Stripped Down",
+        "description": "Key components replaced with versions crafted from lightweight materials and all extraneous parts removed entirely to reduce mass.",
         "id": 142,
         "edname": "special_weapon_lightweight",
         "uuid": "dfc22aad-48b8-4f8d-af16-ec3b978fc8b6",
@@ -854,6 +930,7 @@
     },
     "special_armour_thermic": {
         "name": "Reflective Plating",
+        "description": "Surface coating of advanced formulas designed to reflect and dissipate thermal energy, at the cost of structural integrity.",
         "id": 143,
         "edname": "special_armour_thermic",
         "uuid": "6c88aa33-01db-4eda-928e-6ca8b9b1bc3d",
@@ -865,6 +942,7 @@
     },
     "special_armour_kinetic": {
         "name": "Angled Plating",
+        "description": "Custom angling of plates at critical points along the ship's hull make projectile strikes more likely to glance, reducing the impact of kinetic damage at the cost of structural integrity.",
         "id": 144,
         "edname": "special_armour_kinetic",
         "uuid": "e8631809-2915-4373-905c-8dcf3bda6921",
@@ -876,6 +954,7 @@
     },
     "special_armour_explosive": {
         "name": "Layered Plating",
+        "description": "Layers of advanced inert lining material within the ship's plating absorb and redistribute the force from explosive attacks, reducing damage of this type at the cost of overall structural integrity.",
         "id": 145,
         "edname": "special_armour_explosive",
         "uuid": "cdd19fcc-74b4-463a-a8f1-2e9909da664f",
@@ -887,6 +966,7 @@
     },
     "special_armour_chunky": {
         "name": "Deep Plating",
+        "description": "Increased depth of plating increases the ship's overall structural integrity, at the cost of resistance against all types of damage.",
         "id": 146,
         "edname": "special_armour_chunky",
         "uuid": "b51706cc-d412-4559-8654-f812d2eb44b9",
@@ -898,6 +978,7 @@
     },
     "special_hullreinforcement_thermic": {
         "name": "Reflective Plating",
+        "description": "Surface coating of advanced formulas designed to reflect and dissipate thermal energy, at the cost of reducing structural integrity benefits.",
         "id": 147,
         "edname": "special_hullreinforcement_thermic",
         "uuid": "6c88aa33-01db-4eda-928e-6ca8b9b1bc3d",
@@ -909,6 +990,7 @@
     },
     "special_hullreinforcement_kinetic": {
         "name": "Angled Plating",
+        "description": "Custom angling of plates at critical points along the ship's hull make projectile strikes more likely to glance, reducing the impact of kinetic damage at the cost of reducing structural integrity benefits.",
         "id": 148,
         "edname": "special_hullreinforcement_kinetic",
         "uuid": "e8631809-2915-4373-905c-8dcf3bda6921",
@@ -921,6 +1003,7 @@
     },
     "special_hullreinforcement_explosive": {
         "name": "Layered Plating",
+        "description": "Layers of advanced inert lining material within the ship's plating absorb and redistribute the force from explosive attacks, reducing damage of this type at the cost of reducing structural integrity benefits.",
         "id": 149,
         "edname": "special_hullreinforcement_explosive",
         "uuid": "cdd19fcc-74b4-463a-a8f1-2e9909da664f",
@@ -932,6 +1015,7 @@
     },
     "special_hullreinforcement_chunky": {
         "name": "Deep Plating",
+        "description": "Increased depth of plating increases the ship's overall structural integrity, at the cost of resistance against all types of damage.",
         "id": 150,
         "edname": "special_hullreinforcement_chunky",
         "uuid": "b51706cc-d412-4559-8654-f812d2eb44b9",
@@ -943,6 +1027,7 @@
     },
     "special_shieldbooster_thermic": {
         "name": "Thermo Block",
+        "description": "Improved feedback protection and reinforced projection nodes increase resistance to thermal damage, at the cost of overall shield strength.",
         "id": 151,
         "edname": "special_shieldbooster_thermic",
         "uuid": "c3340df8-c6da-49c9-b236-8f1cc4209088",
@@ -954,6 +1039,7 @@
     },
     "special_shieldbooster_kinetic": {
         "name": "Force Block",
+        "description": "Enlarged projection nodes increase resistance to kinetic damage, at the cost of overall shield strength.",
         "id": 152,
         "edname": "special_shieldbooster_kinetic",
         "uuid": "cb95d9b4-a945-491d-95ad-e230c0454cd9",
@@ -965,6 +1051,7 @@
     },
     "special_shieldbooster_explosive": {
         "name": "Blast Block",
+        "description": "Advanced field resonation patterns increase resistance to explosive damage, at the cost of overall shield strength.",
         "id": 153,
         "edname": "special_shieldbooster_explosive",
         "uuid": "eb1c4a92-03ef-4263-8051-9ac91b2d43b2",
@@ -977,6 +1064,7 @@
     },
     "special_shieldbooster_efficient": {
         "name": "Flow Control",
+        "description": "Advanced software and internal sensors regulate energy flow more efficiently, reducing module power draw.",
         "id": 154,
         "edname": "special_shieldbooster_efficient",
         "uuid": "441e1d85-5174-4172-85ea-caee8d3c632d",
@@ -989,6 +1077,7 @@
     },
     "special_shieldbooster_toughened": {
         "name": "Double Braced",
+        "description": "Additional, hardened supports and bracing further improve module survivability.",
         "id": 155,
         "edname": "special_shieldbooster_toughened",
         "uuid": "32cb80c0-bb11-49ea-ae21-4c94eb5f9195",
@@ -1000,6 +1089,7 @@
     },
     "special_shieldbooster_chunky": {
         "name": "Super Capacitors",
+        "description": "Additional, advanced capacitors increases overall shield strength at the cost of damage resistance.",
         "id": 156,
         "edname": "special_shieldbooster_chunky",
         "uuid": "4197c308-a3df-442a-91c2-db856b4f57cf",
