@@ -76,6 +76,8 @@ module.exports = {
     pc: require('./internal/prospector_limpet_controllers').pc,
     pce: require('./internal/economy_passenger_cabin').pce,
     pci: require('./internal/business_passenger_cabin').pci,
+    pcemkii: require('./internal/economy_passenger_cabin_mkii').pcemkii,
+    pcimkii: require('./internal/business_passenger_cabin_mkii').pcimkii,
     pcm: require('./internal/first_passenger_cabin').pcm,
     pcq: require('./internal/luxury_passenger_cabin').pcq,
     rf: require('./internal/refinery').rf,

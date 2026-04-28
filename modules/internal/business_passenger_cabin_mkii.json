@@ -1,0 +1,64 @@
+{
+  "pcimkii": [
+    {
+      "class": 3,
+      "cost": 35607,
+      "edID": 128734692,
+      "grp": "pcimkii",
+      "id": "89",
+      "mass": 5,
+      "passengers": 4,
+      "ship": "lynx_highliner",
+      "rating": "C",
+      "symbol": "Int_MKII_PassengerCabin_Size3_Class2",
+      "ukName": "MKII BC Passenger Cabin",
+      "ukDiscript": "MKII Business Class Passenger Cabin.",
+      "restriction": "MkIIPassenger"
+    },
+    {
+      "class": 4,
+      "cost": 75818,
+      "edID": 128727923,
+      "grp": "pcimkii",
+      "id": "8A",
+      "mass": 10,
+      "passengers": 9,
+      "ship": "lynx_highliner",
+      "rating": "C",
+      "symbol": "Int_MKII_PassengerCabin_Size4_Class2",
+      "ukName": "MKII BC Passenger Cabin",
+      "ukDiscript": "MKII Business Class Passenger Cabin.",
+      "restriction": "MkIIPassenger"
+    },
+    {
+      "class": 5,
+      "cost": 123151,
+      "edID": 128734694,
+      "grp": "pcimkii",
+      "id": "8B",
+      "mass": 20,
+      "passengers": 15,
+      "ship": "lynx_highliner",
+      "rating": "C",
+      "symbol": "Int_MKII_PassengerCabin_Size5_Class2",
+      "ukName": "MKII BC Passenger Cabin",
+      "ukDiscript": "MKII Business Class Passenger Cabin.",
+      "restriction": "MkIIPassenger"
+    },
+    {
+      "class": 6,
+      "cost": 245643,
+      "edID": 128727927,
+      "grp": "pcimkii",
+      "id": "8C",
+      "mass": 40,
+      "passengers": 24,
+      "ship": "lynx_highliner",
+      "rating": "C",
+      "symbol": "Int_MKII_PassengerCabin_Size6_Class2",
+      "ukName": "MKII BC Passenger Cabin",
+      "ukDiscript": "MKII Business Class Passenger Cabin.",
+      "restriction": "MkIIPassenger"
+    }
+  ]
+}

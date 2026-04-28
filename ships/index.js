@@ -33,6 +33,7 @@ module.exports = {
   orca: require('./orca').orca,
   mamba: require('./mamba').mamba,
   mandalay: require('./mandalay').mandalay,
+  lynx_highliner: require('./lynx_highliner.json').lynx_highliner,
   panthermkii: require('./panther_clipper').panthermkii,
   python: require('./python').python,
   python_nx: require('./python_nx').python_nx,

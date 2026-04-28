@@ -1,0 +1,79 @@
+{
+  "pcemkii": [
+    {
+      "class": 2,
+      "cost": 5750,
+      "edID": 128734690,
+      "grp": "pcemkii",
+      "id": "7v",
+      "mass": 2.5,
+      "passengers": 3,
+      "ship": "lynx_highliner",
+      "rating": "D",
+      "symbol": "Int_MKII_PassengerCabin_Size2_Class1",
+      "ukName": "MKII EC Passenger Cabin",
+      "ukDiscript": "MKII Economy Class Passenger Cabin.",
+      "restriction": "MkIIPassenger"
+    },
+    {
+      "class": 3,
+      "cost": 11544,
+      "edID": 128734691,
+      "grp": "pcemkii",
+      "id": "7w",
+      "mass": 5,
+      "passengers": 6,
+      "ship": "lynx_highliner",
+      "rating": "D",
+      "symbol": "Int_MKII_PassengerCabin_Size3_Class1",
+      "ukName": "MKII EC Passenger Cabin",
+      "ukDiscript": "MKII Economy Class Passenger Cabin.",
+      "restriction": "MkIIPassenger"
+    },
+    {
+      "class": 4,
+      "cost": 25273,
+      "edID": 128727922,
+      "grp": "pcemkii",
+      "id": "7x",
+      "mass": 10,
+      "passengers": 12,
+      "ship": "lynx_highliner",
+      "rating": "D",
+      "symbol": "Int_MKII_PassengerCabin_Size4_Class1",
+      "ukName": "MKII EC Passenger Cabin",
+      "ukDiscript": "MKII Economy Class Passenger Cabin.",
+      "restriction": "MkIIPassenger"
+    },
+    {
+      "class": 5,
+      "cost": 46607,
+      "edID": 128734693,
+      "grp": "pcemkii",
+      "id": "7y",
+      "mass": 20,
+      "passengers": 24,
+      "ship": "lynx_highliner",
+      "rating": "D",
+      "symbol": "Int_MKII_PassengerCabin_Size5_Class1",
+      "ukName": "MKII EC Passenger Cabin",
+      "ukDiscript": "MKII Economy Class Passenger Cabin.",
+      "restriction": "MkIIPassenger"
+    },
+    {
+      "class": 6,
+      "cost": 123152,
+      "edID": 128727926,
+      "grp": "pcemkii",
+      "id": "7z",
+      "mass": 40,
+      "passengers": 48,
+      "ship": "lynx_highliner",
+      "rating": "D",
+      "symbol": "Int_MKII_PassengerCabin_Size6_Class1",
+      "ukName": "MKII EC Passenger Cabin",
+      "ukDiscript": "MKII Economy Class Passenger Cabin.",
+      "restriction": "MkIIPassenger"
+    }
+  ]
+}
