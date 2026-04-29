@@ -1,6 +1,6 @@
 {
   "lynx_highliner": {
-    "edID": 128049351,
+    "edID": 129041442,
     "properties": {
       "name": "Lynx Highliner",
       "manufacturer": "Zorgon Peterson",
@@ -16,7 +16,7 @@
       "hardness": 55,
       "hullMass": 250,
       "heatCapacity": 224,
-      "masslock": 18,
+      "masslock": 16,
       "pipSpeed": 0.038461538461538,
       "pitch": 26.78,
       "roll": 61.80,
@@ -28,7 +28,7 @@
     "bulkheads": [
       {
         "id": "7Z",
-        "edID": 128049352,
+        "edID": 129041444,
         "grp": "bh",
         "cost": 0,
         "mass": 0,
@@ -41,7 +41,7 @@
       },
       {
         "id": "7g",
-        "edID": 128049353,
+        "edID": 129041445,
         "grp": "bh",
         "cost": 27715787,
         "mass": 26,
@@ -54,7 +54,7 @@
       },
       {
         "id": "7m",
-        "edID": 128049354,
+        "edID": 129041446,
         "grp": "bh",
         "cost": 62360521,
         "mass": 53,
@@ -67,7 +67,7 @@
       },
       {
         "id": "7p",
-        "edID": 128049355,
+        "edID": 129041447,
         "grp": "bh",
         "cost": 147378698,
         "mass": 53,
@@ -80,7 +80,7 @@
       },
       {
         "id": "7u",
-        "edID": 128049356,
+        "edID": 129041448,
         "grp": "bh",
         "cost": 163315274,
         "mass": 53,
