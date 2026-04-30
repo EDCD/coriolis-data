@@ -9,7 +9,7 @@
       "speed": 286,
       "boost": 351,
       "minthrust": 84.615,
-      "boostEnergy": 19,
+      "boostEnergy": 8,
       "boostInt": 5,
       "baseShieldStrength": 196,
       "baseArmour": 350,
@@ -22,7 +22,7 @@
       "roll": 61.80,
       "yaw": 19.57,
       "crew": 2,
-      "reserveFuelCapacity": 0.67
+      "reserveFuelCapacity": 0.75
     },
     "retailCost": 69289468,
     "bulkheads": [
