@@ -1046,7 +1046,7 @@
     {
       "class": 5,
       "boot": 2,
-      "fuelmul": 0.012,
+      "fuelmul": 0.013,
       "fuelpower": 2.45,
       "grp": "fsd",
       "id": "5R",

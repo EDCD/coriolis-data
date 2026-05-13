@@ -1,0 +1,68 @@
+# ---------------------------------------------------------------------------
+# Alpha Merge
+#
+# Triggered when a PR targeting 'alpha' is closed.
+# If the PR was merged (not just closed), creates a pipeline state tag
+# so that the manual promote workflows know a new alpha merge is ready.
+#
+# Using pull_request/closed instead of push because it gives us direct
+# access to the source (head) branch name via the event payload.
+# ---------------------------------------------------------------------------
+name: "Alpha: Mark Ready"
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - alpha
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  mark-alpha-ready:
+    # Only run if the PR was actually merged, not just closed
+    if: github.event.pull_request.merged == true
+    runs-on: [self-hosted, Linux, X64, aws, brapps, web]
+    steps:
+      - name: Checkout alpha
+        uses: actions/checkout@v6
+        with:
+          ref: alpha
+          fetch-depth: 1
+          token: ${{ secrets.DEPLOY_TOKEN }}
+
+      - name: Detect feature branch
+        id: find
+        shell: bash
+        run: |
+          FEATURE="${{ github.event.pull_request.head.ref }}"
+          echo "PR head branch: $FEATURE"
+
+          # Skip known non-feature branches
+          if [ "$FEATURE" == "beta" ] || [ "$FEATURE" == "live" ] || [ "$FEATURE" == "develop" ] || [ "$FEATURE" == "alpha" ]; then
+            echo "::warning::Merged branch '$FEATURE' is not a feature branch. Setting to unknown."
+            FEATURE="unknown"
+          fi
+
+          echo "branch=$FEATURE" >> "$GITHUB_OUTPUT"
+          echo "::notice::Detected feature branch: $FEATURE"
+
+      - name: Tag pipeline state
+        shell: bash
+        env:
+          FEATURE_BRANCH: ${{ steps.find.outputs.branch }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Remove stale pipeline tags
+          git push origin --delete refs/tags/pipeline/alpha-ready 2>/dev/null || true
+          git push origin --delete refs/tags/pipeline/beta-ready 2>/dev/null || true
+
+          # Create new tag with feature branch info
+          git tag -a pipeline/alpha-ready -m "feature-branch: ${FEATURE_BRANCH}" -f
+          git push origin pipeline/alpha-ready --force
+
+          echo "::notice::Alpha merge tagged. Feature branch: ${FEATURE_BRANCH}. Ready for 'Promote to Beta'."

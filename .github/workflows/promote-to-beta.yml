@@ -1,0 +1,94 @@
+# ---------------------------------------------------------------------------
+# Promote to Beta
+#
+# Manually triggered after a PR has been merged into alpha.
+# - Verifies pipeline/alpha-ready tag exists
+# - Merges alpha → beta
+# - Updates pipeline state tags
+# ---------------------------------------------------------------------------
+name: "Beta: Promote from Alpha"
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  # ------------------------------------------------------------------ #
+  # Gate: verify alpha has been merged                                 #
+  # ------------------------------------------------------------------ #
+  check-pipeline-state:
+    runs-on: [self-hosted, Linux, X64, aws, brapps, web]
+    outputs:
+      feature_branch: ${{ steps.check.outputs.feature_branch }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: Verify alpha-ready tag exists
+        id: check
+        shell: bash
+        run: |
+          if ! git rev-parse pipeline/alpha-ready >/dev/null 2>&1; then
+            echo "::error::No alpha merge found. Merge a PR into alpha first."
+            exit 1
+          fi
+
+          FEATURE=$(git tag -l --format='%(contents:subject)' pipeline/alpha-ready | grep -oP 'feature-branch: \K.*' || echo "unknown")
+          echo "feature_branch=$FEATURE" >> "$GITHUB_OUTPUT"
+          echo "::notice::Alpha merge found. Feature branch: $FEATURE. Proceeding with promotion to beta."
+
+  # ------------------------------------------------------------------ #
+  # Merge alpha → beta                                                 #
+  # ------------------------------------------------------------------ #
+  merge-alpha-to-beta:
+    runs-on: [self-hosted, Linux, X64, aws, brapps, web]
+    needs: check-pipeline-state
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.DEPLOY_TOKEN }}
+
+      - name: Update beta to match alpha
+        shell: bash
+        run: |
+          git fetch origin alpha beta
+          echo "Alpha is at: $(git rev-parse origin/alpha)"
+          echo "Beta is at:  $(git rev-parse origin/beta)"
+          git push origin origin/alpha:refs/heads/beta --force
+          echo "Beta now matches alpha."
+
+  # ------------------------------------------------------------------ #
+  # Update pipeline state                                              #
+  # ------------------------------------------------------------------ #
+  mark-beta-ready:
+    runs-on: [self-hosted, Linux, X64, aws, brapps, web]
+    needs: [merge-alpha-to-beta, check-pipeline-state]
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+        with:
+          ref: beta
+          fetch-depth: 1
+          fetch-tags: true
+          token: ${{ secrets.DEPLOY_TOKEN }}
+
+      - name: Update pipeline tags
+        shell: bash
+        env:
+          FEATURE_BRANCH: ${{ needs.check-pipeline-state.outputs.feature_branch }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git push origin --delete refs/tags/pipeline/alpha-ready 2>/dev/null || true
+          git tag -a pipeline/beta-ready -m "feature-branch: ${FEATURE_BRANCH}" -f
+          git push origin pipeline/beta-ready --force
+
+          echo "::notice::Beta promoted. Feature branch: ${FEATURE_BRANCH}. Ready for 'Promote to Live'."
