@@ -1,3 +1,17 @@
+#4.1.8
+  * Add hullboost to HRPs so ship HP is reported correct when Lightweight is applied
+#4.1.7
+  * Fixing Mining Volley Repeater Stats
+#4.1.6
+  * Fix MkII Hangar Id's
+#4.1.5
+  * More operations weapons and blueprints
+#4.1.4
+  * Fixed GradeChangeable setting on phasing MC's
+#4.1.3
+  * Fixed multipliers on increased cap cargo rack blueprint to be more precise
+#4.1.2
+  * Fixed MLF for several ships
 #4.0.5
   * Fixed fuelmul for the v1 SCO drive
 

@@ -24,7 +24,7 @@ jobs:
   mark-alpha-ready:
     # Only run if the PR was actually merged, not just closed
     if: github.event.pull_request.merged == true
-    runs-on: [self-hosted, Linux, X64, aws, brapps, web]
+    runs-on: [self-hosted, fleetdom, OnPrem, Linux, X64, goxhillit]
     steps:
       - name: Checkout alpha
         uses: actions/checkout@v6

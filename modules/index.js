@@ -62,6 +62,7 @@ module.exports = {
     dc: require('./internal/docking_computer').dc,
     dtl: require('./internal/decontamination_limpet_controller.json').dtl,
     fh: require('./internal/fighter_hangar').fh,
+    fhmkii: require('./internal/fighter_hangar_mkii').fhmkii,
     fi: require('./internal/frame_shift_drive_interdictor').fi,
     fs: require('./internal/fuel_scoop').fs,
     ft: require('./internal/internal_fuel_tank').ft,

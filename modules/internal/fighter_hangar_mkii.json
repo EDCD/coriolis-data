@@ -1,0 +1,52 @@
+{
+  "fhmkii": [
+    {
+      "bays": 1,
+      "class": 5,
+      "cost": 794388,
+      "fightercost": 1030,
+      "grp": "fhmkii",
+      "id": "fj",
+      "integrity": 60,
+      "mass": 10,
+      "power": 0.25,
+      "rating": "D",
+      "rebuildsperbay": 6,
+      "symbol": "Int_FighterBayMk2_Size5_Class1",
+      "ukName": "Mk II Vessel Hangar",
+      "ukDiscript": "Mk II internal bay designed to house ship-launched vehicles."
+    },
+    {
+      "bays": 2,
+      "class": 6,
+      "cost": 2579890,
+      "fightercost": 1030,
+      "grp": "fhmkii",
+      "id": "fk",
+      "integrity": 80,
+      "mass": 20,
+      "power": 0.35,
+      "rating": "D",
+      "rebuildsperbay": 8,
+      "symbol": "Int_FighterBayMk2_Size6_Class1",
+      "ukName": "Mk II Vessel Hangar",
+      "ukDiscript": "Mk II internal bay designed to house ship-launched vehicles."
+    },
+    {
+      "bays": 2,
+      "class": 7,
+      "cost": 3269089,
+      "fightercost": 1030,
+      "grp": "fhmkii",
+      "id": "fl",
+      "integrity": 120,
+      "mass": 30,
+      "power": 0.35,
+      "rating": "D",
+      "rebuildsperbay": 15,
+      "symbol": "Int_FighterBayMk2_Size7_Class1",
+      "ukName": "Mk II Vessel Hangar",
+      "ukDiscript": "Mk II internal bay designed to house ship-launched vehicles. Vessel Hangar variant that can reproduce 30 vessels, a significantly larger number than other models."
+    }
+  ]
+}

@@ -37,6 +37,30 @@
       "symbol": "Int_DetailedSurfaceScanner_Tiny",
       "ukName": "Detailed Surface Scanner V1",
       "ukDiscript": "Advanced stellar body scanner used during exploration."
+    },
+    {
+      "class": 1,
+      "cost": 0,
+      "grp": "ss",
+      "id": "zS",
+      "mass": 0,
+      "mercModule": true,
+      "mercCoin": 350,
+      "name": "Long Range DSS",
+      "power": 0,
+      "proberadius": 0.2,
+      "rating": "I",
+      "preEngineered": {
+        "reengineerable": false,
+        "gradeChangeable": true,
+        "blueprints": ["Sensor_LongRangeDSS"],
+        "grade": 1,
+        "canApplyExperimental": false,
+        "experimentalEffects": [],
+        "description": "Pre-engineered Long Range Detailed Surface Scanner. Increased probe radius at the cost of increased mass and power draw.",
+        "availability": "MercCoin"
+      },
+      "symbol": "Int_DetailedSurfaceScanner_Tiny"
     }
   ]
 }

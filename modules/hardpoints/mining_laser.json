@@ -167,6 +167,43 @@
         "description": "This module has been pre-engineered with Grade 5 Long Range modifications and Incendiary Rounds Experimental."
       },
       "symbol": "Hpt_MiningLaser_Fixed_Small"
+    },
+    {
+      "breachdmg": 0.3,
+      "breachmax": 0.2,
+      "breachmin": 0.1,
+      "class": 1,
+      "cost": 0,
+      "damage": 1.9,
+      "damagedist": {
+        "T": 1
+      },
+      "distdraw": 1.42,
+      "falloff": 210,
+      "grp": "ml",
+      "id": "zC",
+      "integrity": 35,
+      "mass": 2,
+      "mercModule": true,
+      "mercCoin": 450,
+      "mount": "F",
+      "preEngineered": {
+        "reengineerable": false,
+        "gradeChangeable": true,
+        "blueprints": ["Weapon_LongRangeMiningLaser"],
+        "grade": 1,
+        "canApplyExperimental": false,
+        "experimentalEffects": ["special_incendiary_rounds"],
+        "description": "Pre-engineered Long Range Mining Laser with Incendiary Rounds effect. Improved power draw, distributor draw and range at the cost of reduced integrity and damage falloff.",
+        "availability": "MercCoin"
+      },
+      "name": "Long Range",
+      "piercing": 18,
+      "power": 0.47,
+      "range": 700,
+      "rating": "D",
+      "thermload": 5.5,
+      "symbol": "Hpt_MiningLaser_Fixed_Small"
     }
   ]
 }

@@ -772,7 +772,7 @@
       "grp": "fsd",
       "id": "FC",
       "name": "Frame Shift Drive (SCO)",
-      "integrity": 2700,
+      "integrity": 150,
       "mass": 32,
       "maxfuel": 12.8,
       "optmass": 2700,

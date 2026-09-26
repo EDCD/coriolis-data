@@ -9825,8 +9825,8 @@
         },
         "features": {
           "cargo": [
-            0.344,
-            0.344
+            0.34375,
+            0.34375
           ]
         },
         "uuid": "53ab027e-1c5f-404b-82e3-0bc4c55c71af"
@@ -9837,5 +9837,1750 @@
       "Expanded Capacity Cargo Rack"
     ],
     "name": "Expanded Capacity"
+  },
+  "Weapon_PlasmaConversion": {
+    "fdname": "Weapon_PlasmaConversion",
+    "grades": {
+      "1": {
+        "components": {
+          "Phosphorus": 1,
+          "Heat Conduction Wiring": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "power": [
+            0.05,
+            0.05
+          ],
+          "damage": [
+            -0.03,
+            -0.03
+          ],
+          "damagedist": {
+            "T": 0.961,
+            "A": 0.039
+          }
+        },
+        "uuid": "a1b2c3d4-0001-4000-8000-000000000001"
+      },
+      "2": {
+        "components": {
+          "Arsenic": 1,
+          "Heat Conduction Wiring": 1,
+          "Heat Dispersion Plate": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "power": [
+            0.1,
+            0.1
+          ],
+          "damage": [
+            -0.05,
+            -0.05
+          ],
+          "damagedist": {
+            "T": 0.934,
+            "A": 0.066
+          }
+        },
+        "uuid": "a1b2c3d4-0002-4000-8000-000000000002"
+      },
+      "3": {
+        "components": {
+          "Arsenic": 1,
+          "Heat Dispersion Plate": 1,
+          "Phase Alloys": 1,
+          "Merc Coin": 20
+        },
+        "features": {
+          "power": [
+            0.2,
+            0.2
+          ],
+          "damage": [
+            -0.07,
+            -0.07
+          ],
+          "damagedist": {
+            "T": 0.906,
+            "A": 0.094
+          }
+        },
+        "uuid": "a1b2c3d4-0003-4000-8000-000000000003"
+      },
+      "4": {
+        "components": {
+          "Heat Dispersion Plate": 1,
+          "Phase Alloys": 1,
+          "Refined Focus Crystals": 1,
+          "Configurable Components": 1,
+          "Merc Coin": 25
+        },
+        "features": {
+          "power": [
+            0.3,
+            0.3
+          ],
+          "damage": [
+            -0.09,
+            -0.09
+          ],
+          "damagedist": {
+            "T": 0.876,
+            "A": 0.124
+          }
+        },
+        "uuid": "a1b2c3d4-0004-4000-8000-000000000004"
+      },
+      "5": {
+        "components": {
+          "Technetium": 1,
+          "Thermic Alloys": 1,
+          "Military Supercapacitors": 1,
+          "Modified Embedded Firmware": 1,
+          "Merc Coin": 30
+        },
+        "features": {
+          "power": [
+            0.4,
+            0.4
+          ],
+          "damage": [
+            -0.11,
+            -0.11
+          ],
+          "damagedist": {
+            "T": 0.845,
+            "A": 0.155
+          }
+        },
+        "uuid": "a1b2c3d4-0005-4000-8000-000000000005"
+      }
+    },
+    "id": 107,
+    "modulename": [
+      "Weapon"
+    ],
+    "name": "Plasma Conversion"
+  },
+  "FuelScoop_ScoopRateEnhanced": {
+    "fdname": "FuelScoop_ScoopRateEnhanced",
+    "grades": {
+      "1": {
+        "components": {
+          "Phosphorus": 1,
+          "Grid Resistors": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "rate": [
+            0,
+            0.1
+          ],
+          "power": [
+            0.03,
+            0.03
+          ]
+        },
+        "uuid": "b2c3d4e5-0001-4000-8000-000000000001"
+      },
+      "2": {
+        "components": {
+          "Chromium": 1,
+          "Grid Resistors": 1,
+          "Chemical Processors": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "rate": [
+            0.1,
+            0.2
+          ],
+          "power": [
+            0.06,
+            0.06
+          ]
+        },
+        "uuid": "b2c3d4e5-0002-4000-8000-000000000002"
+      },
+      "3": {
+        "components": {
+          "Chromium": 1,
+          "Chemical Processors": 1,
+          "Conductive Ceramics": 1,
+          "Merc Coin": 20
+        },
+        "features": {
+          "rate": [
+            0.2,
+            0.3
+          ],
+          "power": [
+            0.09,
+            0.09
+          ]
+        },
+        "uuid": "b2c3d4e5-0003-4000-8000-000000000003"
+      },
+      "4": {
+        "components": {
+          "Chemical Processors": 2,
+          "Chemical Distillery": 1,
+          "Proto Light Alloys": 1,
+          "Merc Coin": 25
+        },
+        "features": {
+          "rate": [
+            0.3,
+            0.4
+          ],
+          "power": [
+            0.12,
+            0.12
+          ]
+        },
+        "uuid": "b2c3d4e5-0004-4000-8000-000000000004"
+      },
+      "5": {
+        "components": {
+          "Tellurium": 1,
+          "Chemical Manipulators": 1,
+          "Proto Heat Radiators": 1,
+          "Proto Radiolic Alloys": 1,
+          "Merc Coin": 30
+        },
+        "features": {
+          "rate": [
+            0.4,
+            0.5
+          ],
+          "power": [
+            0.15,
+            0.15
+          ]
+        },
+        "uuid": "b2c3d4e5-0005-4000-8000-000000000005"
+      }
+    },
+    "id": 108,
+    "modulename": [
+      "Fuel scoop"
+    ],
+    "name": "Scoop Rate Enhanced"
+  },
+  "Weapon_EnduringFeedback": {
+    "fdname": "Weapon_EnduringFeedback",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "mass": [0.225, 0.225],
+          "power": [0.087, 0.087],
+          "damage": [0.174, 0.174],
+          "thermload": [-0.04, -0.04],
+          "range": [0.1, 0.1],
+          "rof": [0.042, 0.042],
+          "ammo": [0.1, 0.1],
+          "falloff": [0.32, 0.32]
+        },
+        "uuid": "merc-0001-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Sulphur": 1,
+          "Modified Consumer Firmware": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "mass": [0.30, 0.30],
+          "power": [0.117, 0.117],
+          "damage": [-0.104, -0.104],
+          "thermload": [-0.133, -0.133],
+          "range": [0.333, 0.333],
+          "rof": [0.154, 0.154],
+          "ammo": [0.325, 0.325],
+          "falloff": [3.0, 3.0],
+          "reload": [0.083, 0.083]
+        },
+        "uuid": "merc-0001-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Sulphur": 1,
+          "Modified Consumer Firmware": 1,
+          "Niobium": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "mass": [0.45, 0.45],
+          "power": [0.175, 0.175],
+          "damage": [-0.154, -0.154],
+          "thermload": [-0.20, -0.20],
+          "range": [0.50, 0.50],
+          "rof": [0.25, 0.25],
+          "ammo": [0.50, 0.50],
+          "falloff": [3.50, 3.50],
+          "reload": [0.125, 0.125]
+        },
+        "uuid": "merc-0001-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Modified Consumer Firmware": 1,
+          "Niobium": 1,
+          "Conductive Polymers": 1,
+          "Tin": 1,
+          "Merc Coin": 25
+        },
+        "features": {
+          "mass": [0.677, 0.677],
+          "power": [0.263, 0.263],
+          "damage": [-0.337, -0.337],
+          "thermload": [-0.301, -0.301],
+          "range": [0.752, 0.752],
+          "rof": [0.43, 0.43],
+          "ammo": [0.75, 0.75],
+          "falloff": [4.256, 4.256],
+          "reload": [0.188, 0.188]
+        },
+        "uuid": "merc-0001-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Mechanical Components": 1,
+          "Thermic Alloys": 1,
+          "Military Supercapacitors": 1,
+          "Biotech Conductors": 1,
+          "Merc Coin": 50
+        },
+        "features": {
+          "mass": [0.90, 0.90],
+          "power": [0.35, 0.35],
+          "damage": [-0.296, -0.296],
+          "thermload": [-0.40, -0.40],
+          "range": [1.0, 1.0],
+          "rof": [0.667, 0.667],
+          "ammo": [1.0, 1.0],
+          "falloff": [5.0, 5.0],
+          "reload": [0.25, 0.25]
+        },
+        "uuid": "merc-0001-0005-0001-000000000001"
+      }
+    },
+    "id": 109,
+    "modulename": ["Rail Gun"],
+    "name": "Enduring Feedback"
+  },
+  "Weapon_FarReaching": {
+    "fdname": "Weapon_FarReaching",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "power": [-0.125, -0.125],
+          "distdraw": [-0.125, -0.125],
+          "thermload": [-0.05, -0.05],
+          "range": [0.4, 0.4],
+          "shotspeed": [0.4, 0.4],
+          "falloff": [-0.58, -0.58]
+        },
+        "uuid": "merc-0002-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Sulphur": 1,
+          "Heat Dispersion Plate": 1,
+          "Modified Consumer Firmware": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "integrity": [-0.167, -0.167],
+          "power": [-0.167, -0.167],
+          "distdraw": [-0.167, -0.167],
+          "thermload": [-0.167, -0.167],
+          "range": [1.333, 1.333],
+          "shotspeed": [1.333, 1.333],
+          "falloff": [1.333, 1.333]
+        },
+        "uuid": "merc-0002-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Chromium": 1,
+          "Modified Consumer Firmware": 1,
+          "Heat Exchangers": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "integrity": [-0.25, -0.25],
+          "power": [-0.25, -0.25],
+          "distdraw": [-0.25, -0.25],
+          "thermload": [-0.25, -0.25],
+          "range": [2.0, 2.0],
+          "shotspeed": [2.0, 2.0],
+          "falloff": [2.0, 2.0]
+        },
+        "uuid": "merc-0002-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Modified Consumer Firmware": 1,
+          "Conductive Polymers": 1,
+          "Selenium": 1,
+          "Heat Vanes": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "integrity": [-0.376, -0.376],
+          "power": [-0.376, -0.376],
+          "distdraw": [-0.376, -0.376],
+          "thermload": [-0.376, -0.376],
+          "range": [3.0, 3.0],
+          "shotspeed": [3.0, 3.0],
+          "falloff": [3.0, 3.0]
+        },
+        "uuid": "merc-0002-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Cracked Industrial Firmware": 1,
+          "Thermic Alloys": 1,
+          "Biotech Conductors": 1,
+          "Proto Heat Radiators": 1,
+          "Merc Coin": 20
+        },
+        "features": {
+          "integrity": [-0.50, -0.50],
+          "power": [-0.50, -0.50],
+          "distdraw": [-0.50, -0.50],
+          "thermload": [-0.50, -0.50],
+          "range": [4.0, 4.0],
+          "shotspeed": [4.0, 4.0],
+          "falloff": [4.0, 4.0]
+        },
+        "uuid": "merc-0002-0005-0001-000000000001"
+      }
+    },
+    "id": 110,
+    "modulename": ["Abrasion Blaster"],
+    "name": "Far-Reaching"
+  },
+  "Weapon_LongRangeMiningLaser": {
+    "fdname": "Weapon_LongRangeMiningLaser",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "integrity": [-0.125, -0.125],
+          "power": [-0.05, -0.05],
+          "damage": [-0.05, -0.05],
+          "distdraw": [-0.05, -0.05],
+          "thermload": [-0.083, -0.083],
+          "range": [0.4, 0.4],
+          "falloff": [-0.3, -0.3]
+        },
+        "uuid": "merc-0003-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Sulphur": 1,
+          "Heat Dispersion Plate": 1,
+          "Modified Consumer Firmware": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "integrity": [-0.017, -0.017],
+          "power": [-0.017, -0.017],
+          "damage": [-0.05, -0.05],
+          "distdraw": [-0.017, -0.017],
+          "thermload": [1.17, 1.17],
+          "range": [1.333, 1.333],
+          "falloff": [2.889, 2.889]
+        },
+        "uuid": "merc-0003-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Chromium": 1,
+          "Modified Consumer Firmware": 1,
+          "Heat Exchangers": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "integrity": [-0.25, -0.25],
+          "power": [-0.25, -0.25],
+          "damage": [-0.05, -0.05],
+          "distdraw": [-0.25, -0.25],
+          "thermload": [0.755, 0.755],
+          "range": [2.0, 2.0],
+          "falloff": [4.0, 4.0]
+        },
+        "uuid": "merc-0003-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Modified Consumer Firmware": 1,
+          "Conductive Polymers": 1,
+          "Selenium": 1,
+          "Heat Vanes": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "integrity": [-0.376, -0.376],
+          "power": [-0.376, -0.376],
+          "damage": [-0.05, -0.05],
+          "distdraw": [-0.376, -0.376],
+          "thermload": [0.128, 0.128],
+          "range": [3.0, 3.0],
+          "falloff": [5.679, 5.679]
+        },
+        "uuid": "merc-0003-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Cracked Industrial Firmware": 1,
+          "Thermic Alloys": 1,
+          "Biotech Conductors": 1,
+          "Proto Heat Radiators": 1,
+          "Merc Coin": 25
+        },
+        "features": {
+          "integrity": [-0.50, -0.50],
+          "power": [-0.50, -0.50],
+          "damage": [-0.05, -0.05],
+          "distdraw": [-0.50, -0.50],
+          "thermload": [-0.49, -0.49],
+          "range": [4.0, 4.0],
+          "falloff": [7.333, 7.333]
+        },
+        "uuid": "merc-0003-0005-0001-000000000001"
+      }
+    },
+    "id": 111,
+    "modulename": ["Mining Laser"],
+    "name": "Long Range Mining Laser"
+  },
+  "Weapon_DoubleScreaming": {
+    "fdname": "Weapon_DoubleScreaming",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "mass": [0.15, 0.15],
+          "power": [0.05, 0.05],
+          "range": [-0.025, -0.025],
+          "clip": [0.333, 0.333],
+          "ammo": [0.067, 0.067],
+          "reload": [0, 0]
+        },
+        "uuid": "merc-0004-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Carbon": 1,
+          "Mechanical Scrap": 1,
+          "Mechanical Equipment": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "mass": [0.20, 0.20],
+          "power": [0.067, 0.067],
+          "range": [-0.025, -0.025],
+          "rof": [0.024, 0.024],
+          "burst": [3, 3],
+          "clip": [0.333, 0.333],
+          "ammo": [0.222, 0.222],
+          "reload": [-0.5, -0.5]
+        },
+        "uuid": "merc-0004-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Carbon": 1,
+          "Mechanical Equipment": 1,
+          "Tin": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "mass": [0.30, 0.30],
+          "power": [0.10, 0.10],
+          "range": [-0.033, -0.033],
+          "rof": [0.235, 0.235],
+          "burst": [3, 3],
+          "clip": [0.333, 0.333],
+          "ammo": [0.339, 0.339],
+          "reload": [-0.5, -0.5]
+        },
+        "uuid": "merc-0004-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Vanadium": 1,
+          "Cracked Industrial Firmware": 1,
+          "Mechanical Components": 1,
+          "Security Firmware Patch": 1,
+          "Merc Coin": 25
+        },
+        "features": {
+          "mass": [0.451, 0.451],
+          "power": [0.15, 0.15],
+          "range": [-0.05, -0.05],
+          "rof": [0.442, 0.442],
+          "burst": [3, 3],
+          "clip": [1.0, 1.0],
+          "ammo": [0.511, 0.511],
+          "reload": [-0.5, -0.5]
+        },
+        "uuid": "merc-0004-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "High Density Composites": 1,
+          "Mechanical Components": 1,
+          "Configurable Components": 1,
+          "Modified Embedded Firmware": 1,
+          "Merc Coin": 50
+        },
+        "features": {
+          "mass": [0.60, 0.60],
+          "power": [0.20, 0.20],
+          "range": [-0.075, -0.075],
+          "rof": [0.581, 0.581],
+          "burst": [3, 3],
+          "clip": [1.667, 1.667],
+          "ammo": [0.678, 0.678],
+          "reload": [-0.5, -0.5]
+        },
+        "uuid": "merc-0004-0005-0001-000000000001"
+      }
+    },
+    "id": 112,
+    "modulename": ["Fragment Cannon"],
+    "name": "Double Screaming"
+  },
+  "Weapon_RapidPhase": {
+    "fdname": "Weapon_RapidPhase",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "damage": [0, 0],
+          "range": [-0.125, -0.125],
+          "rof": [0.077, 0.077],
+          "clip": [0.3, 0.3],
+          "ammo": [0.205, 0.205],
+          "jitter": [0.75, 0.75],
+          "falloff": [-0.842, -0.842]
+        },
+        "uuid": "merc-0005-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Heat Dispersion Plate": 1,
+          "Conductive Components": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "damage": [-0.1, -0.1],
+          "range": [-0.167, -0.167],
+          "rof": [0.105, 0.105],
+          "clip": [1.0, 1.0],
+          "ammo": [0.682, 0.682],
+          "jitter": [1.25, 1.25],
+          "falloff": [-0.50, -0.50]
+        },
+        "uuid": "merc-0005-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Specialised Legacy Firmware": 1,
+          "Mechanical Equipment": 1,
+          "Precipitated Alloys": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "burst": [2, 2],
+          "damage": [-0.1, -0.1],
+          "range": [-0.25, -0.25],
+          "rof": [0.167, 0.167],
+          "clip": [1.5, 1.5],
+          "ammo": [1.024, 1.024],
+          "jitter": [1.5, 1.5],
+          "falloff": [-0.325, -0.325]
+        },
+        "uuid": "merc-0005-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Modified Consumer Firmware": 1,
+          "Mechanical Components": 1,
+          "Conductive Ceramics": 1,
+          "Thermic Alloys": 1,
+          "Merc Coin": 20
+        },
+        "features": {
+          "burst": [2, 2],
+          "damage": [-0.1, -0.1],
+          "range": [-0.376, -0.376],
+          "rof": [0.274, 0.274],
+          "clip": [2.26, 2.26],
+          "ammo": [1.54, 1.54],
+          "jitter": [2.26, 2.26],
+          "falloff": [-0.155, -0.155]
+        },
+        "uuid": "merc-0005-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Precipitated Alloys": 1,
+          "Configurable Components": 1,
+          "Conductive Ceramics": 1,
+          "Technetium": 1,
+          "Merc Coin": 45
+        },
+        "features": {
+          "burst": [2, 2],
+          "damage": [-0.1, -0.1],
+          "range": [-0.50, -0.50],
+          "rof": [0.40, 0.40],
+          "clip": [3.0, 3.0],
+          "ammo": [2.048, 2.048],
+          "jitter": [3.0, 3.0],
+          "falloff": [-0.10, -0.10]
+        },
+        "uuid": "merc-0005-0005-0001-000000000001"
+      }
+    },
+    "id": 113,
+    "modulename": ["Multi-Cannon"],
+    "name": "Rapid Phase"
+  },
+  "Weapon_LockdownSeeker": {
+    "fdname": "Weapon_LockdownSeeker",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "mass": [0.30, 0.30],
+          "integrity": [0.10, 0.10],
+          "power": [0.075, 0.075],
+          "damage": [0.0343, 0.0343],
+          "thermload": [-0.01, -0.01],
+          "piercing": [0.04, 0.04],
+          "rof": [-0.5513, -0.5513],
+          "clip": [0.1666, 0.1666],
+          "ammo": [0.0833, 0.0833]
+        },
+        "uuid": "merc-0006-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Nickel": 1,
+          "Vanadium": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "mass": [0.40, 0.40],
+          "integrity": [0.333, 0.333],
+          "power": [0.10, 0.10],
+          "damage": [-0.218, -0.218],
+          "thermload": [-0.033, -0.033],
+          "piercing": [0.133, 0.133],
+          "rof": [-0.31, -0.31],
+          "clip": [0.333, 0.333],
+          "ammo": [0.333, 0.333]
+        },
+        "uuid": "merc-0006-0001-0002-000000000001"
+      },
+      "3": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Mechanical Equipment": 1,
+          "Tungsten": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "mass": [0.60, 0.60],
+          "integrity": [0.50, 0.50],
+          "power": [0.15, 0.15],
+          "damage": [-0.178, -0.178],
+          "thermload": [-0.05, -0.05],
+          "piercing": [0.20, 0.20],
+          "rof": [-0.298, -0.298],
+          "clip": [0.50, 0.50],
+          "ammo": [0.50, 0.50]
+        },
+        "uuid": "merc-0006-0001-0003-000000000001"
+      },
+      "4": {
+        "components": {
+          "Modified Consumer Firmware": 1,
+          "Tungsten": 1,
+          "Molybdenum": 1,
+          "Thermic Alloys": 1,
+          "Merc Coin": 25
+        },
+        "features": {
+          "mass": [0.902, 0.902],
+          "integrity": [0.752, 0.752],
+          "power": [0.226, 0.226],
+          "damage": [-0.116, -0.116],
+          "thermload": [-0.075, -0.075],
+          "piercing": [0.30, 0.30],
+          "rof": [-0.279, -0.279],
+          "clip": [0.833, 0.833],
+          "ammo": [0.722, 0.722]
+        },
+        "uuid": "merc-0006-0001-0004-000000000001"
+      },
+      "5": {
+        "components": {
+          "Mechanical Components": 1,
+          "Molybdenum": 1,
+          "Technetium": 1,
+          "Military Supercapacitors": 1,
+          "Merc Coin": 45
+        },
+        "features": {
+          "mass": [1.20, 1.20],
+          "integrity": [1.0, 1.0],
+          "power": [0.30, 0.30],
+          "damage": [-0.055, -0.055],
+          "thermload": [-0.10, -0.10],
+          "piercing": [0.40, 0.40],
+          "rof": [-0.259, -0.259],
+          "clip": [1.0, 1.0],
+          "ammo": [1.0, 1.0]
+        },
+        "uuid": "merc-0006-0001-0005-000000000001"
+      }
+    },
+    "id": 114,
+    "modulename": ["Missile Rack"],
+    "name": "Lockdown Seeker Missile Rack"
+  },
+  "Weapon_HighYieldEnzyme": {
+    "fdname": "Weapon_HighYieldEnzyme",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "power": [0.033, 0.033],
+          "mass": [0.10, 0.10],
+          "clip": [1.0, 1.0]
+        },
+        "uuid": "merc-0015-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Vanadium": 1,
+          "Conductive Components": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "power": [0.067, 0.067],
+          "mass": [0.20, 0.20],
+          "ammo": [0, 0],
+          "clip": [1.0, 1.0]
+        },
+        "uuid": "merc-0015-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Vanadium": 1,
+          "Electrochemical Arrays": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "power": [0.10, 0.10],
+          "mass": [0.30, 0.30],
+          "ammo": [0, 0],
+          "clip": [1.0, 1.0]
+        },
+        "uuid": "merc-0015-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Mechanical Equipment": 1,
+          "High Density Composites": 1,
+          "Tin": 1,
+          "Polymer Capacitors": 1,
+          "Merc Coin": 20
+        },
+        "features": {
+          "power": [0.15, 0.15],
+          "mass": [0.451, 0.451],
+          "ammo": [0, 0],
+          "clip": [1.0, 1.0]
+        },
+        "uuid": "merc-0015-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Mechanical Components": 1,
+          "Proprietary Composites": 1,
+          "Modified Embedded Firmware": 1,
+          "Military Supercapacitors": 1,
+          "Merc Coin": 45
+        },
+        "features": {
+          "power": [0.20, 0.20],
+          "mass": [0.60, 0.60],
+          "ammo": [0.20, 0.20],
+          "clip": [1.0, 1.0]
+        },
+        "uuid": "merc-0015-0005-0001-000000000001"
+      }
+    },
+    "id": 115,
+    "modulename": ["Enzyme Missile Rack"],
+    "name": "High-Yield"
+  },
+  "Weapon_LightweightThermalSeeker": {
+    "fdname": "Weapon_LightweightThermalSeeker",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "mass": [-0.09, -0.09],
+          "integrity": [-0.15, -0.15],
+          "power": [-0.02, -0.02],
+          "distdraw": [-0.04, -0.04],
+          "rof": [0.02, 0.02],
+          "clip": [0.1666, 0.1666],
+          "ammo": [0.0556, 0.0556]
+        },
+        "uuid": "merc-0007-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Vanadium": 1,
+          "Manganese": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "mass": [-0.30, -0.30],
+          "integrity": [-0.20, -0.20],
+          "power": [-0.067, -0.067],
+          "distdraw": [-0.133, -0.133],
+          "rof": [0.035, 0.035],
+          "clip": [0.333, 0.333],
+          "ammo": [0.333, 0.333]
+        },
+        "uuid": "merc-0007-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Mechanical Equipment": 1,
+          "Conductive Ceramics": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "mass": [-0.45, -0.45],
+          "integrity": [-0.30, -0.30],
+          "power": [-0.10, -0.10],
+          "distdraw": [-0.20, -0.20],
+          "rof": [0.053, 0.053],
+          "clip": [0.50, 0.50],
+          "ammo": [0.50, 0.50]
+        },
+        "uuid": "merc-0007-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Modified Consumer Firmware": 1,
+          "Phase Alloys": 1,
+          "Proto Light Alloys": 1,
+          "Thermic Alloys": 1,
+          "Merc Coin": 20
+        },
+        "features": {
+          "mass": [-0.677, -0.677],
+          "integrity": [-0.451, -0.451],
+          "power": [-0.15, -0.15],
+          "distdraw": [-0.301, -0.301],
+          "rof": [0.081, 0.081],
+          "clip": [0.833, 0.833],
+          "ammo": [0.722, 0.722]
+        },
+        "uuid": "merc-0007-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Mechanical Components": 1,
+          "Proto Light Alloys": 1,
+          "Proto Radiolic Alloys": 1,
+          "Military Supercapacitors": 1,
+          "Merc Coin": 40
+        },
+        "features": {
+          "mass": [-0.90, -0.90],
+          "integrity": [-0.60, -0.60],
+          "power": [-0.20, -0.20],
+          "distdraw": [-0.40, -0.40],
+          "rof": [0.111, 0.111],
+          "clip": [1.0, 1.0],
+          "ammo": [1.0, 1.0]
+        },
+        "uuid": "merc-0007-0005-0001-000000000001"
+      }
+    },
+    "id": 116,
+    "modulename": ["Missile Rack"],
+    "name": "Lightweight Thermal Seeker Missile Rack"
+  },
+  "Weapon_DragSeeker": {
+    "fdname": "Weapon_DragSeeker",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "mass": [0.375, 0.375],
+          "power": [0.058, 0.058],
+          "distdraw": [0.125, 0.125],
+          "rof": [0.04, 0.04],
+          "clip": [0.333, 0.333],
+          "ammo": [0.1667, 0.1667]
+        },
+        "uuid": "merc-0008-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Vanadium": 1,
+          "Heat Dispersion Plate": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "mass": [0.50, 0.50],
+          "power": [0.083, 0.083],
+          "distdraw": [0.139, 0.139],
+          "rof": [0.071, 0.071],
+          "clip": [0.6666, 0.6666],
+          "ammo": [0.667, 0.667]
+        },
+        "uuid": "merc-0008-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Mechanical Equipment": 1,
+          "Precipitated Alloys": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "mass": [0.75, 0.75],
+          "power": [0.125, 0.125],
+          "distdraw": [0.209, 0.209],
+          "rof": [0.111, 0.111],
+          "clip": [1.0, 1.0],
+          "ammo": [1.0, 1.0]
+        },
+        "uuid": "merc-0008-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Modified Consumer Firmware": 1,
+          "Mechanical Components": 1,
+          "High Density Composites": 1,
+          "Thermic Alloys": 1,
+          "Merc Coin": 20
+        },
+        "features": {
+          "mass": [1.128, 1.128],
+          "power": [0.188, 0.188],
+          "distdraw": [0.314, 0.314],
+          "rof": [0.177, 0.177],
+          "clip": [1.6666, 1.6666],
+          "ammo": [1.50, 1.50]
+        },
+        "uuid": "merc-0008-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Mechanical Components": 1,
+          "Proprietary Composites": 1,
+          "Technetium": 1,
+          "Military Supercapacitors": 1,
+          "Merc Coin": 40
+        },
+        "features": {
+          "mass": [1.50, 1.50],
+          "power": [0.25, 0.25],
+          "distdraw": [0.417, 0.417],
+          "rof": [0.25, 0.25],
+          "clip": [2.0, 2.0],
+          "ammo": [2.0, 2.0]
+        },
+        "uuid": "merc-0008-0005-0001-000000000001"
+      }
+    },
+    "id": 117,
+    "modulename": ["Missile Rack"],
+    "name": "Drag Seeker Missile Rack"
+  },
+  "PowerDistributor_SupportFocused": {
+    "fdname": "PowerDistributor_SupportFocused",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "wepcap": [-0.0624, -0.0624],
+          "weprate": [-0.05, -0.05],
+          "engcap": [0.045, 0.045],
+          "engrate": [0.04, 0.04],
+          "syscap": [0.045, 0.045],
+          "sysrate": [0.04, 0.04]
+        },
+        "uuid": "merc-0009-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Sulphur": 1,
+          "Specialised Legacy Firmware": 1,
+          "Conductive Components": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "wepcap": [-0.083, -0.083],
+          "weprate": [-0.056, -0.056],
+          "engcap": [0.15, 0.15],
+          "engrate": [0.133, 0.133],
+          "syscap": [0.15, 0.15],
+          "sysrate": [0.133, 0.133]
+        },
+        "uuid": "merc-0009-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Anomalous Bulk Scan Data": 1,
+          "Chromium": 1,
+          "Electrochemical Arrays": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "wepcap": [-0.125, -0.125],
+          "weprate": [-0.10, -0.10],
+          "engcap": [0.225, 0.225],
+          "engrate": [0.20, 0.20],
+          "syscap": [0.225, 0.225],
+          "sysrate": [0.20, 0.20]
+        },
+        "uuid": "merc-0009-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Unidentified Scan Archives": 1,
+          "Modified Consumer Firmware": 1,
+          "Selenium": 1,
+          "Polymer Capacitors": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "wepcap": [-0.188, -0.188],
+          "weprate": [-0.15, -0.15],
+          "engcap": [0.338, 0.338],
+          "engrate": [0.301, 0.301],
+          "syscap": [0.338, 0.338],
+          "sysrate": [0.301, 0.301]
+        },
+        "uuid": "merc-0009-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Classified Scan Databanks": 1,
+          "Cadmium": 1,
+          "Proprietary Composites": 1,
+          "Military Supercapacitors": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "wepcap": [-0.25, -0.25],
+          "weprate": [-0.20, -0.20],
+          "engcap": [0.45, 0.45],
+          "engrate": [0.40, 0.40],
+          "syscap": [0.45, 0.45],
+          "sysrate": [0.40, 0.40]
+        },
+        "uuid": "merc-0009-0005-0001-000000000001"
+      }
+    },
+    "id": 118,
+    "modulename": ["Power Distributor"],
+    "name": "Support Focused Power Distributor"
+  },
+  "PowerDistributor_Balanced": {
+    "fdname": "PowerDistributor_Balanced",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "mass": [0.025, 0.025],
+          "integrity": [-0.012, -0.012],
+          "power": [-0.01, -0.01],
+          "wepcap": [0.021, 0.021],
+          "weprate": [0.023, 0.023],
+          "engcap": [0.021, 0.021],
+          "engrate": [0.023, 0.023],
+          "syscap": [0.021, 0.021],
+          "sysrate": [0.023, 0.023]
+        },
+        "uuid": "merc-0010-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Sulphur": 1,
+          "Specialised Legacy Firmware": 1,
+          "Chemical Processors": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "mass": [0.033, 0.033],
+          "integrity": [-0.017, -0.017],
+          "power": [-0.033, -0.033],
+          "wepcap": [0.07, 0.07],
+          "weprate": [0.077, 0.077],
+          "engcap": [0.07, 0.07],
+          "engrate": [0.077, 0.077],
+          "syscap": [0.07, 0.07],
+          "sysrate": [0.077, 0.077]
+        },
+        "uuid": "merc-0010-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Specialised Legacy Firmware": 1,
+          "Chemical Processors": 1,
+          "High Density Composites": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "mass": [0.05, 0.05],
+          "integrity": [-0.025, -0.025],
+          "power": [-0.05, -0.05],
+          "wepcap": [0.105, 0.105],
+          "weprate": [0.115, 0.115],
+          "engcap": [0.105, 0.105],
+          "engrate": [0.115, 0.115],
+          "syscap": [0.105, 0.105],
+          "sysrate": [0.115, 0.115]
+        },
+        "uuid": "merc-0010-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Chemical Processors": 1,
+          "High Density Composites": 1,
+          "Selenium": 1,
+          "Chemical Manipulators": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "mass": [0.0752, 0.0752],
+          "integrity": [-0.038, -0.038],
+          "power": [-0.075, -0.075],
+          "wepcap": [0.158, 0.158],
+          "weprate": [0.173, 0.173],
+          "engcap": [0.158, 0.158],
+          "engrate": [0.173, 0.173],
+          "syscap": [0.158, 0.158],
+          "sysrate": [0.173, 0.173]
+        },
+        "uuid": "merc-0010-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Proprietary Composites": 1,
+          "Chemical Manipulators": 1,
+          "Military Supercapacitors": 1,
+          "Exquisite Focus Crystals": 1,
+          "Merc Coin": 25
+        },
+        "features": {
+          "mass": [0.10, 0.10],
+          "integrity": [-0.05, -0.05],
+          "power": [-0.10, -0.10],
+          "wepcap": [0.21, 0.21],
+          "weprate": [0.23, 0.23],
+          "engcap": [0.21, 0.21],
+          "engrate": [0.23, 0.23],
+          "syscap": [0.21, 0.21],
+          "sysrate": [0.23, 0.23]
+        },
+        "uuid": "merc-0010-0005-0001-000000000001"
+      }
+    },
+    "id": 119,
+    "modulename": ["Power Distributor"],
+    "name": "Balanced Power Distributor"
+  },
+  "CargoRack_Extended": {
+    "fdname": "CargoRack_Extended",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "cargo": [0.03125, 0.03125]
+        },
+        "uuid": "merc-0011-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Vanadium": 1,
+          "Manganese": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "cargo": [0.125, 0.125]
+        },
+        "uuid": "merc-0011-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Vanadium": 1,
+          "Niobium": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "cargo": [0.1875, 0.1875]
+        },
+        "uuid": "merc-0011-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Mechanical Equipment": 1,
+          "High Density Composites": 1,
+          "Tin": 1,
+          "Niobium": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "cargo": [0.25, 0.25]
+        },
+        "uuid": "merc-0011-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Mechanical Equipment": 1,
+          "Mechanical Components": 1,
+          "Proprietary Composites": 1,
+          "Military Supercapacitors": 1,
+          "Merc Coin": 30
+        },
+        "features": {
+          "cargo": [0.34375, 0.34375]
+        },
+        "uuid": "merc-0011-0005-0001-000000000001"
+      }
+    },
+    "id": 120,
+    "modulename": ["Cargo Rack"],
+    "name": "Extended Cargo Rack"
+  },
+  "Sensor_LongRangeDSS": {
+    "fdname": "Sensor_LongRangeDSS",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "proberadius": [0.10, 0.10]
+        },
+        "uuid": "merc-0012-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Germanium": 1,
+          "Modified Consumer Firmware": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "proberadius": [0.33, 0.33]
+        },
+        "uuid": "merc-0012-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Mechanical Scrap": 1,
+          "Germanium": 1,
+          "Phase Alloys": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "proberadius": [0.50, 0.50]
+        },
+        "uuid": "merc-0012-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Mechanical Equipment": 1,
+          "Niobium": 1,
+          "Phase Alloys": 1,
+          "Proto Light Alloys": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "proberadius": [0.752, 0.752]
+        },
+        "uuid": "merc-0012-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Mechanical Equipment": 1,
+          "Mechanical Components": 1,
+          "Tin": 1,
+          "Proto Radiolic Alloys": 1,
+          "Merc Coin": 20
+        },
+        "features": {
+          "proberadius": [1.0, 1.0]
+        },
+        "uuid": "merc-0012-0005-0001-000000000001"
+      }
+    },
+    "id": 121,
+    "modulename": ["Detailed Surface Scanner"],
+    "name": "Long Range Detailed Surface Scanner"
+  },
+  "MRP_HeavyDuty": {
+    "fdname": "MRP_HeavyDuty",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "mass": [0.25, 0.25],
+          "integrity": [0.025, 0.025],
+          "protection": [0.025, 0.025]
+        },
+        "uuid": "merc-0013-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Carbon": 1,
+          "Iron": 1,
+          "Shield Emitters": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "mass": [0.333, 0.333],
+          "integrity": [0.083, 0.083],
+          "protection": [0.083, 0.083]
+        },
+        "uuid": "merc-0013-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Iron": 1,
+          "Shield Emitters": 1,
+          "High Density Composites": 1,
+          "Merc Coin": 5
+        },
+        "features": {
+          "mass": [0.50, 0.50],
+          "integrity": [0.125, 0.125],
+          "protection": [0.125, 0.125]
+        },
+        "uuid": "merc-0013-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Shield Emitters": 1,
+          "High Density Composites": 1,
+          "Proprietary Composites": 1,
+          "Tungsten": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "mass": [0.752, 0.752],
+          "integrity": [0.188, 0.188],
+          "protection": [0.188, 0.188]
+        },
+        "uuid": "merc-0013-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Compound Shielding": 1,
+          "Ruthenium": 1,
+          "Proto Heat Radiators": 1,
+          "Core Dynamics Composites": 1,
+          "Merc Coin": 25
+        },
+        "features": {
+          "mass": [1.0, 1.0],
+          "integrity": [0.25, 0.25],
+          "protection": [0.25, 0.25]
+        },
+        "uuid": "merc-0013-0005-0001-000000000001"
+      }
+    },
+    "id": 122,
+    "modulename": ["Module Reinforcement Package"],
+    "name": "Heavy Duty Module Reinforcement Package"
+  },
+  "Weapon_OverloadedBeam": {
+    "fdname": "Weapon_OverloadedBeam",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "mass": [0.50, 0.50],
+          "power": [0.125, 0.125],
+          "damage": [0.10, 0.10],
+          "distdraw": [0.25, 0.25],
+          "thermload": [0.095, 0.095]
+        },
+        "uuid": "merc-0014-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Chromium": 1,
+          "Conductive Components": 1,
+          "Nickel": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "mass": [0.666, 0.666],
+          "power": [0.167, 0.167],
+          "damage": [0.333, 0.333],
+          "distdraw": [0.333, 0.333],
+          "thermload": [0.238, 0.238]
+        },
+        "uuid": "merc-0014-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Chromium": 1,
+          "Conductive Components": 1,
+          "Electrochemical Arrays": 1,
+          "Merc Coin": 15
+        },
+        "features": {
+          "mass": [1.00, 1.00],
+          "power": [0.25, 0.25],
+          "damage": [0.50, 0.50],
+          "distdraw": [0.50, 0.50],
+          "thermload": [0.317, 0.317]
+        },
+        "uuid": "merc-0014-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Electrochemical Arrays": 1,
+          "High Density Composites": 1,
+          "Polymer Capacitors": 1,
+          "Focus Crystals": 1,
+          "Merc Coin": 25
+        },
+        "features": {
+          "mass": [1.504, 1.504],
+          "power": [0.376, 0.376],
+          "damage": [0.752, 0.752],
+          "distdraw": [0.752, 0.752],
+          "thermload": [0.475, 0.475]
+        },
+        "uuid": "merc-0014-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Zirconium": 1,
+          "Military Supercapacitors": 1,
+          "Modified Embedded Firmware": 1,
+          "Focus Crystals": 1,
+          "Merc Coin": 50
+        },
+        "features": {
+          "mass": [2.00, 2.00],
+          "power": [0.50, 0.50],
+          "damage": [1.00, 1.00],
+          "distdraw": [1.00, 1.00],
+          "thermload": [0.714, 0.714]
+        },
+        "uuid": "merc-0014-0005-0001-000000000001"
+      }
+    },
+    "id": 123,
+    "modulename": ["Beam Laser"],
+    "name": "Overloaded Beam Laser"
+  },
+  "Weapon_Regenerative": {
+    "fdname": "Weapon_Regenerative",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "power": [0.05, 0.05],
+          "damage": [0.04, 0.04],
+          "distdraw": [0.138, 0.138],
+          "range": [0.10, 0.10],
+          "rof": [0.02, 0.02],
+          "falloff": [-0.472, -0.472]
+        },
+        "uuid": "merc-0016-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Nickel": 1,
+          "Modified Consumer Firmware": 1,
+          "Conductive Components": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "power": [0.0607, 0.0607],
+          "damage": [0.1333, 0.1333],
+          "distdraw": [0.1833, 0.1833],
+          "range": [0.3333, 0.3333],
+          "rof": [0.0699, 0.0699],
+          "falloff": [-0.472, -0.472]
+        },
+        "uuid": "merc-0016-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Nickel": 1,
+          "Conductive Components": 1,
+          "Electrochemical Arrays": 1,
+          "Merc Coin": 10
+        },
+        "features": {
+          "power": [0.10, 0.10],
+          "damage": [0.20, 0.20],
+          "distdraw": [0.378, 0.378],
+          "range": [0.50, 0.50],
+          "rof": [0.1067, 0.1067],
+          "falloff": [2.60, 2.60]
+        },
+        "uuid": "merc-0016-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Electrochemical Arrays": 1,
+          "Conductive Ceramics": 1,
+          "Polymer Capacitors": 1,
+          "Refined Focus Crystals": 1,
+          "Merc Coin": 20
+        },
+        "features": {
+          "power": [0.15, 0.15],
+          "damage": [0.3008, 0.3008],
+          "distdraw": [0.4128, 0.4128],
+          "range": [0.7515, 0.7515],
+          "rof": [0.173, 0.173],
+          "falloff": [5.323, 5.323]
+        },
+        "uuid": "merc-0016-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Polymer Capacitors": 1,
+          "Conductive Polymers": 1,
+          "Modified Embedded Firmware": 1,
+          "Shielding Sensors": 1,
+          "Merc Coin": 40
+        },
+        "features": {
+          "power": [0.20, 0.20],
+          "damage": [0.40, 0.40],
+          "distdraw": [0.55, 0.55],
+          "range": [1.00, 1.00],
+          "rof": [0.244, 0.244],
+          "falloff": [8.60, 8.60]
+        },
+        "uuid": "merc-0016-0005-0001-000000000001"
+      }
+    },
+    "id": 124,
+    "modulename": ["Burst Laser"],
+    "name": "Regenerative Burst Laser"
+  },
+  "Weapon_ForceImpact": {
+    "fdname": "Weapon_ForceImpact",
+    "grades": {
+      "1": {
+        "components": {},
+        "features": {
+          "mass": [0.25, 0.25],
+          "power": [0.15, 0.15],
+          "damage": [-0.35, -0.35],
+          "distdraw": [0.10, 0.10],
+          "rof": [-0.143, -0.143],
+          "clip": [0.167, 0.167],
+          "ammo": [0.058, 0.058]
+        },
+        "uuid": "merc-0017-0001-0001-000000000001"
+      },
+      "2": {
+        "components": {
+          "Merc Coin": 0
+        },
+        "features": {
+          "mass": [0, 0],
+          "power": [0, 0],
+          "damage": [0, 0],
+          "distdraw": [0, 0],
+          "rof": [0, 0],
+          "clip": [0, 0],
+          "ammo": [0, 0]
+        },
+        "uuid": "merc-0017-0002-0001-000000000001"
+      },
+      "3": {
+        "components": {
+          "Merc Coin": 0
+        },
+        "features": {
+          "mass": [0, 0],
+          "power": [0, 0],
+          "damage": [0, 0],
+          "distdraw": [0, 0],
+          "rof": [0, 0],
+          "clip": [0, 0],
+          "ammo": [0, 0]
+        },
+        "uuid": "merc-0017-0003-0001-000000000001"
+      },
+      "4": {
+        "components": {
+          "Merc Coin": 0
+        },
+        "features": {
+          "mass": [0, 0],
+          "power": [0, 0],
+          "damage": [0, 0],
+          "distdraw": [0, 0],
+          "rof": [0, 0],
+          "clip": [0, 0],
+          "ammo": [0, 0]
+        },
+        "uuid": "merc-0017-0004-0001-000000000001"
+      },
+      "5": {
+        "components": {
+          "Merc Coin": 0
+        },
+        "features": {
+          "mass": [0, 0],
+          "power": [0, 0],
+          "damage": [0, 0],
+          "distdraw": [0, 0],
+          "rof": [0, 0],
+          "clip": [0, 0],
+          "ammo": [0, 0]
+        },
+        "uuid": "merc-0017-0005-0001-000000000001"
+      }
+    },
+    "id": 125,
+    "modulename": ["Cannon"],
+    "name": "Force Impact Cannon"
   }
 }

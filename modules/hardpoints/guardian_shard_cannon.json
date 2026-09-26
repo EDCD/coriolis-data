@@ -13,10 +13,10 @@
       "mass": 2,
       "integrity": 34,
       "power": 0.87,
-      "damage": 2,
+      "damage": 3.64,
       "distdraw": 0.42,
       "fireint": 0.6,
-      "thermload": 0.7,
+      "thermload": 0.69,
       "piercing": 30,
       "range": 1700,
       "shotspeed": 1133,
@@ -24,13 +24,14 @@
       "clip": 5,
       "ammo": 180,
       "reload": 5,
-      "breachdmg": 1.6,
+      "breachdmg": 2.912,
       "breachmin": 0.6,
       "breachmax": 0.8,
       "jitter": 5,
       "symbol": "Hpt_Guardian_ShardCannon_Fixed_Small",
       "damagedist": {
-        "T": 1
+        "T": 0.5,
+        "AX": 0.5
       },
       "falloff": 1700
     },
@@ -47,10 +48,10 @@
       "mass": 2,
       "integrity": 34,
       "power": 0.72,
-      "damage": 1.1,
+      "damage": 2.02,
       "distdraw": 0.36,
       "fireint": 0.6,
-      "thermload": 0.6,
+      "thermload": 0.58,
       "piercing": 30,
       "range": 1700,
       "shotspeed": 1133,
@@ -58,13 +59,14 @@
       "clip": 5,
       "ammo": 180,
       "reload": 5,
-      "breachdmg": 0.9,
+      "breachdmg": 1.616,
       "breachmin": 0.6,
       "breachmax": 0.8,
       "jitter": 5,
       "symbol": "Hpt_Guardian_ShardCannon_Turret_Small",
       "damagedist": {
-        "T": 1
+        "T": 0.5,
+        "AX": 0.5
       },
       "falloff": 1700
     },
@@ -77,11 +79,11 @@
       "eddbID": 0,
       "edID": 128834000,
       "mount": "F",
-      "cost": 507761,
+      "cost": 507760,
       "mass": 4,
       "integrity": 42,
       "power": 1.21,
-      "damage": 3.7,
+      "damage": 6.77,
       "distdraw": 0.65,
       "fireint": 0.6,
       "thermload": 1.2,
@@ -92,13 +94,14 @@
       "clip": 5,
       "ammo": 180,
       "reload": 5,
-      "breachdmg": 3,
+      "breachdmg": 5.416,
       "breachmin": 0.6,
       "breachmax": 0.8,
       "jitter": 5,
       "symbol": "Hpt_Guardian_ShardCannon_Fixed_Medium",
       "damagedist": {
-        "T": 1
+        "T": 0.5,
+        "AX": 0.5
       },
       "falloff": 1700
     },
@@ -111,14 +114,14 @@
       "eddbID": 0,
       "edID": 128834001,
       "mount": "T",
-      "cost": 1767001,
+      "cost": 1767000,
       "mass": 4,
       "integrity": 42,
       "power": 1.16,
-      "damage": 2.4,
+      "damage": 4.34,
       "distdraw": 0.57,
       "fireint": 0.6,
-      "thermload": 1.1,
+      "thermload": 1.09,
       "piercing": 45,
       "range": 1700,
       "shotspeed": 1133,
@@ -126,13 +129,14 @@
       "clip": 5,
       "ammo": 180,
       "reload": 5,
-      "breachdmg": 1.9,
+      "breachdmg": 3.472,
       "breachmin": 0.6,
       "breachmax": 0.8,
       "jitter": 5,
       "symbol": "Hpt_Guardian_ShardCannon_Turret_medium",
       "damagedist": {
-        "T": 1
+        "T": 0.5,
+        "AX": 0.5
       },
       "falloff": 1700
     },
@@ -149,7 +153,7 @@
       "mass": 8,
       "integrity": 51,
       "power": 1.68,
-      "damage": 5.2,
+      "damage": 9.5,
       "distdraw": 1.4,
       "fireint": 0.6,
       "thermload": 2.2,
@@ -160,13 +164,14 @@
       "ammo": 180,
       "roundspershot": 12,
       "reload": 5,
-      "breachdmg": 4.2,
+      "breachdmg": 7.6,
       "breachmin": 0.6,
       "breachmax": 0.8,
       "jitter": 5,
       "symbol": "Hpt_Guardian_ShardCannon_Fixed_Large",
       "damagedist": {
-        "T": 1
+        "T": 0.5,
+        "AX": 0.5
       },
       "falloff": 1700
     },
@@ -179,14 +184,14 @@
       "eddbID": 0,
       "edID": 128834779,
       "mount": "T",
-      "cost": 5865026,
+      "cost": 5865030,
       "mass": 8,
       "integrity": 51,
       "power": 1.39,
-      "damage": 3.4,
+      "damage": 6.2,
       "distdraw": 1.2,
       "fireint": 0.6,
-      "thermload": 2,
+      "thermload": 1.98,
       "piercing": 60,
       "range": 1700,
       "shotspeed": 1133,
@@ -194,13 +199,14 @@
       "ammo": 180,
       "roundspershot": 12,
       "reload": 5,
-      "breachdmg": 2.7,
+      "breachdmg": 4.96,
       "breachmin": 0.6,
       "breachmax": 0.8,
       "jitter": 5,
       "symbol": "Hpt_Guardian_ShardCannon_Turret_Large",
       "damagedist": {
-        "T": 1
+        "T": 0.5,
+        "AX": 0.5
       },
       "falloff": 1700
     },
@@ -218,18 +224,29 @@
         "grade": 1,
         "experimentalEffects": ["special_super_penetrator_cooled"],
         "canApplyExperimental": true,
-        "description": "This module has been pre-engineered with Grade 1 LongRange and Focused modifications with Super Penetrator Experimental."
+        "description": "This module has been pre-engineered with Grade 1 LongRange and Focused modifications with Super Penetrator Experimental.",
+        "modifiers": {
+          "mass": 0.50,
+          "power": 1.30,
+          "distdraw": 4.277,
+          "thermload": 15.50,
+          "piercing": 1.02,
+          "range": 0.765,
+          "shotspeed": 4.558,
+          "jitter": -3.5,
+          "falloff": -0.118
+        }
       },
-      "name": "Shard (OC+Foc+SPen)",
+      "name": "Shard (LR+Foc+SPen)",
       "eddbID": 0,
       "cost": 0,
       "mass": 2,
       "integrity": 34,
       "power": 0.87,
-      "damage": 2,
+      "damage": 3.64,
       "distdraw": 0.42,
       "fireint": 0.6,
-      "thermload": 0.7,
+      "thermload": 0.69,
       "piercing": 30,
       "range": 1700,
       "shotspeed": 1133,
@@ -237,13 +254,14 @@
       "clip": 5,
       "ammo": 180,
       "reload": 5,
-      "breachdmg": 1.6,
+      "breachdmg": 2.912,
       "breachmin": 0.6,
       "breachmax": 0.8,
       "jitter": 5,
       "symbol": "Hpt_Guardian_ShardCannon_Fixed_Small",
       "damagedist": {
-        "T": 1
+        "T": 0.5,
+        "AX": 0.5
       },
       "falloff": 1700
     },
@@ -261,14 +279,25 @@
         "grade": 1,
         "experimentalEffects": ["special_super_penetrator_cooled"],
         "canApplyExperimental": true,
-        "description": "This module has been pre-engineered with Grade 1 LongRange and Focused modifications with Super Penetrator Experimental."
+        "description": "This module has been pre-engineered with Grade 1 LongRange and Focused modifications with Super Penetrator Experimental.",
+        "modifiers": {
+          "mass": 0.50,
+          "power": 1.30,
+          "distdraw": 4.277,
+          "thermload": 15.50,
+          "piercing": 1.02,
+          "range": 0.765,
+          "shotspeed": 4.558,
+          "jitter": -3.5,
+          "falloff": -0.118
+        }
       },
-      "name": "Shard (OC+Foc+SPen)",
+      "name": "Shard (LR+Foc+SPen)",
       "cost": 0,
       "mass": 4,
       "integrity": 42,
       "power": 1.21,
-      "damage": 3.7,
+      "damage": 6.77,
       "distdraw": 0.65,
       "fireint": 0.6,
       "thermload": 1.2,
@@ -279,13 +308,14 @@
       "clip": 5,
       "ammo": 180,
       "reload": 5,
-      "breachdmg": 3,
+      "breachdmg": 5.416,
       "breachmin": 0.6,
       "breachmax": 0.8,
       "jitter": 5,
       "symbol": "Hpt_Guardian_ShardCannon_Fixed_Medium",
       "damagedist": {
-        "T": 1
+        "T": 0.5,
+        "AX": 0.5
       },
       "falloff": 1700
     },
@@ -311,7 +341,7 @@
       "mass": 4,
       "integrity": 42,
       "power": 1.21,
-      "damage": 3.7,
+      "damage": 6.77,
       "distdraw": 0.65,
       "fireint": 0.6,
       "thermload": 1.2,
@@ -322,13 +352,14 @@
       "clip": 5,
       "ammo": 180,
       "reload": 5,
-      "breachdmg": 3,
+      "breachdmg": 5.416,
       "breachmin": 0.6,
       "breachmax": 0.8,
       "jitter": 5,
       "symbol": "Hpt_Guardian_ShardCannon_Fixed_Medium",
       "damagedist": {
-        "T": 1
+        "T": 0.5,
+        "AX": 0.5
       },
       "falloff": 1700
     }

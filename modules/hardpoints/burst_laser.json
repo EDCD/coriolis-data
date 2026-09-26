@@ -352,6 +352,47 @@
       "rating": "E",
       "thermload": 3.33,
       "symbol": "Hpt_PulseLaserBurst_Gimbal_Huge"
+    },
+    {
+      "breachdmg": 2.1,
+      "breachmax": 0.8,
+      "breachmin": 0.4,
+      "burst": 3,
+      "burstrof": 13,
+      "class": 2,
+      "cost": 0,
+      "mercModule": true,
+      "mercCoin": 750,
+      "damage": 2.45,
+      "damagedist": {
+        "T": 1
+      },
+      "distdraw": 0.49,
+      "edID": 129046188,
+      "falloff": 500,
+      "fireint": 0.56,
+      "grp": "ul",
+      "id": "8Q",
+      "integrity": 40,
+      "name": "Regenerative Burst",
+      "mass": 4,
+      "mount": "G",
+      "preEngineered": {
+        "reengineerable": false,
+        "gradeChangeable": true,
+        "blueprints": ["Weapon_Regenerative"],
+        "grade": 1,
+        "canApplyExperimental": false,
+        "experimentalEffects": ["special_regeneration_sequence"],
+        "description": "This module has been pre-engineered with Grade 1 Regenerative modifications, and Regenerative Experimental Effect.",
+        "availability": "MercCoin"
+      },
+      "piercing": 35,
+      "power": 1.04,
+      "range": 3000,
+      "rating": "F",
+      "thermload": 0.67,
+      "symbol": "Hpt_PulseLaserBurst_Gimbal_Medium"
     }
   ]
 }

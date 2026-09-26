@@ -317,6 +317,43 @@
       "rating": "A",
       "thermload": 10.6,
       "symbol": "Hpt_BeamLaser_Gimbal_Huge"
+    },
+    {
+      "breachdmg": 33.1,
+      "breachmax": 0.8,
+      "breachmin": 0.4,
+      "class": 4,
+      "cost": 0,
+      "mercModule": true,
+      "mercCoin": 950,
+      "damage": 41.38,
+      "damagedist": {
+        "T": 1
+      },
+      "distdraw": 8.19,
+      "edID": 129046189,
+      "falloff": 600,
+      "grp": "bl",
+      "id": "8R",
+      "integrity": 80,
+      "name": "Overloaded Beam",
+      "mass": 16,
+      "mount": "F",
+      "preEngineered": {
+        "reengineerable": false,
+        "gradeChangeable": true,
+        "blueprints": ["Weapon_OverloadedBeam"],
+        "grade": 1,
+        "canApplyExperimental": false,
+        "description": "This module has been pre-engineered with Grade 1 Overloaded modifications.",
+        "availability": "MercCoin"
+      },
+      "piercing": 60,
+      "power": 2.61,
+      "range": 3000,
+      "rating": "A",
+      "thermload": 9.9,
+      "symbol": "Hpt_BeamLaser_Fixed_Huge"
     }
   ]
 }

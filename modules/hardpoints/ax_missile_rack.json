@@ -162,7 +162,18 @@
         "grade": 5,
         "experimentalEffects": [],
         "canApplyExperimental": false,
-        "description": "This module has been pre-engineered with Grade 5 High Capacity and Rapid Fire modifications."
+        "description": "This module has been pre-engineered with Grade 5 High Capacity and Rapid Fire modifications.",
+        "modifiers": {
+          "mass": 0.70,
+          "power": 0.20,
+          "damage": -0.03,
+          "distdraw": -0.20,
+          "rof": 0.429,
+          "clip": 1.0,
+          "ammo": 1.0,
+          "reload": -0.45,
+          "jitter": 0.5
+        }
       },
       "name": "AX MRack (HCap+RFire)",
       "piercing": 60,
@@ -203,7 +214,18 @@
         "grade": 5,
         "experimentalEffects": [],
         "canApplyExperimental": false,
-        "description": "This module has been pre-engineered with Grade 5 High Capacity and Rapid Fire modifications."
+        "description": "This module has been pre-engineered with Grade 5 High Capacity and Rapid Fire modifications.",
+        "modifiers": {
+          "mass": 0.70,
+          "power": 0.20,
+          "damage": -0.03,
+          "distdraw": -0.20,
+          "rof": 0.429,
+          "clip": 1.0,
+          "ammo": 1.0,
+          "reload": -0.45,
+          "jitter": 0.5
+        }
       },
       "name": "AX MRack (HCap+RFire)",
       "piercing": 60,

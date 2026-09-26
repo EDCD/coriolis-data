@@ -382,6 +382,51 @@
       "shotspeed": 1300,
       "thermload": 1.92,
       "symbol": "Hpt_Cannon_Gimbal_Medium_Burst"
+    },
+    {
+      "ammo": 120,
+      "breachdmg": 63.2,
+      "breachmax": 0.8,
+      "breachmin": 0.6,
+      "class": 4,
+      "clip": 6,
+      "cost": 0,
+      "mercModule": true,
+      "mercCoin": 850,
+      "damage": 83.1,
+      "damagedist": {
+        "K": 1
+      },
+      "distdraw": 1.61,
+      "edID": 129046187,
+      "falloff": 4500,
+      "fireint": 2.63,
+      "eps": 0.644,
+      "grp": "c",
+      "hps": 1.92,
+      "id": "8P",
+      "integrity": 80,
+      "mass": 16,
+      "mount": "F",
+      "preEngineered": {
+        "reengineerable": false,
+        "gradeChangeable": true,
+        "blueprints": ["Weapon_ForceImpact"],
+        "grade": 1,
+        "canApplyExperimental": false,
+        "experimentalEffects": ["special_force_shell"],
+        "description": "This module has been pre-engineered with Grade 1 Force Impact modifications, and Force Shell Experimental Effect.",
+        "availability": "MercCoin"
+      },
+      "name": "Force Impact Cannon",
+      "piercing": 90,
+      "power": 0.92,
+      "range": 4500,
+      "rating": "B",
+      "reload": 3,
+      "shotspeed": 900,
+      "thermload": 4.8,
+      "symbol": "Hpt_Cannon_Fixed_Huge"
     }
   ]
 }

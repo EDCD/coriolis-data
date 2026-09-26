@@ -247,6 +247,52 @@
       "name": "Expanded Capacity Cargo Rack",
       "ukName": "Expanded Capacity Cargo Rack",
       "ukDiscript": "Standardised storage rack for use in automated cargo transfer system."
+    },
+    {
+      "cargo": 32,
+      "class": 5,
+      "cost": 0,
+      "grp": "cr",
+      "id": "zQ",
+      "rating": "E",
+      "mercModule": true,
+      "mercCoin": 550,
+      "preEngineered": {
+        "reengineerable": false,
+        "gradeChangeable": true,
+        "blueprints": ["CargoRack_Extended"],
+        "grade": 1,
+        "canApplyExperimental": false,
+        "experimentalEffects": [],
+        "description": "Pre-engineered Extended Cargo Rack. Increased cargo capacity.",
+        "availability": "MercCoin"
+      },
+      "mass": 0,
+      "symbol": "Int_CargoRack_Size5_Class1",
+      "name": "Extended Cargo Rack"
+    },
+    {
+      "cargo": 64,
+      "class": 6,
+      "cost": 0,
+      "grp": "cr",
+      "id": "zR",
+      "rating": "E",
+      "mercModule": true,
+      "mercCoin": 550,
+      "preEngineered": {
+        "reengineerable": false,
+        "gradeChangeable": true,
+        "blueprints": ["CargoRack_Extended"],
+        "grade": 1,
+        "canApplyExperimental": false,
+        "experimentalEffects": [],
+        "description": "Pre-engineered Extended Cargo Rack. Increased cargo capacity.",
+        "availability": "MercCoin"
+      },
+      "mass": 0,
+      "symbol": "Int_CargoRack_Size6_Class1",
+      "name": "Extended Cargo Rack"
     }
   ]
 }

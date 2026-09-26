@@ -101,6 +101,48 @@
       "rating": "D",
       "thermload": 1.8,
       "symbol": "Hpt_Mining_AbrBlstr_Fixed_Small"
+    },
+    {
+      "breachdmg": 0.6,
+      "breachmax": 0.2,
+      "breachmin": 0.1,
+      "chargetime": 0,
+      "class": 1,
+      "clip": 1,
+      "cost": 0,
+      "damage": 4,
+      "damagedist": {
+        "T": 1
+      },
+      "distdraw": 1.75,
+      "falloff": 420,
+      "fireint": 0.2,
+      "grp": "abl",
+      "id": "zB",
+      "integrity": 40,
+      "mass": 2,
+      "mercModule": true,
+      "mercCoin": 400,
+      "mount": "F",
+      "preEngineered": {
+        "reengineerable": false,
+        "gradeChangeable": true,
+        "blueprints": ["Weapon_FarReaching"],
+        "grade": 1,
+        "canApplyExperimental": false,
+        "experimentalEffects": [],
+        "description": "Pre-engineered Far-Reaching Abrasion Blaster with improved power draw, distributor draw, range and shot speed at the cost of reduced damage falloff.",
+        "availability": "MercCoin"
+      },
+      "name": "Far-Reaching",
+      "piercing": 18,
+      "power": 0.30,
+      "range": 1400,
+      "rating": "D",
+      "reload": 2,
+      "shotspeed": 933,
+      "thermload": 1.9,
+      "symbol": "Hpt_Mining_AbrBlstr_Fixed_Small"
     }
   ]
 }

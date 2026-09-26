@@ -142,6 +142,49 @@
       "reload": 1.25,
       "thermload": 20,
       "symbol": "Hpt_Railgun_Fixed_Medium"
+    },
+    {
+      "ammo": 88,
+      "breachdmg": 39.5,
+      "breachmax": 0.8,
+      "breachmin": 0.4,
+      "charge": 1.2,
+      "class": 2,
+      "clip": 1,
+      "cost": 0,
+      "damage": 39.0,
+      "damagedist": {
+        "T": 0.66666666666666666666666666666667,
+        "K": 0.33333333333333333333333333333333
+      },
+      "distdraw": 5.11,
+      "falloff": 1320,
+      "fireint": 0.769,
+      "grp": "rg",
+      "id": "zA",
+      "integrity": 51,
+      "mass": 4.9,
+      "mercModule": true,
+      "mercCoin": 950,
+      "mount": "F",
+      "preEngineered": {
+        "reengineerable": false,
+        "gradeChangeable": true,
+        "blueprints": ["Weapon_EnduringFeedback"],
+        "grade": 1,
+        "canApplyExperimental": false,
+        "experimentalEffects": ["special_feedback_cascade"],
+        "description": "Pre-engineered Enduring Feedback Rail Gun with Feedback Cascade effect. Increased mass, power draw and reduced damage to improve reload time, heat generation, range and ammo capacity.",
+        "availability": "MercCoin"
+      },
+      "name": "Enduring Feedback",
+      "piercing": 100,
+      "power": 1.77,
+      "range": 3300,
+      "rating": "B",
+      "reload": 1,
+      "thermload": 19.2,
+      "symbol": "Hpt_Railgun_Fixed_Medium"
     }
   ]
 }

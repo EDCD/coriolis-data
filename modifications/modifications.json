@@ -57,5 +57,6 @@
     "proberadius": {"id": 53, "name": "proberadius", "type": "percentage", "method": "multiplicative", "higherbetter": true},
     "scanrange": {"id": 54, "name": "scanrange", "type": "numeric", "method": "additive", "higherbetter": true},
     "maxangle": {"id": 55, "name": "maxangle", "type": "numeric", "method": "additive", "higherbetter": true},
-    "cargo": {"id": 58, "name": "cargo", "type": "percentage", "method": "multiplicative", "higherbetter": true}
+    "cargo": {"id": 58, "name": "cargo", "type": "percentage", "method": "multiplicative", "higherbetter": true},
+    "rate": {"id": 59, "name": "rate", "type": "percentage", "method": "multiplicative", "higherbetter": true}
 }

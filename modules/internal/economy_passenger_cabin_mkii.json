@@ -16,7 +16,7 @@
     },
     {
       "class": 3,
-      "cost": 11544,
+      "cost": 11545,
       "edID": 129043771,
       "grp": "pcemkii",
       "id": "7w",
@@ -30,7 +30,7 @@
     },
     {
       "class": 4,
-      "cost": 25273,
+      "cost": 25270,
       "edID": 129043773,
       "grp": "pcemkii",
       "id": "7x",
@@ -44,7 +44,7 @@
     },
     {
       "class": 5,
-      "cost": 46607,
+      "cost": 46605,
       "edID": 129043775,
       "grp": "pcemkii",
       "id": "7y",
@@ -58,7 +58,7 @@
     },
     {
       "class": 6,
-      "cost": 123152,
+      "cost": 81880,
       "edID": 129043777,
       "grp": "pcemkii",
       "id": "7z",

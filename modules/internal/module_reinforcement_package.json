@@ -149,6 +149,30 @@
       "symbol": "Int_ModuleReinforcement_Size5_Class2",
       "ukName": "Module Reinforcement",
       "ukDiscript": "Protects modules against weapons fire that penetrates the hull. This version of the module has low damage capacity but high absorption of module damage. I.e. it can absorb a large proportion of module damage each time over a short period before running out of damage capacity."
+    },
+    {
+      "class": 5,
+      "cost": 0,
+      "grp": "mrp",
+      "id": "zT",
+      "integrity": 350,
+      "mass": 16,
+      "mercModule": true,
+      "mercCoin": 450,
+      "name": "Heavy Duty MRP",
+      "protection": 0.6,
+      "rating": "D",
+      "preEngineered": {
+        "reengineerable": false,
+        "gradeChangeable": true,
+        "blueprints": ["MRP_HeavyDuty"],
+        "grade": 1,
+        "canApplyExperimental": false,
+        "experimentalEffects": [],
+        "description": "Pre-engineered Heavy Duty Module Reinforcement Package. Increased module protection at the cost of increased mass.",
+        "availability": "MercCoin"
+      },
+      "symbol": "Int_ModuleReinforcement_Size5_Class2"
     }
   ]
 }

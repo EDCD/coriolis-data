@@ -3,7 +3,7 @@
     {
       "experimental": true,
       "ammo": 200,
-      "breachdmg": 0.4,
+      "breachdmg": 0.75,
       "breachmax": 0.8,
       "breachmin": 0.5,
       "class": 1,
@@ -11,7 +11,8 @@
       "cost": 176500,
       "damage": 3,
       "damagedist": {
-        "A": 1
+        "A": 0.5,
+        "AX": 0.5
       },
       "distdraw": 0.68,
       "edID": 128891607,
@@ -29,13 +30,13 @@
       "rating": "D",
       "reload": 3,
       "shotspeed": 1200,
-      "thermload": 4.2,
+      "thermload": 4.21,
       "symbol": "Hpt_Guardian_PlasmaLauncher_Fixed_Small"
     },
     {
       "experimental": true,
       "ammo": 200,
-      "breachdmg": 0.3,
+      "breachdmg": 0.5,
       "breachmax": 0.8,
       "breachmin": 0.5,
       "class": 1,
@@ -43,7 +44,8 @@
       "cost": 484050,
       "damage": 2,
       "damagedist": {
-        "A": 1
+        "A": 0.5,
+        "AX": 0.5
       },
       "distdraw": 0.8,
       "edID": 128891606,
@@ -61,21 +63,22 @@
       "rating": "F",
       "reload": 3,
       "shotspeed": 1200,
-      "thermload": 5,
+      "thermload": 5.01,
       "symbol": "Hpt_Guardian_PlasmaLauncher_Turret_Small"
     },
     {
       "experimental": true,
       "ammo": 200,
-      "breachdmg": 0.7,
+      "breachdmg": 1.25,
       "breachmax": 0.8,
       "breachmin": 0.5,
       "class": 2,
       "clip": 15,
-      "cost": 567761,
+      "cost": 567760,
       "damage": 5,
       "damagedist": {
-        "A": 1
+        "A": 0.5,
+        "AX": 0.5
       },
       "distdraw": 1.25,
       "edID": 128833998,
@@ -89,17 +92,17 @@
       "mount": "F",
       "piercing": 80,
       "power": 2.13,
-      "range": 3500,
+      "range": 3000,
       "rating": "B",
       "reload": 3,
       "shotspeed": 1200,
-      "thermload": 5.2,
+      "thermload": 5.21,
       "symbol": "Hpt_Guardian_PlasmaLauncher_Fixed_Medium"
     },
     {
       "experimental": true,
       "ammo": 200,
-      "breachdmg": 1,
+      "breachdmg": 1.0,
       "breachmax": 0.8,
       "breachmin": 0.5,
       "class": 2,
@@ -107,7 +110,8 @@
       "cost": 1659200,
       "damage": 4,
       "damagedist": {
-        "A": 1
+        "A": 0.5,
+        "AX": 0.5
       },
       "distdraw": 1.4,
       "edID": 128833999,
@@ -121,7 +125,7 @@
       "mount": "T",
       "piercing": 80,
       "power": 2.01,
-      "range": 3500,
+      "range": 3000,
       "rating": "E",
       "reload": 3,
       "shotspeed": 1200,
@@ -137,33 +141,34 @@
       "eddbID": 0,
       "edID": 128834783,
       "mount": "F",
-      "cost": 1423301,
+      "cost": 1423300,
       "mass": 8,
       "integrity": 51,
       "power": 3.1,
       "damage": 7,
       "distdraw": 2.42,
       "fireint": 0.2,
-      "thermload": 6.2,
+      "thermload": 6.15,
       "piercing": 95,
       "range": 3000,
       "shotspeed": 1200,
       "clip": 15,
       "ammo": 200,
       "reload": 3,
-      "breachdmg": 1,
+      "breachdmg": 0.35,
       "breachmin": 0.5,
       "breachmax": 0.8,
       "symbol": "Hpt_Guardian_PlasmaLauncher_Fixed_Large",
       "damagedist": {
-        "A": 1
+        "A": 0.5,
+        "AX": 0.5
       },
       "falloff": 1000
     },
     {
       "experimental": true,
       "ammo": 200,
-      "breachdmg": 0.8,
+      "breachdmg": 1.5,
       "breachmax": 0.8,
       "breachmin": 0.5,
       "class": 3,
@@ -171,7 +176,8 @@
       "cost": 5495200,
       "damage": 6,
       "damagedist": {
-        "A": 1
+        "A": 0.5,
+        "AX": 0.5
       },
       "distdraw": 2.6,
       "edID": 128834784,
@@ -195,7 +201,7 @@
     {
       "experimental": true,
       "ammo": 200,
-      "breachdmg": 0.4,
+      "breachdmg": 0.75,
       "breachmax": 0.8,
       "breachmin": 0.5,
       "class": 1,
@@ -203,7 +209,8 @@
       "cost": 0,
       "damage": 3,
       "damagedist": {
-        "A": 1
+        "A": 0.5,
+        "AX": 0.5
       },
       "distdraw": 0.68,
       "falloff": 1000,
@@ -220,7 +227,16 @@
         "grade": 1,
         "experimentalEffects": [],
         "canApplyExperimental": false,
-        "description": "This module has been pre-engineered with Grade 1 Overcharged and Focused modifications."
+        "description": "This module has been pre-engineered with Grade 1 Overcharged and Focused modifications.",
+        "modifiers": {
+          "power": 0.324,
+          "damage": 0.66,
+          "thermload": 0.50,
+          "piercing": 0.375,
+          "shotspeed": 4.0,
+          "clip": 0.333,
+          "breachdmg": 0.66
+        }
       },
       "name": "Plasma Charger (OC+Foc)",
       "piercing": 65,
@@ -229,13 +245,13 @@
       "rating": "D",
       "reload": 3,
       "shotspeed": 1200,
-      "thermload": 4.2,
+      "thermload": 4.21,
       "symbol": "Hpt_Guardian_PlasmaLauncher_Fixed_Small"
     },
     {
       "experimental": true,
       "ammo": 200,
-      "breachdmg": 0.7,
+      "breachdmg": 1.25,
       "breachmax": 0.8,
       "breachmin": 0.5,
       "class": 2,
@@ -243,7 +259,8 @@
       "cost": 0,
       "damage": 5,
       "damagedist": {
-        "A": 1
+        "A": 0.5,
+        "AX": 0.5
       },
       "distdraw": 1.25,
       "falloff": 1000,
@@ -260,16 +277,25 @@
         "grade": 1,
         "experimentalEffects": [],
         "canApplyExperimental": false,
-        "description": "This module has been pre-engineered with Grade 1 Overcharged and Focused modifications."
+        "description": "This module has been pre-engineered with Grade 1 Overcharged and Focused modifications.",
+        "modifiers": {
+          "power": 0.324,
+          "damage": 0.66,
+          "thermload": 0.50,
+          "piercing": 0.375,
+          "shotspeed": 4.0,
+          "clip": 0.333,
+          "breachdmg": 0.66
+        }
       },
       "name": "Plasma Charger (OC+Foc)",
       "piercing": 80,
       "power": 2.13,
-      "range": 3500,
+      "range": 3000,
       "rating": "B",
       "reload": 3,
       "shotspeed": 1200,
-      "thermload": 5.2,
+      "thermload": 5.21,
       "symbol": "Hpt_Guardian_PlasmaLauncher_Fixed_Medium"
     }
   ]

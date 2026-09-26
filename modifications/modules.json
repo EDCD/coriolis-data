@@ -459,6 +459,43 @@
             ]
           }
         }
+      },
+      "Weapon_PlasmaConversion": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "The Dweller",
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "The Dweller",
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "The Dweller",
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          }
+        }
       }
     },
     "modifications": [
@@ -2328,11 +2365,48 @@
             ]
           }
         }
+      },
+      "FuelScoop_ScoopRateEnhanced": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "Bill Turner",
+              "Lori Jameson",
+              "Marsha Hicks"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "Bill Turner",
+              "Lori Jameson",
+              "Marsha Hicks"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "Bill Turner",
+              "Lori Jameson",
+              "Marsha Hicks"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Lori Jameson",
+              "Marsha Hicks"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Marsha Hicks"
+            ]
+          }
+        }
       }
     },
     "modifications": [
       "integrity",
-      "power"
+      "power",
+      "rate"
     ]
   },
   "fsd": {
@@ -2960,6 +3034,7 @@
       }
     },
     "modifications": [
+      "hullboost",
       "hullreinforcement",
       "causres",
       "explres",
@@ -4168,6 +4243,13 @@
     "blueprints": {
     },
     "modifications": [
+      "integrity",
+      "power",
+      "damage",
+      "distdraw",
+      "thermload",
+      "range",
+      "falloff"
     ]
   },
   "mr": {
@@ -4726,6 +4808,9 @@
     "blueprints": {
     },
     "modifications": [
+      "mass",
+      "integrity",
+      "protection"
     ]
   },
   "nl": {
@@ -6021,6 +6106,43 @@
             "engineers": [
               "Broo Tarquin",
               "The Dweller",
+              "Mel Brandon"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          }
+        }
+      },
+      "Weapon_PlasmaConversion": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "The Dweller",
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "The Dweller",
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "The Dweller",
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Broo Tarquin",
               "Mel Brandon"
             ]
           },
@@ -8088,6 +8210,43 @@
             ]
           }
         }
+      },
+      "Weapon_PlasmaConversion": {
+        "grades": {
+          "1": {
+            "engineers": [
+              "The Dweller",
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "2": {
+            "engineers": [
+              "The Dweller",
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "3": {
+            "engineers": [
+              "The Dweller",
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "4": {
+            "engineers": [
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          },
+          "5": {
+            "engineers": [
+              "Broo Tarquin",
+              "Mel Brandon"
+            ]
+          }
+        }
       }
     },
     "modifications": [
@@ -8436,6 +8595,13 @@
     "blueprints": {
     },
     "modifications": [
+      "integrity",
+      "power",
+      "distdraw",
+      "thermload",
+      "range",
+      "shotspeed",
+      "falloff"
     ]
   },
   "mh": {
