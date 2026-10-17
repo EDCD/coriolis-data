@@ -4,6 +4,7 @@ module.exports = {
   alliance_chieftain: require('./alliance_chieftain').alliance_chieftain,
   alliance_crusader: require('./alliance_crusader').alliance_crusader,
   anaconda: require('./anaconda').anaconda,
+  anaconda2: require('./anaconda2').anaconda2,
   asp: require('./asp').asp,
   asp_scout: require('./asp_scout').asp_scout,
   beluga: require('./beluga').beluga,

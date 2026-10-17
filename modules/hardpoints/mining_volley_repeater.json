@@ -20,7 +20,7 @@
         "integrity": 61,
         "mass": 8,
         "mount": "F",
-        "ship": "type_11_prospector",
+        "ship": ["type_11_prospector", "anaconda2"],
         "piercing": 18,
         "power": 1.50,
         "range": 500,
