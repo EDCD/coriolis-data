@@ -185,7 +185,11 @@
           "class": 5,
           "name": "Fighter",
           "eligible": {
-            "fh": 1
+            "fh": 1,
+            "fhmkii": 1,
+            "lpv": 1,
+            "lpvmkii": 1,
+            "pv": 1
           }
         },
         4,

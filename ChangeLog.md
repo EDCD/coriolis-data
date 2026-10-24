@@ -1,6 +1,7 @@
 #4.1.9
   * Fixes to Operations updates
   * Anaconda MkII Added
+  * Anaconda MkII Changes to other ships
 #4.1.8
   * Add hullboost to HRPs so ship HP is reported correct when Lightweight is applied
 #4.1.7

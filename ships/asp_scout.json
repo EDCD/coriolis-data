@@ -7,8 +7,8 @@
       "manufacturer": "Lakon",
       "class": 2,
       "hullCost": 3819823,
-      "speed": 220,
-      "boost": 300,
+      "speed": 278,
+      "boost": 360,
       "minthrust": 50.0,
       "boostEnergy": 13,
       "boostInt": 4.5,
@@ -16,12 +16,12 @@
       "heatCapacity": 210,
       "baseArmour": 180,
       "hardness": 52,
-      "hullMass": 150,
+      "hullMass": 140,
       "masslock": 8,
       "pipSpeed": 0.125,
       "pitch": 40,
       "roll": 110,
-      "yaw": 15,
+      "yaw": 18,
       "crew": 2,
       "reserveFuelCapacity": 0.47
     },
@@ -114,6 +114,7 @@
         1,
         1,
         0,
+        0,
         0
       ],
       "internal": [
@@ -148,6 +149,7 @@
         0,
         17,
         17,
+        0,
         0,
         0
       ],
