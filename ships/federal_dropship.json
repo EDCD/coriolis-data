@@ -7,7 +7,7 @@
       "manufacturer": "Core Dynamics",
       "class": 2,
       "hullCost": 13510106,
-      "speed": 180,
+      "speed": 200,
       "boost": 300,
       "minthrust": 55.556,
       "boostEnergy": 19,
@@ -15,7 +15,7 @@
       "baseShieldStrength": 200,
       "baseArmour": 300,
       "hardness": 60,
-      "hullMass": 580,
+      "hullMass": 500,
       "heatCapacity": 331,
       "masslock": 14,
       "pipSpeed": 0.11111111111111,
@@ -124,6 +124,7 @@
       ],
       "internal": [
         6,
+        6,
         5,
         5,
         4,
@@ -189,6 +190,7 @@
       ],
       "internal": [
         "04",
+        0,
         "03",
         "4e",
         "02",

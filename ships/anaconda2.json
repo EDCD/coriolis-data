@@ -1,0 +1,251 @@
+{
+  "anaconda2": {
+    "edID": 129046025,
+    "properties": {
+      "name": "Anaconda Mk II",
+      "manufacturer": "Faulcon DeLacy",
+      "class": 3,
+      "hullCost": 372041780,
+      "speed": 190,
+      "boost": 250,
+      "minthrust": 44.444,
+      "boostEnergy": 27,
+      "boostInt": 6,
+      "baseShieldStrength": 450,
+      "baseArmour": 745,
+      "heatCapacity": 334,
+      "hardness": 65,
+      "hullMass": 940,
+      "masslock": 23,
+      "pipSpeed": 0.13888888888889,
+      "fighterHangars": true,
+      "vesselHangarsMkII": true,
+      "vehicleHangarsMkII": true,
+      "pitch": 27,
+      "roll": 65,
+      "yaw": 14,
+      "crew": 4,
+      "reserveFuelCapacity": 1.08
+    },
+    "retailCost": 384958850,
+    "bulkheads": [
+      {
+        "id": "bT",
+        "edID": 129046028,
+        "grp": "bh",
+        "cost": 0,
+        "mass": 0,
+        "causres": 0,
+        "explres": -0.4,
+        "kinres": -0.2,
+        "thermres": 0,
+        "hullboost": 0.8,
+        "name": "Lightweight Alloy"
+      },
+      {
+        "id": "ba",
+        "edID": 129046027,
+        "grp": "bh",
+        "cost": 19247940,
+        "mass": 15,
+        "causres": 0,
+        "explres": -0.4,
+        "kinres": -0.2,
+        "thermres": 0,
+        "hullboost": 0.8,
+        "name": "Mk II Ablative Lightweight",
+        "symbol": "AnacondaMkII_Armour_Grade1"
+      },
+      {
+        "id": "bb",
+        "edID": 129046029,
+        "grp": "bh",
+        "cost": 153983540,
+        "mass": 30,
+        "causres": 0,
+        "explres": -0.4,
+        "kinres": -0.2,
+        "thermres": 0,
+        "hullboost": 1.52,
+        "name": "Mk II Ablative Reinforced",
+        "symbol": "AnacondaMkII_Armour_Grade2"
+      },
+      {
+        "id": "bc",
+        "edID": 129046030,
+        "grp": "bh",
+        "cost": 346462970,
+        "mass": 60,
+        "causres": 0,
+        "explres": -0.4,
+        "kinres": -0.2,
+        "thermres": 0,
+        "hullboost": 2.5,
+        "name": "Mk II Ablative Military Grade",
+        "symbol": "AnacondaMkII_Armour_Grade3"
+      },
+      {
+        "id": "bd",
+        "edID": 129046031,
+        "grp": "bh",
+        "cost": 818807470,
+        "mass": 60,
+        "causres": 0,
+        "explres": -0.5,
+        "kinres": -0.75,
+        "thermres": 0.5,
+        "hullboost": 2.5,
+        "name": "Mk II Ablative Mirrored",
+        "symbol": "AnacondaMkII_Armour_Mirrored"
+      },
+      {
+        "id": "be",
+        "edID": 129046032,
+        "grp": "bh",
+        "cost": 907348010,
+        "mass": 60,
+        "causres": 0,
+        "explres": 0.2,
+        "kinres": 0.25,
+        "thermres": -0.4,
+        "hullboost": 2.5,
+        "name": "Mk II Ablative Reactive",
+        "symbol": "AnacondaMkII_Armour_Reactive"
+      }
+    ],
+    "slots": {
+      "standard": [
+        8,
+        7,
+        8,
+        5,
+        8,
+        8,
+        6
+      ],
+      "hardpoints": [
+        4,
+        3,
+        3,
+        {
+          "class": 3,
+          "mvr": true
+        },
+        {
+          "class": 3,
+          "mvr": true
+        },
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "internal": [
+        8,
+        7,
+        7,
+        {
+          "class": 6,
+          "name": "Cargo",
+          "eligible": {
+            "cr": 1,
+            "crl": 1,
+            "ft": 1
+          }
+        },
+        5,
+        5,
+        5,
+        {
+          "class": 5,
+          "name": "Military",
+          "eligible": {
+            "mahr": 1,
+            "hr": 1,
+            "scb": 1,
+            "mrp": 1,
+            "gsrp": 1,
+            "gmrp": 1,
+            "ghrp": 1
+          }
+        },
+        {
+          "class": 5,
+          "name": "Military",
+          "eligible": {
+            "mahr": 1,
+            "hr": 1,
+            "scb": 1,
+            "mrp": 1,
+            "gsrp": 1,
+            "gmrp": 1,
+            "ghrp": 1
+          }
+        },
+        4,
+        4,
+        3,
+        2,
+        1,
+        {
+          "class": 1,
+          "name": "PlanetaryApproachSuite",
+          "eligible": {
+            "pas": 1
+          }
+        }
+      ]
+    },
+    "defaults": {
+      "standard": [
+        "8E",
+        "7E",
+        "6P",
+        "5E",
+        "8E",
+        "8E",
+        "6C"
+      ],
+      "hardpoints": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        17,
+        17,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "internal": [
+        "06",
+        "4o",
+        "05",
+        0,
+        "03",
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "3w",
+        "3x",
+        "4F"
+      ]
+    }
+  }
+}

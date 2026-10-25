@@ -1,6 +1,21 @@
 {
   "crl": [
     {
+      "cargo": 96,
+      "class": 6,
+      "cost": 515440,
+      "edID": 129051593,
+      "grp": "crl",
+      "id": "8T",
+      "rating": "D",
+      "mass": 0,
+      "name": "MkII Cargo Rack",
+      "symbol": "Int_LargeCargoRack_Size6_Class1",
+      "ukName": "Mk II Cargo Rack",
+      "ukDiscript": "MkII storage rack for use in automated cargo transfer system.",
+      "restriction": "Cargo"
+    },
+    {
       "cargo": 192,
       "class": 7,
       "cost": 1958680,

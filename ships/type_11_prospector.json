@@ -20,6 +20,7 @@
       "pipSpeed": 0.17307692307692,
       "fighterHangars": true,
       "vesselHangarsMkII": true,
+      "vehicleHangarsMkII": true,
       "pitch": 25,
       "roll": 37.5,
       "yaw": 22,
@@ -184,7 +185,11 @@
           "class": 5,
           "name": "Fighter",
           "eligible": {
-            "fh": 1
+            "fh": 1,
+            "fhmkii": 1,
+            "lpv": 1,
+            "lpvmkii": 1,
+            "pv": 1
           }
         },
         4,

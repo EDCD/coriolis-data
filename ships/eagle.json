@@ -12,7 +12,7 @@
       "minthrust": 75.0,
       "boostEnergy": 8,
       "boostInt": 4.5,
-      "baseShieldStrength": 60,
+      "baseShieldStrength": 80,
       "baseArmour": 40,
       "hardness": 28,
       "hullMass": 50,

@@ -24,7 +24,8 @@
       "crew": 4,
       "reserveFuelCapacity": 1.16,
       "fighterHangars": true,
-      "vesselHangarsMkII": true
+      "vesselHangarsMkII": true,
+      "vehicleHangarsMkII": true
     },
     "retailCost": 301348586,
     "bulkheads": [
