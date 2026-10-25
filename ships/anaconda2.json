@@ -1,17 +1,17 @@
 {
   "anaconda2": {
-    "edID": 129046027,
+    "edID": 129046025,
     "properties": {
       "name": "Anaconda Mk II",
       "manufacturer": "Faulcon DeLacy",
       "class": 3,
-      "hullCost": 142456440,
-      "speed": 185,
-      "boost": 243,
+      "hullCost": 372041780,
+      "speed": 190,
+      "boost": 250,
       "minthrust": 44.444,
       "boostEnergy": 27,
       "boostInt": 6,
-      "baseShieldStrength": 300,
+      "baseShieldStrength": 450,
       "baseArmour": 745,
       "heatCapacity": 334,
       "hardness": 65,
@@ -21,13 +21,13 @@
       "fighterHangars": true,
       "vesselHangarsMkII": true,
       "vehicleHangarsMkII": true,
-      "pitch": 25,
-      "roll": 60,
-      "yaw": 10,
+      "pitch": 27,
+      "roll": 65,
+      "yaw": 14,
       "crew": 4,
-      "reserveFuelCapacity": 1.07
+      "reserveFuelCapacity": 1.08
     },
-    "retailCost": 146969451,
+    "retailCost": 384958850,
     "bulkheads": [
       {
         "id": "bT",
@@ -43,76 +43,24 @@
         "name": "Lightweight Alloy"
       },
       {
-        "id": "bU",
-        "edID": 129046029,
-        "grp": "bh",
-        "cost": 135120557,
-        "mass": 30,
-        "causres": 0,
-        "explres": -0.4,
-        "kinres": -0.2,
-        "thermres": 0,
-        "hullboost": 1.52,
-        "name": "Reinforced Alloy"
-      },
-      {
-        "id": "bV",
-        "edID": 129046030,
-        "grp": "bh",
-        "cost": 304021253,
-        "mass": 60,
-        "causres": 0,
-        "explres": -0.4,
-        "kinres": -0.2,
-        "thermres": 0,
-        "hullboost": 2.5,
-        "name": "Military Grade Composite"
-      },
-      {
-        "id": "bW",
-        "edID": 129046031,
-        "grp": "bh",
-        "cost": 718503558,
-        "mass": 60,
-        "causres": 0,
-        "explres": -0.5,
-        "kinres": -0.75,
-        "thermres": 0.5,
-        "hullboost": 2.5,
-        "name": "Mirrored Surface Composite"
-      },
-      {
-        "id": "bX",
-        "edID": 129046032,
-        "grp": "bh",
-        "cost": 796197879,
-        "mass": 60,
-        "causres": 0,
-        "explres": 0.2,
-        "kinres": 0.25,
-        "thermres": -0.4,
-        "hullboost": 2.5,
-        "name": "Reactive Surface Composite"
-      },
-      {
         "id": "ba",
-        "edID": null,
+        "edID": 129046027,
         "grp": "bh",
-        "cost": 0,
-        "mass": 0,
+        "cost": 19247940,
+        "mass": 15,
         "causres": 0,
         "explres": -0.4,
         "kinres": -0.2,
         "thermres": 0,
         "hullboost": 0.8,
         "name": "Mk II Ablative Lightweight",
-        "symbol": "TODO_Anaconda_MkII_Armour_Ablative_Grade1"
+        "symbol": "AnacondaMkII_Armour_Grade1"
       },
       {
         "id": "bb",
-        "edID": null,
+        "edID": 129046029,
         "grp": "bh",
-        "cost": 0,
+        "cost": 153983540,
         "mass": 30,
         "causres": 0,
         "explres": -0.4,
@@ -120,13 +68,13 @@
         "thermres": 0,
         "hullboost": 1.52,
         "name": "Mk II Ablative Reinforced",
-        "symbol": "TODO_Anaconda_MkII_Armour_Ablative_Grade2"
+        "symbol": "AnacondaMkII_Armour_Grade2"
       },
       {
         "id": "bc",
-        "edID": null,
+        "edID": 129046030,
         "grp": "bh",
-        "cost": 0,
+        "cost": 346462970,
         "mass": 60,
         "causres": 0,
         "explres": -0.4,
@@ -134,13 +82,13 @@
         "thermres": 0,
         "hullboost": 2.5,
         "name": "Mk II Ablative Military Grade",
-        "symbol": "TODO_Anaconda_MkII_Armour_Ablative_Grade3"
+        "symbol": "AnacondaMkII_Armour_Grade3"
       },
       {
         "id": "bd",
-        "edID": null,
+        "edID": 129046031,
         "grp": "bh",
-        "cost": 0,
+        "cost": 818807470,
         "mass": 60,
         "causres": 0,
         "explres": -0.5,
@@ -148,13 +96,13 @@
         "thermres": 0.5,
         "hullboost": 2.5,
         "name": "Mk II Ablative Mirrored",
-        "symbol": "TODO_Anaconda_MkII_Armour_Ablative_Mirrored"
+        "symbol": "AnacondaMkII_Armour_Mirrored"
       },
       {
         "id": "be",
-        "edID": null,
+        "edID": 129046032,
         "grp": "bh",
-        "cost": 0,
+        "cost": 907348010,
         "mass": 60,
         "causres": 0,
         "explres": 0.2,
@@ -162,7 +110,7 @@
         "thermres": -0.4,
         "hullboost": 2.5,
         "name": "Mk II Ablative Reactive",
-        "symbol": "TODO_Anaconda_MkII_Armour_Ablative_Reactive"
+        "symbol": "AnacondaMkII_Armour_Reactive"
       }
     ],
     "slots": {
